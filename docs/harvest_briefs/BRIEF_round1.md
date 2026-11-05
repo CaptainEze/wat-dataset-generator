@@ -1,7 +1,7 @@
 # WAT dataset harvest: shared brief for all agents
 
 ## Project
-Masters thesis: predict crude oil wax appearance temperature (WAT) with machine learning from bulk properties only (density or API gravity, kinematic viscosity at 40 C, pour point, wax content). We are building the first open, multi-method, sourced WAT dataset. How the dataset is built will be written up as a documented method for standardising WAT datasets, so every step must be recorded.
+Project goal: predict crude oil wax appearance temperature (WAT) with machine learning from bulk properties only (density or API gravity, kinematic viscosity at 40 C, pour point, wax content). We are building the first open, multi-method, sourced WAT dataset. How the dataset is built will be written up as a documented method for standardising WAT datasets, so every step must be recorded.
 
 Only publicly available data is allowed. Do not plan around paywalls, private data or company-only files.
 

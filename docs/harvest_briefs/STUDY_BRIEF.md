@@ -1,7 +1,7 @@
 # WAT knowledge study: shared brief for all agents
 
 ## Project
-Masters thesis (University of Port Harcourt): predict crude oil wax appearance temperature (WAT) with machine learning from bulk properties only (API or density, pour point, wax content, kinematic viscosity at 40 C). We have a hand-built dataset of real measurements (master_v9.csv here: 347 rows, about 150 usable with all three main inputs). Real data is scarce. We now want a FRAMEWORK THAT GENERATES PHYSICALLY CONSISTENT SYNTHETIC DATAPOINTS from published models, correlations and quantitative facts, so models can be pre-trained on synthetic data and then trained and tested on the real data. Your job is to supply the knowledge the generator needs, with sources.
+Project goal: predict crude oil wax appearance temperature (WAT) with machine learning from bulk properties only (API or density, pour point, wax content, kinematic viscosity at 40 C). We have a hand-built dataset of real measurements (master_v9.csv here: 347 rows, about 150 usable with all three main inputs). Real data is scarce. We now want a FRAMEWORK THAT GENERATES PHYSICALLY CONSISTENT SYNTHETIC DATAPOINTS from published models, correlations and quantitative facts, so models can be pre-trained on synthetic data and then trained and tested on the real data. Your job is to supply the knowledge the generator needs, with sources.
 
 Base folder: /tmp/claude-0/-home-claude/5f0b162a-a33b-58cc-b1df-d50361861eed/scratchpad/study/
 Useful local files (read them, do not edit): master_v9.csv (real data, columns include source and source_url), source_inventory.csv (724 sources opened earlier, with status), ../harvest/merged/harvest_source_log_all.csv.

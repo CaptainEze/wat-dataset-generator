@@ -14,4 +14,4 @@ Six agents looked outside academia for commercial crude quality documents: regul
 - R171 Iracema moved to tier P: the page uses Fahrenheit for other fields, so "wax appearance 23.84" may be F.
 
 ## KG-D6 within-field spread
-WAT 18.4, 21.7, 20.4, 18.5 C (later 21.9 C) across assay dates, same method: a real-world estimate of repeat noise for decision D3.
+WAT 18.4, 21.7, 20.4, 18.5 C (later 21.9 C) across assay dates, same method: a real-world estimate of repeat noise.

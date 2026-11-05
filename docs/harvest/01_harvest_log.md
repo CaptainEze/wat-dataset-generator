@@ -12,13 +12,13 @@
 1. A shared brief fixed the columns, units, tiers, controlled WAT method vocabulary and extraction rules (copy only stated values; no inference; one row per oil and method pair; plausibility flags; censored values marked).
 2. Eight agents searched in parallel by territory: West and Central Africa, North Sea and Europe, Middle East and North Africa and Central Asia, Asia-Pacific, the Americas, open repositories and compilation papers, method-comparison studies, and crude-type balance. Each wrote its own rows file and a source log, never the master.
 3. Every source opened was logged with a status. Round 2 log: 422 entries, 340 unique URLs. By best status per URL: no WAT in source 137, unreachable 79, duplicate 39, rejected 39, extracted 34, image table 12.
-4. Merge: 146 new rows. 11 cross-agent duplicates removed. 4 master tier C rows upgraded to their primary papers (Mt McKyle; Nigeria A, B, C). 4 Khalda rows held as pending because two readers got different table values. Ranges entered as midpoints (rule to confirm with Patrick).
+4. Merge: 146 new rows. 11 cross-agent duplicates removed. 4 master tier C rows upgraded to their primary papers (Mt McKyle; Nigeria A, B, C). 4 Khalda rows held as pending because two readers got different table values. Ranges entered as midpoints (rule still to be confirmed).
 5. Independent double entry: 51 rows from 33 sources were re-read blind by separate checkers who were not shown the first values. 195 field comparisons: 175 agreed. 2 differed only by cooling rate chosen (Libya DSC at 1 and 3 K/min). 18 were blanks on one side: 8 densities the first reader had missed (now filled), 6 about what counts as wax or pour (n-alkanes by GC is not total wax; censored pour below -24 C), and 4 about whether a printed range or 'waxing point' is a WAT. No transcription typos were found. Checkers read pages through a fetch tool that summarises text, so values are one step removed from the PDFs; a spot check against PDFs is still advisable. Only 51 of the 135 new or upgraded rows were checked; the rest are marked not_checked.
 
 ## Main cautions
 - Benamara et al. (59 Algerian crudes) supplies 59 of the 113 core3 oils. Fields are not named, density is at 20 C, WAT came from a rotational pour point tester (torque slope change), and the source has no API or viscosity. Report results with and without it. One row in the source has a freezing point above its pour point, probably a typo.
 - Viscosity at 40 C is present in only 24 usable rows, so a viscosity-free model should be the main one.
-- Density temperature varies (76 rows at 20 C, others at 15, 40 or 80 C, three unknown). Harmonisation rule needs Patrick.
+- Density temperature varies (76 rows at 20 C, others at 15, 40 or 80 C, three unknown). A harmonisation rule is still to be decided.
 - Oliveira 2018 (9 Brazilian oils): wax column is the GC n-alkane sum, a proxy, flagged.
 - Method labels still hold free text in many rows and must be collapsed to a controlled list before modelling.
 - Plausibility flags (WAT minus pour above 40 C or below 0): 11 rows kept for the cleaning step.
@@ -36,7 +36,7 @@
 - Energies 2019 12(6):967 (WAT by region table is an image); Alcazar-Vara 2011 and Coto 2014 (primaries for Mexico and South America rows).
 - PMC pages behind a robot check: PMC9161395, PMC13425321, PMC8506093, PMC12878762.
 
-## Open decisions for Patrick
+## Open decisions
 - Harmonising density and viscosity measured at non-standard temperatures to a common basis.
 - Whether tier C rows, lab blends (BZ25-1), censored pour points and the Benamara torque-slope method stay in training.
 - A WAT given as a range: midpoint (current) or exclude.

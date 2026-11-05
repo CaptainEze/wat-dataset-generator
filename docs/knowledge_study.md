@@ -1,6 +1,6 @@
 # WAT knowledge study and synthetic datapoint framework
 
-Working notes, not a thesis chapter. Everything here is traceable to a file in this folder.
+Working notes. Everything here is traceable to a file in this folder.
 
 ## 1. What was gathered (knowledge/)
 
