@@ -1,0 +1,52 @@
+source_id,url,title,year,type,status,rows_added,reason
+S01,https://link.springer.com/article/10.1007/s13202-019-00779-2,"Struchkov et al., temperature and dilution effect on rheology of waxy crude oil",2019,paper,no_wat,0,"Petrukhnovskoe WAT 63 C is high pressure, no API or density given."
+S02,https://utpedia.utp.edu.my/id/eprint/14600/,"Nordin, WAT and WDT for light and heavy crude oils (abstract page)",2014,thesis,duplicate,0,Same dissertation as S04 which was extracted.
+S03,https://www.vurup.sk//wp-content/uploads/dlm_uploads/2017/07/pc_1_2016_onojake_443.pdf,"Onojake and Ndubuka, Nigerian bitumen bulk properties",2016,paper,no_wat,0,Bitumen table has API and cloud point but no WAT or wax.
+S04,http://utpedia.utp.edu.my/14600/1/FINAL%20DISSERTATION.pdf,"Nordin, WAT and WDT for light and heavy crude oils",2014,thesis,extracted,5,"Five oils with API and rheometer WAT, two light and three heavy."
+S05,https://www.mdpi.com/1996-1073/12/6/967,"El-Dalatony et al., paraffin wax in wells and pipelines review",2019,review,image_table,0,Tables 1 to 3 are images.
+S06,https://link.springer.com/10.1038/s41598-018-37799-7,n-alkane model oil NMR and DSC study,2019,paper,rejected,0,"Model alkane mixtures, no crude oils."
+S07,https://www.researchgate.net/figure/Wax-contents-API-gravity-WAT-and-pour-point-values-of-waxy-crude-oil-from-diverse_tbl2_331738867,El-Dalatony 2019 Table 2 figure page,2019,review,unreachable,0,Table values not shown on page; open the MDPI HTML table in a browser.
+S08,https://www.sciencedirect.com/science/article/pii/S092041051830439X,WAT of different origin crude oils by DSC (J Pet Sci Eng),2018,paper,unreachable,0,"Fetch failed; lead for different-origin crudes, try open.metu.edu.tr/handle/11511/48303."
+S09,https://www.academia.edu/126045854/Characterization_of_the_wax_precipitation_in_Mexican_crude_oils,Characterization of wax precipitation in Mexican crude oils,2011,paper,unreachable,0,Fetch failed; Mexican oils may be covered by another agent.
+S10,https://rcastoragev2.blob.core.windows.net/838477d83f78a7ffaab73a94d1002eec/ao1c07174.PMC8908777.pdf,"Li et al., water-in-model waxy oil emulsions, ACS Omega",2022,paper,rejected,0,"Model oil made with xylene, wax and asphaltene."
+S11,https://psecommunity.org/wp-content/plugins/wpor/includes/file/2302/LAPSE-2023.9977-1v1.pdf,"Cao et al., Dabei condensate wax deposition, Energies 15:6200",2022,paper,duplicate,0,Dabei A and B already in master; no API or density.
+S12,https://es.scribd.com/document/266167366/SPE-54006-MS,SPE 54006 (Scribd copy),1999,paper,unreachable,0,Fetch denied by the tool permission check; not retried.
+S13,https://www.scribd.com/document/637099169/Untitled,Scribd Petroleum Science document,2023,unknown,unreachable,0,"Landing page only, text gated."
+S14,https://core.ac.uk/download/235042882.pdf,"Abdurrahman et al., wax control in Indonesian oil fields",2018,paper,no_wat,0,"Table has wax and pour point only, no WAT or API."
+S15,https://www.vurup.sk/na_stiahnutie/characterisation-malaysian-waxy-crude-oils/,"Sharma et al., Characterisation of Malaysian waxy crude oils",2016,paper,duplicate,0,"PN01, PT03, SP01 already in master."
+S16,https://science.lpnu.ua/sites/default/files/journal-paper/2025/jan/37826/fulltext1332.pdf,"Topilnytskyy et al., high waxy oil review",2024,review,no_wat,0,No per-crude WAT or API.
+S17,https://ir.uitm.edu.my/125616/1/125616.pdf,"Kamisan and Hussin, aging and critical carbon number",,thesis,duplicate,0,Kerteh crude already in master as R50.
+S18,https://www.cup.edu.cn/petroleumscience/docs/2023-03/d40f02f7fd334a0f8431d203374735bf.pdf,"Lei et al., asphaltenes-wax interaction",2023,paper,extracted,1,"One light waxy oil with WAT 40 C, density at 20 C only so tier P."
+S19,https://cup.edu.cn/petroleumscience/docs/2024-08/unpub_484a6a1069724f67970048b90c4828cc.pdf,"Hu et al., molecular dynamics asphaltene-wax heavy oil",2024,paper,rejected,0,"Simulation only, no measured crude."
+S20,https://pmc.ncbi.nlm.nih.gov/articles/PMC12019450/,"Huang et al., oil components and wax deposition of heavy oil",2025,paper,extracted,1,"Heavy oil, WAT 23.6 C DSC, density at 20 C only so tier P."
+S21,https://pmc.ncbi.nlm.nih.gov/articles/PMC13425321/,Water-in-oil waxy crude emulsion gelling,,paper,unreachable,0,PMC returned a browser check page; open in a browser.
+S22,https://pmc.ncbi.nlm.nih.gov/articles/PMC9161395/,Rheo-optic in situ measurement of waxy crude rheology,2022,paper,unreachable,0,PMC returned a browser check page; open in a browser.
+S23,https://journals.aun.edu.ng/index.php/files/article/download/192/186/920,"Usman et al., paraffin wax precipitation review",2025,review,duplicate,0,Table repeats Nigerian and South American oils already in master.
+S24,https://www.redalyc.org/journal/5722/572278419007/572278419007.pdf,"Cabrera-Escobar et al., CFD of heavy crude pumping Ecuador",2024,paper,no_wat,0,17.5 API heavy oil but no wax or WAT.
+S25,https://ogj.com/home/article/17217052/technology-guide-to-world-crudes-colombias-new-light-sweet-cusiana-crude-assayed,OGJ Cusiana crude assay,1995,assay,no_wat,0,Whole crude has no WAT or wax value.
+S26,https://core.ac.uk/download/322410851.pdf,"Taiwo et al., Niger Delta waxy crude transportation chapter",2012,book chapter,duplicate,0,Samples I and II already in master as nd_taiwo.
+S27,https://publikasi.mercubuana.ac.id/index.php/sinergi/article/download/36112/12744/115603,"Wahab et al., detection methods for asphalt and wax deposition review",2026,review,no_wat,0,General WAT range only.
+S28,https://core.ac.uk/download/322440921.pdf,"Chrisman et al., wax in Brazilian crude oils, IntechOpen",2019,book chapter,no_wat,0,Only P2 WAT 42.1 C given in text; density in unreadable Table 3. Lead for P1-P4.
+S29,https://pubs.acs.org/acsodf/article/11/4/5051/5077752/Experimental-Determination-of-Wax-Appearance,WAT of Brazilian pre-salt by HPuDSC,2026,paper,unreachable,0,Fetch failed; would be live or pressure data (tier X) anyway.
+S30,https://www.paclp.com/tenants/pac/documents/Phase-Technology-White-Paper-WAT-of-Crude-Oils.pdf,Phase Technology white paper on WAT of crude oils,,vendor note,no_wat,0,Only Arabian Medium WAT in a figure with no API or wax.
+S31,https://www.netl.doe.gov/sites/default/files/2018-05/BC15150_Final.pdf,DOE/Univ Tulsa paraffin deposition report BC15150,,report,extracted,1,"South Pelto added as tier X; Cote Blanche, Garden Banks, Caratinga already in master."
+S32,https://www.mdpi.com/1996-1073/16/1/406,"Sousa et al., methane, CO2 and fatty acids with waxy crudes",2023,paper,image_table,0,Seventeen Brazilian waxy oils but API and WAT tables not in text.
+S33,https://proceedings.aiche.org/conferences/aiche-annual-meeting/2019/proceeding/paper/155e-use-thermal-analysis-and-rheometry-study-properties-crude-oil,"AIChE 2019, thermal analysis and rheometry of four light crudes",2019,abstract,no_wat,0,Abstract has no numbers.
+S34,https://trading.totalenergies.com/wp-content/uploads/2025/11/CONDENSATE-SNOHVIT.pdf,TotalEnergies Snohvit condensate data sheet,2020,assay,no_wat,0,WAT field blank.
+S35,https://trading.totalenergies.com/wp-content/uploads/2025/11/CONDENSATE-ICHTHYS.pdf,TotalEnergies Ichthys condensate data sheet,,assay,no_wat,0,WAT and wax fields blank.
+S36,https://trading.totalenergies.com/wp-content/uploads/2025/11/CONDENSATE-BONTANG-RETURN.pdf,TotalEnergies Bontang return condensate data sheet,1997,assay,no_wat,0,"WAT blank, wax under 0.01 wt percent."
+S37,https://www.osti.gov/servlets/purl/963363,"Zhu et al., wax deposition in Alaska North Slope oils, DOE final report",2008,report,no_wat,0,"Excerpt lacks per-sample tables; lead, WAT up to 40.6 C by CPM."
+S38,https://factpages.sodir.no/pbl/geochemical_pdfs/1512_2.pdf,"IKU, separator samples well 2/7-19R",1991,report,extracted,1,"Light oil cloud point about 60 C from earlier study, tier P."
+S39,https://factpages.sodir.no/pbl/wellbore_documents/72_03_Wax_analysis_of_condensate_DST_no_2B.pdf,"Wax analysis of condensate DST 2B, well 30/2-1",,report,duplicate,0,Already in master as no_30_2_1.
+S40,https://pmc.ncbi.nlm.nih.gov/articles/PMC9609069/table/tbl1,PMC9609069 Table 1,,paper,unreachable,0,PMC returned a browser check page.
+S41,https://www.syzt.com.cn/en/article/Y2025/I1/108,"Chen et al., wax content and phase behaviour in condensate gas reservoirs",2025,paper,no_wat,0,No numbers in abstract page.
+S42,https://journal.hep.com.cn/petroleum/EN/PDF/10.1016/j.petlm.2025.07.009,Role of resins in crude oil rheology review,2025,review,unreachable,0,"Redirect to a download link not followed; review, low value."
+S43,https://repository.sustech.edu/jspui/bitstream/123456789/16733/1/Physico-Chemical%20Evaluation..pdf,"Elhassan and Allah, Dar Petroleum crude blend",2014,paper,no_wat,0,Sudan crudes with wax and pour point but no WAT.
+S44,https://pmc.ncbi.nlm.nih.gov/articles/PMC12878762,WAT of Brazilian pre-salt petroleum by HPuDSC (ACS Omega),2026,paper,unreachable,0,PMC browser check page; live or pressure data would be tier X anyway.
+S45,https://www.intechopen.com/chapters/65319,"Chrisman et al., Brazilian crude wax chapter (landing page)",2019,book chapter,image_table,0,Table 3 with API and density is an image; P2 WAT 42.1 C only.
+S46,https://ogst.ifpenergiesnouvelles.fr/articles/ogst/full_html/2019/01/ogst180308/ogst180308.html,"Kozhabekov et al., South Turgai waxy oils with PPD",2019,paper,no_wat,0,Table 1 values not in text and no WAT given.
+S47,https://journals.uran.ua/eejet/article/download/306971/298640/710194,"Sarsenova et al., paraffin deposition model Kazakh crude",2024,paper,rejected,0,"Field not named, no density or API, WAT only from model comparison."
+S48,https://etasr.com/index.php/ETASR/article/view/9644,"Khussainova et al., wax melting point correlations Kazakh oils",2025,paper,no_wat,0,"Melting point not WAT, no values in abstract page."
+S49,https://www.bsee.gov/sites/bsee.gov/files/osrr-oil-spill-response-research/120cc.pdf,"Jokuty et al., new method for wax content of crude oils",1996,paper,no_wat,0,"Density, wax and pour point for 5 oils but no WAT."
+S50,https://www.ijitee.org/wp-content/uploads/papers/v8i4s/DS2849028419.pdf,"Lim and Mohammed, paraffin and asphaltene precipitation, heavy oil",2019,paper,no_wat,0,Two heavy oils with WAT but no API or density; Specimen B is a 3:1 blend.
+S51,https://ph02.tci-thaijo.org/index.php/MIJEEC/article/download/246281/167091/872143,"Waxy crude oil review, Maejo IJEEC, Table 1",2021,review,duplicate,0,Secondary table; oils already in master or no density.

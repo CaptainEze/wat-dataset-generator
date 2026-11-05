@@ -1,0 +1,15 @@
+WebSearch: Oando OML 125 crude oil assay wax content pour point Qua Iboe Ebendo Akepo
+WebSearch: Nigerian crude oil wax appearance temperature NPDC Oredo Ogini Okono pour point wax content
+WebSearch: "wax appearance temperature" Nigerian crude Ebendo OR Umusadege OR Ogbele OR "Nembe Creek" OR Kokori OR Batan
+https://api.openalex.org/works?search=wax%20appearance%20temperature%20Nigeria%20crude&per-page=50 (page 1 only; worked, 1039 hits)
+https://api.crossref.org/works?query=wax+appearance+temperature+Nigerian+crude+oil&rows=50 (worked)
+OPEN LEADS from OpenAlex/Crossref, not yet read (rate limit hit):
+https://srcpublishers.com/oil-petroleum-and-natural-gas-re/article/download/6005/7272 (Non-uniformity of WAT of crude in Nigeria, 2025)
+http://article.sciencepg.com/pdf/j.jeece.20251002.13 (Phase transformation waxy crude Niger Delta, 2025)
+https://iarjset.com/wp-content/uploads/2018/12/IARJSET.2018.5121.pdf (Wax precipitation at different locations of Nigerian production line)
+https://api.intechopen.com/chapter/pdf-download/32409.pdf (Crude oil transportation: Niger Delta waxy crude, 2012)
+https://doi.org/10.20431/2454-7980.0301005 (Nigerian waxy crude rheological models 2017)
+https://link.springer.com/content/pdf/10.1007/s13202-020-00885-6.pdf (poly ethylene-butene, Nigerian crude)
+https://www.ajol.info/index.php/njtd/article/download/226272/213536 (Wax precipitation and deposition risk, 2022)
+https://article.sciencepublishinggroup.com/pdf/10.11648.j.ogce.20210901.12.pdf (WAT prediction in petroleum fluids)
+SPE papers (paywalled): 212026-MS, 203618-MS, 128600-MS, 88963-MS, 234951-MS

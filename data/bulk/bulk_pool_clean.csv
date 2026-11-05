@@ -1,0 +1,375 @@
+name,group,country,api15,density15,visc40_cSt,pour_c,wax_wt_pct,wax_method,sulphur,has_wat,n_records,source,notes
+Medanito,medanito,Argentina,42.0,815.3,3.244,-18.0,6.7,UOP46,,True,1,master_v9:R01,"pour point method ""D5853 max"" (may be an upper bound)"
+MJ-N4A wellhead crude,mjn4a,India (KG-D6),43.0,810.5,1.914,9.0,6.8,not stated,,True,1,master_v9:R02,
+KG-D6 stabilised condensate,kgd6_condensate,India (KG-D6),45.93,797.1,1.485,6.0,7.0,not stated,,True,1,master_v9:R03,
+Das Blend,das_blend,UAE,39.043,829.3,,-6.0,,,,True,1,master_v9:R04,API computed from density15 (API MPMS 11.1-2004)
+Brent,brent,North Sea,38.142,833.7,,0.0,,,,True,1,master_v9:R05,API computed from density15 (API MPMS 11.1-2004)
+Cote Blanche Island,cote_blanche,USA (Louisiana),24.0,910.0,,6.7,6.3,C20+ cut,,True,3,master_v9:R06 | master_v9:R07 | master_v9:R08,
+Caratinga,caratinga,Brazil,,,,,3.85,not stated,,True,2,master_v9:R09 | master_v9:R10,
+Garden Banks condensate,garden_banks,USA (GoM),42.0,815.178,,,0.5,not stated,,True,2,master_v9:R11 | master_v9:R169,density15 computed from API (API MPMS 11.1-2004) | merged records differ: wax_wt_pct spread 1.4
+Natural crude B,us9181491_B,unspecified,29.8,876.773,,-6.0,,,,True,1,master_v9:R12,density15 computed from API (API MPMS 11.1-2004)
+Natural crude D,us9181491_D,unspecified,13.0,978.624,,-1.0,,,,True,1,master_v9:R13,density15 computed from API (API MPMS 11.1-2004)
+Angsi,angsi,Malaysia,42.6,812.4,7.714,30.0,2.0,not stated,,True,1,master_v9:R14,
+Bunga Kekwa,bunga_kekwa,Malaysia,21.3,925.5,14.52,36.0,20.2,not stated,,True,1,master_v9:R15,
+Dulang,dulang,Malaysia,12.6,981.4,30.56,33.0,3.0,not stated,,True,1,master_v9:R16,
+Penara,penara,Malaysia,22.8,916.5,37.5,36.0,18.0,not stated,,True,2,master_v9:R17 | master_v9:R18,merged records differ: pour_c spread 23.2
+Tapis,tapis,Malaysia,44.5,803.6,3.831,18.0,1.0,not stated,,True,1,master_v9:R19,
+Kumkol,kumkol,Kazakhstan,43.024,810.4,4.4,12.0,13.3,GOST 11858 paraffin,,True,2,master_v9:R20 | master_v9:R21,API computed from density15 (API MPMS 11.1-2004)
+Akshabulak,akshabulak,Kazakhstan,38.96,829.7,4.9,21.0,15.4,GOST 11858 paraffin,,True,1,master_v9:R22,API computed from density15 (API MPMS 11.1-2004)
+Uzen,uzen,Kazakhstan,35.18,848.5,29.0,27.0,22.6,GOST 11858 paraffin,,True,2,master_v9:R23 | master_v9:R24,API computed from density15 (API MPMS 11.1-2004)
+Lankrabue,lankrabue,Thailand,29.391,879.0,,37.1,23.92,not stated,,True,1,master_v9:R25,API computed from density15 (API MPMS 11.1-2004)
+U-thong,u_thong,Thailand,33.911,855.0,,35.7,21.82,not stated,,True,1,master_v9:R26,API computed from density15 (API MPMS 11.1-2004)
+Fang,fang,Thailand,35.673,846.0,,31.1,20.13,not stated,,True,1,master_v9:R27,API computed from density15 (API MPMS 11.1-2004)
+DJ crude,dj_crude,China,33.525,857.0,,33.0,21.42,not stated,,True,5,master_v9:R28 | master_v9:R29 | master_v9:R30 | master_v9:R31 | master_v9:R32,API computed from density15 (API MPMS 11.1-2004)
+Niger Delta sample A,nigeria_A,Nigeria,38.0,834.396,,23.3,,not stated,,True,1,master_v9:R33,density15 computed from API (API MPMS 11.1-2004)
+Niger Delta sample B,nigeria_B,Nigeria,34.0,854.543,,21.1,,not stated,,True,1,master_v9:R34,density15 computed from API (API MPMS 11.1-2004)
+Niger Delta sample C,nigeria_C,Nigeria,30.5,872.988,,27.0,,not stated,,True,1,master_v9:R35,density15 computed from API (API MPMS 11.1-2004)
+PETRONAS Malaysia oil,petronas_my,Malaysia,42.4,813.305,,11.0,9.2,not stated,,True,1,master_v9:R36,density15 computed from API (API MPMS 11.1-2004)
+Mexico PC,mexico_pc,Mexico,36.0,844.349,,-30.0,11.26,not stated,,True,1,master_v9:R37,density15 computed from API (API MPMS 11.1-2004)
+Mexico IRI,mexico_iri,Mexico,28.4,884.443,,-26.0,10.9,not stated,,True,1,master_v9:R38,density15 computed from API (API MPMS 11.1-2004)
+South American oil,south_america,South America,27.0,892.249,,9.0,,,,True,1,master_v9:R39,density15 computed from API (API MPMS 11.1-2004)
+Mt McKyle Arab heavy,mt_mckyle,Middle East,27.7,890.0,,-18.0,7.51,not stated,,True,1,master_v9:R40,
+PN01,pn01,Malaysia,,,,51.0,,UOP46,,True,1,master_v9:R41,
+PT03,pt03,Malaysia,,,,51.0,,UOP46,,True,1,master_v9:R42,
+SP01,sp01,Malaysia,,,,36.0,,UOP46,,True,1,master_v9:R43,
+Chinese waxy crude (Dong 2022),dong_crude,China,38.366,832.6,,21.0,16.34,DSC,,True,1,master_v9:R44,API computed from density15 (API MPMS 11.1-2004)
+SHJ (Shahejie waxy oil),bz25_1,"China, Bohai Bay",33.045,859.5,,28.0,19.9,ASTM D3279,,True,1,master_v9:R45,API computed from density15 (API MPMS 11.1-2004)
+M1S1 (MHZ:SHJ 1:1 blend),bz25_1,"China, Bohai Bay",23.923,909.9,,17.0,17.16,ASTM D3279,,True,1,master_v9:R46,API computed from density15 (API MPMS 11.1-2004)
+M3S1 (MHZ:SHJ 3:1 blend),bz25_1,"China, Bohai Bay",20.071,933.0,,8.0,13.37,ASTM D3279,,True,1,master_v9:R47,API computed from density15 (API MPMS 11.1-2004)
+M9S1 (MHZ:SHJ 9:1 blend),bz25_1,"China, Bohai Bay",17.861,946.8,,3.0,6.08,ASTM D3279,,True,1,master_v9:R48,API computed from density15 (API MPMS 11.1-2004)
+Albacora Leste crude,albacora_leste,"Brazil, Campos Basin",21.2,926.3,66.71,-32.8,1.7,UOP 46,,True,1,master_v9:R49,"pour point method ""ASTM D5853/D97 (reported <-27 F, so censored)"" (may be an upper bound)"
+PETRONAS Kerteh refinery waxy crude,petronas_kerteh,Malaysia,34.93,850.9,,3.0,20.58,not stated (at 20 C),,True,1,master_v9:R50,
+Dehloran crude,dehloran,Iran,31.827,865.9,,,12.66,not stated,,True,1,master_v9:R51,API computed from density15 (API MPMS 11.1-2004)
+Brazilian crude (Palermo 2013),palermo_brazil,Brazil,26.47,888.1,,12.0,,,,True,1,master_v9:R52,
+Dabei well A condensate,dabei_a,"China, Dabei deep condensate gas field",,,,,9.01,not stated (composition table),,True,3,master_v9:R53 | master_v9:R54 | master_v9:R55,
+Dabei well B condensate,dabei_b,"China, Dabei deep condensate gas field",,,,,6.78,not stated (composition table),,True,3,master_v9:R56 | master_v9:R57 | master_v9:R58,
+"Niger Delta waxy crude, sample I",nd_taiwo_i,"Nigeria, Niger Delta",,,,18.0,10.5,n-pentane / acetone precipitation (Coto 2008),,True,1,master_v9:R59,
+"Niger Delta waxy crude, sample II",nd_taiwo_ii,"Nigeria, Niger Delta",,,,32.0,33.5,n-pentane / acetone precipitation (Coto 2008),,True,1,master_v9:R60,
+30/2-1 DST 2B condensate,no_30_2_1,"Norway, North Sea (Sodir wellbore 30/2-1)",46.408,795.0,,-18.0,3.0,modified UOP 46-64 (acetone),,True,1,master_v9:R61,API computed from density15 (API MPMS 11.1-2004)
+7/7-2 DST 2 crude (Brynhild area),no_7_7_2,"Norway, North Sea (DISKOS well test report)",,,,-2.0,,not stated,,True,2,master_v9:R62 | master_v9:R70,"pour point method ""modified ASTM D97, as received (minimum -14, max/temp-cycled -10)"" (may be an upper bound) | merged records differ: pour_c spread 26.0"
+"LE01 offshore oil, stock tank (dead) oil",ng_le01,"Nigeria, offshore Niger Delta",27.4,890.0,16.35,13.0,,,,True,1,master_v9:R63,
+"LE01 offshore oil, live oil at reservoir pressure",ng_le01,"Nigeria, offshore Niger Delta",27.4,890.0,16.35,13.0,,,,True,1,master_v9:R64,
+NS-01 wellhead gas condensate,ng_ns01,"Nigeria, onshore Niger Delta",43.67,807.415,,10.0,4.96,UOP 46-64 (stock tank liquid),,True,1,master_v9:R65,density15 computed from API (API MPMS 11.1-2004)
+Sample A (Ehinmowo 2024),ng_ehinmowo_a,"Nigeria (sample origin not stated, Univ of Lagos authors)",18.71,938.242,157.301,,16.0,UOP 46-64,,True,1,master_v9:R66,density at 40 C corrected to 15 C (1980 Table 53A form)
+Sample B (Ehinmowo 2024),ng_ehinmowo_b,"Nigeria (sample origin not stated, Univ of Lagos authors)",26.77,908.584,116.644,,14.0,UOP 46-64,,True,1,master_v9:R67,density at 40 C corrected to 15 C (1980 Table 53A form)
+Niger Delta blank crude (Odutola and Idemili 2020),ng_odutola_blank,Nigeria (Niger Delta),43.19,810.0,,10.0,36.58,not stated,,True,1,master_v9:R68,
+"34/10-13 DST 2 stabilised separator oil (Statfjord Fm, Gullfaks area)",no_34_10_13,Norway (North Sea),37.27,838.0,,-3.0,7.0,modified UOP 46-64,,True,1,master_v9:R69,API computed from density15 (API MPMS 11.1-2004)
+North Sea crude LTA97-1 (Heriot-Watt Reservoir Fluid Studies sample),nsea_lta97_1,UK/North Sea,,,,,,not stated,,True,1,master_v9:R71,
+"2/7-19R separator oil, stock tank oil",no_2_7_19r,Norway (North Sea),45.074,801.0,,,,"other (GC based wax analysis, values not legible)",,True,1,master_v9:R72,API computed from density15 (API MPMS 11.1-2004)
+Algerian crude sample 01,algeria_benamara_01,Algeria (fields not named),41.874,815.768,,-9.0,2.44,modified UOP 46-64,,True,8,master_v9:R73 | master_v9:R76 | master_v9:R78 | master_v9:R81 | master_v9:R111 | master_v9:R113 | master_v9:R127 | master_v9:R128,"density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.6, pour_c spread 18.0, wax_wt_pct spread 1.3"
+Algerian crude sample 02,algeria_benamara_02,Algeria (fields not named),50.521,777.057,,-2.4,0.61,modified UOP 46-64,,True,1,master_v9:R74,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Algerian crude sample 03,algeria_benamara_03,Algeria (fields not named),43.369,808.801,,11.0,5.34,modified UOP 46-64,,True,4,master_v9:R75 | master_v9:R86 | master_v9:R114 | master_v9:R130,"density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.4, pour_c spread 41.0, wax_wt_pct spread 3.8"
+Algerian crude sample 05,algeria_benamara_05,Algeria (fields not named),39.741,825.922,,-27.0,6.39,modified UOP 46-64,,True,6,master_v9:R77 | master_v9:R92 | master_v9:R116 | master_v9:R117 | master_v9:R122 | master_v9:R129,"density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.7, pour_c spread 27.0, wax_wt_pct spread 4.3"
+Algerian crude sample 07,algeria_benamara_07,Algeria (fields not named),44.41,804.024,,-12.0,2.01,modified UOP 46-64,,True,12,master_v9:R79 | master_v9:R87 | master_v9:R88 | master_v9:R90 | master_v9:R93 | master_v9:R94 | master_v9:R95 | master_v9:R103 | master_v9:R108 | master_v9:R118 | master_v9:R124 | master_v9:R126,"density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.8, pour_c spread 21.0, wax_wt_pct spread 3.4"
+Algerian crude sample 08,algeria_benamara_08,Algeria (fields not named),39.246,828.311,,-6.0,3.3,modified UOP 46-64,,True,7,master_v9:R80 | master_v9:R82 | master_v9:R110 | master_v9:R115 | master_v9:R119 | master_v9:R123 | master_v9:R125,"density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.8, pour_c spread 21.0, wax_wt_pct spread 1.3"
+Algerian crude sample 11,algeria_benamara_11,Algeria (fields not named),41.031,819.75,,-9.0,2.19,modified UOP 46-64,,True,9,master_v9:R83 | master_v9:R99 | master_v9:R102 | master_v9:R104 | master_v9:R105 | master_v9:R106 | master_v9:R107 | master_v9:R109 | master_v9:R121,"density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.7, pour_c spread 18.0, wax_wt_pct spread 1.8"
+Algerian crude sample 12,algeria_benamara_12,Algeria (fields not named),46.93,792.678,,-12.0,2.37,modified UOP 46-64,,True,3,master_v9:R84 | master_v9:R96 | master_v9:R131,"density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.4, pour_c spread 16.5, wax_wt_pct spread 1.1"
+Algerian crude sample 13,algeria_benamara_13,Algeria (fields not named),44.693,802.73,,-36.0,1.44,modified UOP 46-64,,True,5,master_v9:R85 | master_v9:R89 | master_v9:R91 | master_v9:R100 | master_v9:R112,"density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.4, pour_c spread 24.0, wax_wt_pct spread 1.0"
+Algerian crude sample 25,algeria_benamara_25,Algeria (fields not named),36.796,840.358,,2.0,2.36,modified UOP 46-64,,True,1,master_v9:R97,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Algerian crude sample 26,algeria_benamara_26,Algeria (fields not named),65.325,718.679,,-6.0,1.48,modified UOP 46-64,,True,1,master_v9:R98,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Algerian crude sample 29,algeria_benamara_29,Algeria (fields not named),38.002,834.384,,1.0,1.89,modified UOP 46-64,,True,1,master_v9:R101,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Algerian crude sample 48,algeria_benamara_48,Algeria (fields not named),35.509,846.83,,-3.0,4.85,modified UOP 46-64,,True,1,master_v9:R120,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Remal,libya_remal,Libya,25.1,929.474,,51.0,18.7,modified UOP 46-64,,True,1,master_v9:R132,density at 80 C corrected to 15 C (1980 Table 53A form)
+Bouri,libya_bouri,Libya,25.7,899.621,20.47,12.0,15.0,modified UOP 46-64,,True,1,master_v9:R133,density15 computed from API (API MPMS 11.1-2004)
+Sarir,libya_sarir,Libya,35.6,846.368,13.56,24.0,13.6,modified UOP 46-64,,True,1,master_v9:R134,density15 computed from API (API MPMS 11.1-2004)
+Sedra,libya_sedra,Libya,36.0,845.271,5.25,0.0,8.0,modified UOP 46-64,,True,1,master_v9:R135,density at 40 C corrected to 15 C (1980 Table 53A form)
+Faregh,libya_faregh,Libya,43.4,809.098,4.44,21.0,24.0,modified UOP 46-64,,True,1,master_v9:R136,density at 40 C corrected to 15 C (1980 Table 53A form)
+Alamein crude (Western Desert),egypt_alamein,"Egypt, Western Desert",41.38,818.0,10.29,24.0,12.4,UOP 46,,True,1,master_v9:R137,
+"Crude-A (Khalda, zone AEB-3E)",egypt_khalda_a,"Egypt, Western Desert (Khalda)",39.1,829.021,,23.89,37.0,other (modified Burger method per text),,True,1,master_v9:R138,density15 computed from API (API MPMS 11.1-2004)
+"Crude-B (Khalda, zone AEB-3C)",egypt_khalda_b,"Egypt, Western Desert (Khalda)",43.6,807.737,,18.33,41.0,other (modified Burger method per text),,True,1,master_v9:R139,density15 computed from API (API MPMS 11.1-2004)
+"Crude-C (Khalda, zone USAF)",egypt_khalda_c,"Egypt, Western Desert (Khalda)",43.8,806.816,,18.33,41.0,other (modified Burger method per text),,True,1,master_v9:R140,density15 computed from API (API MPMS 11.1-2004)
+"Crude-D (Khalda, zone AEB-3D)",egypt_khalda_d,"Egypt, Western Desert (Khalda)",41.0,819.899,,18.33,38.0,other (modified Burger method per text),,True,1,master_v9:R141,density15 computed from API (API MPMS 11.1-2004)
+Uzen XIII horizon well 8378,uzen,"Kazakhstan, Uzen",,,,,22.5,not stated,,True,4,master_v9:R142 | master_v9:R143 | master_v9:R144 | master_v9:R145,merged records differ: wax_wt_pct spread 5.0
+Arabian Medium,saudi_arabian_medium,Saudi Arabia,,,,,,,,True,1,master_v9:R146,
+Malaysian medium light crude (UiTM sample),malaysia_medium_light_uitm,Malaysia,34.9,854.597,6.11,3.3,20.7,not stated,,True,1,master_v9:R147,density at 20 C corrected to 15 C (1980 Table 53A form)
+Chinese waxy crude sample 1 (virgin),zhu2007_cn_1,China (field not named),32.649,861.567,,36.0,22.9,not stated,,True,1,master_v9:R148,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Chinese waxy crude sample 2 (virgin),zhu2007_cn_2,China (field not named),34.377,852.605,,35.0,22.5,not stated,,True,2,master_v9:R149 | master_v9:R150,"density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.2, wax_wt_pct spread 2.2"
+Chinese waxy crude sample 4 (virgin),zhu2007_cn_4,China (field not named),26.436,895.432,,35.0,22.1,not stated,,True,1,master_v9:R151,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Chinese waxy crude sample 5 (virgin),zhu2007_cn_5,China (field not named),44.235,804.82,,18.0,10.2,not stated,,True,1,master_v9:R152,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Chinese waxy crude sample 6 (virgin),zhu2007_cn_6,China (field not named),32.46,862.563,,36.0,19.7,not stated,,True,1,master_v9:R153,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+"Shengli waxy crude (pure, sample 1)",shengli_cn,"China, Shengli",25.475,900.911,,24.0,14.5,DSC,,True,1,master_v9:R154,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Daqing high wax crude (cold finger study),daqing_wei2022,"China, Daqing",33.087,859.277,,,17.15,not stated,,True,1,master_v9:R155,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+AP01,brazil_oliveira2018_ap01,Brazil (Petrobras CENPES samples),27.0,892.249,,-6.0,3.15,GC n-alkane sum C15-C44 (proxy for wax content),,True,2,master_v9:R156 | master_v9:R158,"density15 computed from API (API MPMS 11.1-2004) | merged records differ: api15 spread 0.4, pour_c spread 18.0, wax_wt_pct spread 0.5"
+AP02,brazil_oliveira2018_ap02,Brazil (Petrobras CENPES samples),30.0,875.689,,12.0,3.93,GC n-alkane sum C15-C44 (proxy for wax content),,True,1,master_v9:R157,density15 computed from API (API MPMS 11.1-2004)
+AP04,brazil_oliveira2018_ap04,Brazil (Petrobras CENPES samples),31.0,870.305,,6.0,3.75,GC n-alkane sum C15-C44 (proxy for wax content),,True,1,master_v9:R159,density15 computed from API (API MPMS 11.1-2004)
+AP05,brazil_oliveira2018_ap05,Brazil (Petrobras CENPES samples),17.3,950.364,,-6.0,0.0,GC n-alkane sum C15-C44 (proxy for wax content),,True,1,master_v9:R160,density15 computed from API (API MPMS 11.1-2004)
+AP06,brazil_oliveira2018_ap06,Brazil (Petrobras CENPES samples),14.8,966.592,,3.0,0.0,GC n-alkane sum C15-C44 (proxy for wax content),,True,1,master_v9:R161,density15 computed from API (API MPMS 11.1-2004)
+AP07,brazil_oliveira2018_ap07,Brazil (Petrobras CENPES samples),36.0,844.349,,36.0,13.95,GC n-alkane sum C15-C44 (proxy for wax content),,True,1,master_v9:R162,density15 computed from API (API MPMS 11.1-2004)
+AP08,brazil_oliveira2018_ap08,Brazil (Petrobras CENPES samples),28.9,881.689,,-15.0,2.8,GC n-alkane sum C15-C44 (proxy for wax content),,True,1,master_v9:R163,density15 computed from API (API MPMS 11.1-2004)
+AP09,brazil_oliveira2018_ap09,Brazil (Petrobras CENPES samples),23.0,915.329,,24.0,4.03,GC n-alkane sum C15-C44 (proxy for wax content),,True,1,master_v9:R164,density15 computed from API (API MPMS 11.1-2004)
+Colorado field paraffinic dead oil,colombia_colorado,Colombia (Colorado field),45.917,797.2,,,,,,True,1,master_v9:R165,API computed from density15 (API MPMS 11.1-2004)
+Pre-salt P2,brazil_presalt_p2,Brazil (pre-salt),,,,,5.7,UOP 46-85,,True,1,master_v9:R166,
+"Waxy crude, Bahian Reconcavo",brazil_reconcavo,Brazil (Reconcavo),30.0,875.689,,,,,,True,1,master_v9:R167,density15 computed from API (API MPMS 11.1-2004)
+South Pelto crude (Well 10E),south_pelto,"USA (Gulf of Mexico, South Pelto field)",35.0,849.415,,,4.11,"other (Nenninger, as cited)",,True,2,master_v9:R168 | master_v9:R172,density15 computed from API (API MPMS 11.1-2004) | merged records differ: wax_wt_pct spread 2.5
+Mars Blend,mars_blend,USA (Gulf of Mexico),31.0,870.305,,,,,,True,1,master_v9:R170,density15 computed from API (API MPMS 11.1-2004)
+Iracema,iracema_santos,"Brazil (Santos basin pre-salt, BM-S-11)",31.4,868.8,10.79,-12.2,6.5,not stated,,True,1,master_v9:R171,
+M1 Daqing waxy crude,daqing_m1,"China, Daqing",33.145,858.978,,32.0,20.2,DSC,,True,1,master_v9:R173,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+M2 Hulunbeier waxy crude,hulunbeier_m2,"China, Hulunbeier",37.016,839.263,,21.0,16.34,DSC,,True,1,master_v9:R174,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Dagang heavy oil,dagang_heavy_oil,"China, Dagang oilfield",18.286,944.115,,,12.38,other (four-component analysis SY/T 7550-2012),,True,1,master_v9:R175,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Dagang 1# light oil,dagang_1light_oil,"China, Dagang oilfield",31.807,866.009,,,1.36,other (four-component analysis SY/T 7550-2012),,True,1,master_v9:R176,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Dagang 2# light oil,dagang_2light_oil,"China, Dagang oilfield",30.713,871.845,,,1.67,other (four-component analysis SY/T 7550-2012),,True,1,master_v9:R177,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+Dagang 3# light oil,dagang_3light_oil,"China, Dagang oilfield",29.426,878.807,,,1.75,other (four-component analysis SY/T 7550-2012),,True,2,master_v9:R178 | master_v9:R179,"density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.7, wax_wt_pct spread 0.0"
+Nigerian waxy crude sample D,nigeria_D,Nigeria,33.0,859.733,,26.0,,,,True,1,master_v9:R180,density15 computed from API (API MPMS 11.1-2004)
+Nigerian waxy crude sample E,nigeria_E,Nigeria,40.0,824.675,,20.0,,,,True,1,master_v9:R181,density15 computed from API (API MPMS 11.1-2004)
+Nigerian waxy crude sample F,nigeria_F,Nigeria,30.0,875.689,,26.6,,,,True,1,master_v9:R182,density15 computed from API (API MPMS 11.1-2004)
+Nigerian waxy crude sample G,nigeria_G,Nigeria,32.0,864.986,,22.0,,,,True,1,master_v9:R183,density15 computed from API (API MPMS 11.1-2004)
+Unnamed crude in Singh 2011 (via UTP thesis),singh2011_unnamed,not stated,45.0,801.337,,29.0,17.0,GC,,True,2,master_v9:R184 | master_v9:R185,density15 computed from API (API MPMS 11.1-2004)
+Qinghai waxy crude oil,qinghai_xia2022,"China, Qinghai",,,,33.0,18.46,not stated,,True,1,master_v9:R186,
+Miri,miri_my,Malaysia,,,,,28.9,DSC,,True,1,master_v9:R187,
+Angsi,angsi,Malaysia,42.0,815.178,,,25.83,DSC,,True,1,master_v9:R188,density15 computed from API (API MPMS 11.1-2004)
+Penara,penara,Malaysia,,,,,33.65,DSC,,True,1,master_v9:R189,
+Dulang,dulang,Malaysia,,,,,27.35,DSC,,True,1,master_v9:R190,
+Light crude oil 1 (Malaysia),light_oil_1_my,Malaysia,45.0,801.337,,,,not stated,,True,1,master_v9:R191,density15 computed from API (API MPMS 11.1-2004)
+Light crude oil 2 (Malaysia),light_oil_2_my,Malaysia,47.0,792.368,,,,not stated,,True,1,master_v9:R192,density15 computed from API (API MPMS 11.1-2004)
+Heavy crude oil 1 (Malaysia),heavy_oil_1_my,Malaysia,19.0,939.637,,,,not stated,,True,1,master_v9:R193,density15 computed from API (API MPMS 11.1-2004)
+Heavy crude oil 2 (Malaysia),heavy_oil_2_my,Malaysia,15.0,965.273,,,,not stated,,True,1,master_v9:R194,density15 computed from API (API MPMS 11.1-2004)
+Heavy crude oil 3 (Malaysia),heavy_oil_3_my,Malaysia,17.0,952.283,,,,not stated,,True,1,master_v9:R195,density15 computed from API (API MPMS 11.1-2004)
+One typical waxy crude oil (Lei 2023),lei2023_waxy_light,not stated,40.613,821.741,,,15.36,DSC,,True,1,master_v9:R196,density at 20 C corrected to 15 C (1980 Table 53A form); API computed from density15 (API MPMS 11.1-2004)
+South-east Turkey crude oil 1,kok_tr_1,"Turkey, south-east",37.2,838.349,,-18.0,4.8,not stated,,True,1,master_v9:R197,density15 computed from API (API MPMS 11.1-2004)
+South-east Turkey crude oil 2,kok_tr_2,"Turkey, south-east",31.0,870.305,,-15.0,4.1,not stated,,True,1,master_v9:R198,density15 computed from API (API MPMS 11.1-2004)
+South-east Turkey crude oil 3,kok_tr_3,"Turkey, south-east",27.3,890.564,,-13.0,2.2,not stated,,True,2,master_v9:R199 | master_v9:R200,"density15 computed from API (API MPMS 11.1-2004) | merged records differ: api15 spread 0.6, pour_c spread 3.0, wax_wt_pct spread 3.5"
+South-east Turkey crude oil 5,kok_tr_5,"Turkey, south-east",24.1,908.864,,-7.0,6.1,not stated,,True,1,master_v9:R201,density15 computed from API (API MPMS 11.1-2004)
+South-east Turkey crude oil 6,kok_tr_6,"Turkey, south-east",22.9,915.922,,-4.0,8.3,not stated,,True,1,master_v9:R202,density15 computed from API (API MPMS 11.1-2004)
+South-east Turkey crude oil 7,kok_tr_7,"Turkey, south-east",14.9,965.932,,11.0,7.3,not stated,,True,1,master_v9:R203,density15 computed from API (API MPMS 11.1-2004)
+South-east Turkey crude oil 8,kok_tr_8,"Turkey, south-east",11.8,986.813,,14.0,5.6,not stated,,True,1,master_v9:R204,density15 computed from API (API MPMS 11.1-2004)
+Middle East crude oil 1 (Elsharkawy 2000),elsharkawy_me_1,"Middle East (Kuwait, from the title of the cited paper; not stated in the table)",28.137,885.9,,,5.54,not stated,,True,2,master_v9:R205 | master_v9:R211,"API computed from density15 (API MPMS 11.1-2004) | merged records differ: api15 spread 0.1, wax_wt_pct spread 0.9"
+Middle East crude oil 2 (Elsharkawy 2000),elsharkawy_me_2,"Middle East (Kuwait, from the title of the cited paper; not stated in the table)",26.265,896.4,,,9.67,not stated,,True,1,master_v9:R206,API computed from density15 (API MPMS 11.1-2004)
+Middle East crude oil 3 (Elsharkawy 2000),elsharkawy_me_3,"Middle East (Kuwait, from the title of the cited paper; not stated in the table)",29.025,881.0,,,6.5,not stated,,True,1,master_v9:R207,API computed from density15 (API MPMS 11.1-2004)
+Middle East crude oil 4 (Elsharkawy 2000),elsharkawy_me_4,"Middle East (Kuwait, from the title of the cited paper; not stated in the table)",30.09,875.2,,,3.63,not stated,,True,1,master_v9:R208,API computed from density15 (API MPMS 11.1-2004)
+Middle East crude oil 5 (Elsharkawy 2000),elsharkawy_me_5,"Middle East (Kuwait, from the title of the cited paper; not stated in the table)",17.436,949.5,,,14.7,not stated,,True,1,master_v9:R209,API computed from density15 (API MPMS 11.1-2004)
+Middle East crude oil 6 (Elsharkawy 2000),elsharkawy_me_6,"Middle East (Kuwait, from the title of the cited paper; not stated in the table)",24.179,908.4,,,5.02,not stated,,True,1,master_v9:R210,API computed from density15 (API MPMS 11.1-2004)
+"Reliance KG-D6 FPSO condensate, Oct 2025 assay",kgd6_condensate,"India, KG-D6 (Krishna-Godavari offshore)",48.43,786.0,1.035,9.0,6.4,UOP 46,,True,1,master_v9:R212,
+"Reliance KG-D6 stabilised condensate, Dec 2024 assay",kgd6_condensate,"India, KG-D6 (Krishna-Godavari offshore)",46.8,793.2,1.291,12.0,6.5,UOP 46,,True,1,master_v9:R213,
+"Reliance KG-D6 stabilised condensate composite, Aug 2023 assay",kgd6_condensate,"India, KG-D6 (Krishna-Godavari offshore)",45.33,798.9,1.904,6.0,6.7,UOP 46,,True,1,master_v9:R214,
+Mangala development pipeline crude (Rajasthan),mangala_rajasthan,"India, Rajasthan",,,,,,,,True,1,master_v9:R215,
+Nile Blend (Sudan),nile_blend_sd,Sudan,,,,,,,,True,1,master_v9:R216,
+Niger Delta sample ELE,ng_srcp2025_ele,"Nigeria, Niger Delta",41.063,819.6,,17.0,22.1,GC,,True,1,master_v9:R217,API computed from density15 (API MPMS 11.1-2004)
+Niger Delta sample OBGE,ng_srcp2025_obge,"Nigeria, Niger Delta",27.633,888.7,,-19.5,11.7,GC,,True,1,master_v9:R218,API computed from density15 (API MPMS 11.1-2004)
+Niger Delta sample SBR,ng_srcp2025_sbr,"Nigeria, Niger Delta",19.311,937.7,,-38.7,4.8,GC,,True,1,master_v9:R219,API computed from density15 (API MPMS 11.1-2004)
+Niger Delta sample EGB,ng_srcp2025_egb,"Nigeria, Niger Delta",35.911,844.8,,16.0,11.07,GC,,True,1,master_v9:R220,API computed from density15 (API MPMS 11.1-2004)
+Niger Delta sample OMR,ng_srcp2025_omr,"Nigeria, Niger Delta",29.519,878.3,,8.0,8.7,GC,,True,1,master_v9:R221,API computed from density15 (API MPMS 11.1-2004)
+Niger Delta sample ORD,ng_srcp2025_ord,"Nigeria, Niger Delta",35.003,849.4,,36.5,22.05,GC,,True,1,master_v9:R222,API computed from density15 (API MPMS 11.1-2004)
+Niger Delta sample OZR,ng_srcp2025_ozr,"Nigeria, Niger Delta",21.268,925.7,,-65.0,4.5,GC,,True,1,master_v9:R223,API computed from density15 (API MPMS 11.1-2004)
+Kwale crude,kwale_ng,"Nigeria (Niger Delta, Delta State)",52.17,770.089,,9.0,,not stated,,True,1,master_v9:R224,density15 computed from API (API MPMS 11.1-2004)
+Kula crude,kula_ng,Nigeria (Niger Delta),46.31,795.439,,2.0,,not stated,,True,1,master_v9:R225,density15 computed from API (API MPMS 11.1-2004)
+Nembe crude,nembe_ng,Nigeria (Niger Delta),45.38,799.617,,6.0,,not stated,,True,1,master_v9:R226,density15 computed from API (API MPMS 11.1-2004)
+"Nigerian crude oil blend, untreated (Chikwe and Okoli 2018)",ng_chikwe_blend,"Nigeria (blend, field not stated)",34.25,853.7,4.01,11.0,,,,True,1,master_v9:R227,
+"Niger Delta waxy crude, Shell swamp well-head sample (Bio-based flow improver paper)",ng_shell_swamp_1078,"Nigeria, Niger Delta",40.9,821.0,2.2,15.0,13.2,UOP 46-64,,True,1,master_v9:R228,
+"Niger Delta waxy crude, Shell sample (CNSL PEG ester paper)",ng_shell_cnsl_00271,"Nigeria, Niger Delta",37.2,839.0,6.94,12.0,8.9,UOP 46-64,,True,1,master_v9:R229,
+SAPW1 wellhead sample,ng_iarjset_sapw1,"Nigeria (production line, field not stated)",,,,,13.15,not stated,,True,3,master_v9:R230 | master_v9:R231 | master_v9:R232,merged records differ: wax_wt_pct spread 3.1
+Niger Delta well 59T (Falade 2010),ng_falade_59t,"Nigeria (Niger Delta, field not named)",28.7,883.4,10.5,1.7,,,,True,1,master_v9:R233,
+Niger Delta well 31S (Falade 2010),ng_falade_31s,"Nigeria (Niger Delta, field not named)",39.6,827.0,3.2,1.7,,,,True,1,master_v9:R234,
+Niger Delta well 25S (Falade 2010),ng_falade_25s,"Nigeria (Niger Delta, field not named)",24.9,904.219,,,,,,True,1,master_v9:R235,density15 computed from API (API MPMS 11.1-2004)
+Niger Delta well 06S (Falade 2010),ng_falade_06s,"Nigeria (Niger Delta, field not named)",24.2,908.28,,,,,,True,1,master_v9:R236,density15 computed from API (API MPMS 11.1-2004)
+Niger Delta well 19L2 (Falade 2010),ng_falade_19l2,"Nigeria (Niger Delta, field not named)",34.2,853.513,4.3,4.4,,,,True,2,master_v9:R237 | nigeria_bulk:NGJ-033,density15 computed from API (API MPMS 11.1-2004) | merged records differ: api15 spread 0.6
+Niger Delta well 19L1 (Falade 2010),ng_falade_19l1,"Nigeria (Niger Delta, field not named)",24.7,905.375,13.4,-7.0,,,,True,2,master_v9:R238 | nigeria_bulk:NGJ-031,density15 computed from API (API MPMS 11.1-2004)
+Niger Delta well 30S (Falade 2010),ng_falade_30s,"Nigeria (Niger Delta, field not named)",36.4,842.339,,,,,,True,1,master_v9:R239,density15 computed from API (API MPMS 11.1-2004)
+Niger Delta well 06L (Falade 2010),ng_falade_06l,"Nigeria (Niger Delta, field not named)",36.4,842.339,,,,,,True,1,master_v9:R240,density15 computed from API (API MPMS 11.1-2004)
+Niger Delta well 20L (Falade 2010),ng_falade_20l,"Nigeria (Niger Delta, field not named)",41.6,817.06,,,,,,True,1,master_v9:R241,density15 computed from API (API MPMS 11.1-2004)
+Chenor crude (palm oil additive study),chenor_palmoil,Not confirmed from extract (crude named Chenor; check source),44.65,803.3,,10.0,8.26,other (wax content analyzer),,True,1,master_v9:R242,
+Unnamed light crude (Udechukwu et al. 2025 control sample),ng_unnamed_iogr2025,"Nigeria (origin not stated, FUTO Owerri authors)",33.035,860.0,,24.0,,,,True,1,master_v9:R243,
+"Niger Delta crude, NNPC Port Harcourt/Warri refinery sample (Shallsuku 2023)",ng_shallsuku_nd,Nigeria (Niger Delta),26.8,893.375,,24.0,15.5,other (paper says measured by HTGC),,True,1,master_v9:R244,density15 computed from API (API MPMS 11.1-2004)
+"Reliance KG-D6 stabilised condensate composite, Jun 2023 assay (IDL-CA-0011-2023)",kgd6_condensate,"India, KG-D6 (Krishna-Godavari offshore)",44.5,803.6,1.802,9.0,7.2,UOP 46,,True,1,master_v9:R245,
+ANS sample 01,ans_s01,"USA, Alaska North Slope",46.11,797.1,2.15,-28.0,,,,True,3,master_v9:R246 | master_v9:R260 | master_v9:R266,merged records differ: api15 spread 0.1
+ANS sample 02,ans_s02,"USA, Alaska North Slope",46.76,794.2,2.02,-28.0,,,,True,4,master_v9:R247 | master_v9:R248 | master_v9:R261 | master_v9:R262,merged records differ: api15 spread 0.2
+ANS sample 04,ans_s04,"USA, Alaska North Slope",37.88,835.9,4.7,-18.0,,,,True,14,master_v9:R249 | master_v9:R255 | master_v9:R256 | master_v9:R257 | master_v9:R258 | master_v9:R259 | master_v9:R263 | master_v9:R274 | master_v9:R275 | master_v9:R276 | master_v9:R277 | master_v9:R278 | master_v9:R279 | master_v9:R280,"merged records differ: api15 spread 0.9, pour_c spread 10.0"
+ANS sample 05,ans_s05,"USA, Alaska North Slope",34.02,855.5,6.75,9.0,,,,True,3,master_v9:R250 | master_v9:R264 | master_v9:R281,
+ANS sample 06,ans_s06,"USA, Alaska North Slope",39.33,828.9,4.18,-21.0,,,,True,3,master_v9:R251 | master_v9:R265 | master_v9:R282,
+ANS sample 08,ans_s08,"USA, Alaska North Slope",36.05,844.9,5.47,-28.0,,,,True,2,master_v9:R252 | master_v9:R267,
+ANS sample 10,ans_s10,"USA, Alaska North Slope",30.44,874.0,8.48,-28.0,,,,True,4,master_v9:R253 | master_v9:R254 | master_v9:R269 | master_v9:R271,"merged records differ: api15 spread 0.1, pour_c spread 28.0"
+ANS sample 09,ans_s09,"USA, Alaska North Slope",55.52,756.1,,-28.0,,,,True,1,master_v9:R268,
+ANS sample 13,ans_s13,"USA, Alaska North Slope",32.69,862.1,8.15,-21.0,,,,True,1,master_v9:R270,
+ANS sample 16,ans_s16,"USA, Alaska North Slope",19.34,938.2,54.27,12.0,,,,True,1,master_v9:R272,
+ANS sample 17,ans_s17,"USA, Alaska North Slope",20.32,932.1,54.03,12.0,,,,True,1,master_v9:R273,
+SEA-2 L,sea_2l,Southeast Asia (field not named),34.6,851.8,,42.0,37.5,UOP 46,,True,1,master_v9:R283,
+SEA-06,sea_06,Southeast Asia (field not named),35.4,847.6,,39.0,34.2,UOP 46,,True,1,master_v9:R284,
+SEA-10,sea_10,Southeast Asia (field not named),35.5,847.3,,42.0,36.0,UOP 46,,True,1,master_v9:R285,
+X oil field blank (H1/H4/H5 mix 2.1:1.4:1.0),vn_x_field_blend,"Vietnam (X field, name withheld)",,,,27.0,,not stated,,True,1,master_v9:R286,
+Mae Soon crude (Fang field),mae_soon,"Thailand (Fang field, Mae Soon area)",,,,36.0,,not stated,,True,3,master_v9:R287 | master_v9:R288 | master_v9:R289,
+Colorado field COL-25 (sand B),colombia_colorado,"Colombia (Colorado field, Mugrosa)",41.2,818.95,,,,not stated,,True,1,master_v9:R290,density15 computed from API (API MPMS 11.1-2004)
+Colorado field COL-33 (sand C),colombia_colorado,"Colombia (Colorado field, Mugrosa)",39.7,826.119,,,,not stated,,True,1,master_v9:R291,density15 computed from API (API MPMS 11.1-2004)
+Uzen well 8378,uzen,Kazakhstan (Uzen),,,,,,not stated,,True,4,master_v9:R292 | master_v9:R293 | master_v9:R294 | master_v9:R295,
+Brazilian crude P2,brazil_intechopen_p2,Brazil,,,,,5.7,UOP 46,,True,1,master_v9:R296,
+Luliang crude,luliang_xinjiang,China (Xinjiang Oilfield),,,,,9.26,DSC,,True,1,master_v9:R297,
+"CP1 (paraffinic crude, origin not stated)",bouzas2011_cp1,not stated,,,,,7.7,DSC,,True,10,master_v9:R298 | master_v9:R299 | master_v9:R300 | master_v9:R301 | master_v9:R302 | master_v9:R303 | master_v9:R304 | master_v9:R305 | master_v9:R306 | master_v9:R307,merged records differ: wax_wt_pct spread 1.5
+"CN1 (naphthenic crude, origin not stated)",bouzas2011_cn1,not stated,,,,,4.0,DSC,,True,10,master_v9:R308 | master_v9:R309 | master_v9:R310 | master_v9:R311 | master_v9:R312 | master_v9:R313 | master_v9:R314 | master_v9:R315 | master_v9:R316 | master_v9:R317,merged records differ: wax_wt_pct spread 4.1
+Penara A5L,penara,Malaysia (Peninsular),,,,60.0,19.9,not stated,,True,1,master_v9:R318,
+Penara A04,penara,Malaysia (Peninsular),,,,57.0,16.1,not stated,,True,2,master_v9:R319 | master_v9:R320,"merged records differ: pour_c spread 9.0, wax_wt_pct spread 11.0"
+Sepat A7L,shahruddin2019_sepat_a7l,Malaysia (Peninsular),,,,36.0,20.5,not stated,,True,1,master_v9:R321,
+Uzen field well 1559 degassed oil,uzen,"Kazakhstan, Uzen",,,,33.0,,not stated,,True,17,master_v9:R322 | master_v9:R331 | master_v9:R337 | master_v9:R336 | master_v9:R335 | master_v9:R334 | master_v9:R333 | master_v9:R332 | master_v9:R330 | master_v9:R323 | master_v9:R329 | master_v9:R328 | master_v9:R327 | master_v9:R326 | master_v9:R325 | master_v9:R324 | master_v9:R338,merged records differ: pour_c spread 7.0
+Iranian crude oil no. 1,salehi2021_iran_1,Iran,,,,,,not stated,,True,9,master_v9:R339 | master_v9:R340 | master_v9:R341 | master_v9:R342 | master_v9:R343 | master_v9:R344 | master_v9:R345 | master_v9:R346 | master_v9:R347,
+Bonny Light,bonny_light,Nigeria (Niger Delta),34.9,850.0,3.669,-18.0,8.44,not stated,,False,6,nigeria_bulk:NGR-B01 | nigeria_bulk:NGI-001 | nigeria_bulk:NGE-001 | nigeria_bulk:NGE-009 | nigeria_bulk:NGE-021 | nigeria_bulk:NGT-B06,"visc40 Walther interpolated from 8.0 cSt at 10.0 C and 3.0 cSt at 50.0 C | density15 computed from API (API MPMS 11.1-2004) | visc40 Walther interpolated from 8.7 cSt at 10.0 C and 2.9 cSt at 50.0 C | merged records differ: api15 spread 0.2, pour_c spread 46.0"
+Forcados,forcados,Nigeria (Niger Delta),31.5,867.5,4.438,5.0,7.0,not stated,,False,4,nigeria_bulk:NGR-B02 | nigeria_bulk:NGI-002 | nigeria_bulk:NGE-003 | nigeria_bulk:NGT-B07,visc40 Walther interpolated from 11.4 cSt at 10.0 C and 3.5 cSt at 50.0 C
+EA Blend,ea_blend,Nigeria (Niger Delta offshore),35.03,849.3,2.862,-33.0,,not stated,,False,4,nigeria_bulk:NGR-B03 | nigeria_bulk:NGI-003 | nigeria_bulk:NGE-004 | nigeria_bulk:NGO-B02,visc40 Walther interpolated from 5.6 cSt at 10.0 C and 2.4 cSt at 50.0 C
+Brass River,brass_river,Nigeria (Niger Delta),36.6,841.5,2.686,-36.0,,not stated,,False,3,nigeria_bulk:NGR-B04 | nigeria_bulk:NGI-007 | nigeria_bulk:NGE-012,visc40 Walther interpolated from 4.8 cSt at 10.0 C and 2.3 cSt at 50.0 C
+Amenam Blend,amenam_blend,Nigeria (Niger Delta offshore),38.7,830.9,2.717,6.0,,not stated,,False,3,nigeria_bulk:NGR-B05 | nigeria_bulk:NGI-005 | nigeria_bulk:NGE-011,visc40 Walther interpolated from 5.1 cSt at 10.0 C and 2.3 cSt at 50.0 C
+Akpo Blend,akpo_blend,Nigeria (Niger Delta deep offshore),46.7,793.9,1.651,-6.0,,not stated,,False,5,nigeria_bulk:NGR-B06 | nigeria_bulk:NGI-004 | nigeria_bulk:NGE-010 | round3_bulk:CNDB-005 | round3_bulk:REG-B019,visc40 Walther interpolated from 3.1 cSt at 10.0 C and 1.4 cSt at 50.0 C
+Egina,egina,Nigeria (Niger Delta deep offshore),27.3,890.5,10.026,-21.0,,not stated,,False,4,nigeria_bulk:NGR-B07 | nigeria_bulk:NGI-008 | nigeria_bulk:NGE-013 | round3_bulk:REG-B018,visc40 Walther interpolated from 39.4 cSt at 10.0 C and 7.2 cSt at 50.0 C
+Qua Iboe,qua_iboe,Nigeria (Niger Delta offshore),37.3,837.9,3.1,9.0,,not stated,,False,5,nigeria_bulk:NGR-B08 | nigeria_bulk:NGI-009 | nigeria_bulk:NGE-005 | nigeria_bulk:NGT-B09 | nigeria_bulk:NGO-B01,
+Bonga,bonga,Nigeria (Niger Delta),29.4,879.0,5.939,-24.0,,not stated,,False,6,nigeria_bulk:NGI-006 | nigeria_bulk:NGI-013 | nigeria_bulk:NGE-002 | nigeria_bulk:NGE-024 | nigeria_bulk:NGT-B08 | nigeria_bulk:NGD-B039,"visc40 Walther interpolated from 14.8 cSt at 10.0 C and 4.7 cSt at 50.0 C | density15 computed from API (API MPMS 11.1-2004) | merged records differ: api15 spread 0.8, pour_c spread 8.0"
+Erha,erha,Nigeria (Niger Delta),35.1,848.9,3.5,-24.0,9.9,not stated,,False,4,nigeria_bulk:NGI-010 | nigeria_bulk:NGE-015 | nigeria_bulk:NGT-B10 | nigeria_bulk:NGD-B041,"merged records differ: api15 spread 0.3, pour_c spread 13.5"
+Usan,usan,Nigeria (Niger Delta),29.1,880.6,7.15,-77.0,4.0,not stated,,False,2,nigeria_bulk:NGI-011 | nigeria_bulk:NGD-B044,"merged records differ: api15 spread 0.1, pour_c spread 0.4"
+Ebok,ebok,Nigeria (Niger Delta),17.9,946.6,93.8,-36.0,,,,False,1,nigeria_bulk:NGI-012,
+Bonga (ExxonMobil assay BONGA18),bonga,Nigeria (Niger Delta),27.4,890.1,7.45,-44.0,2.8,not stated,,False,3,nigeria_bulk:NGI-014 | nigeria_bulk:NGE-014 | nigeria_bulk:NGT-B11,
+Yoho (ExxonMobil assay YOHO19Y),yoho,Nigeria (Niger Delta),41.0,820.0,2.1,15.0,,not stated,,False,3,nigeria_bulk:NGI-015 | nigeria_bulk:NGE-022 | nigeria_bulk:NGT-B12,
+UQCC (Enekwe 2012),uqcc,Nigeria,30.3,874.0,,-27.0,,,,False,1,nigeria_bulk:NGI-017,
+Escravos (Enekwe 2012),escravos,Nigeria (Niger Delta),36.3,843.3,,2.0,,,,False,2,nigeria_bulk:NGI-018 | nigeria_bulk:NGD-B035,"density given in g/cm3, multiplied by 1000 | merged records differ: api15 spread 0.1, pour_c spread 14.0"
+Bonga (ExxonMobil assay BONGA25Y),bonga,Nigeria (Niger Delta),27.7,888.4,7.3,-44.0,,,,False,1,nigeria_bulk:NGI-020,
+Bonny light 1 (sample A),bonny_light_akinyemi_a,Nigeria,32.8,860.779,12.9,16.0,28.45,not stated,,False,1,nigeria_bulk:NGE-006,density15 computed from API (API MPMS 11.1-2004)
+Forcados (sample B),forcados_akinyemi,Nigeria,34.4,852.485,4.75,7.0,18.65,not stated,,False,1,nigeria_bulk:NGE-007,density15 computed from API (API MPMS 11.1-2004)
+Bonny medium blend (sample C),bonny_medium_akinyemi,Nigeria,27.4,890.004,46.56,24.0,33.22,not stated,,False,1,nigeria_bulk:NGE-008,density15 computed from API (API MPMS 11.1-2004)
+Agbami Light,agbami_peretomode,Nigeria (deepwater OML 127/128),47.45,790.7,1.46,,,not stated,,False,2,nigeria_bulk:NGE-016 | nigeria_bulk:NGJ-036,
+Akpo Blend,akpo_peretomode,Nigeria (deepwater OML 130),45.3,797.8,1.996,,,not stated,,False,2,nigeria_bulk:NGE-017 | nigeria_bulk:NGJ-037,
+Bonga Blend,bonga_peretomode,Nigeria (deepwater OML 118),28.9,882.3,6.3,,,not stated,,False,2,nigeria_bulk:NGE-018 | nigeria_bulk:NGJ-038,
+Ebok,ebok_peretomode,Nigeria (OML 67 offshore),18.65,942.4,57.1,,,not stated,,False,2,nigeria_bulk:NGE-019 | nigeria_bulk:NGJ-039,
+Usan,usan_peretomode,Nigeria (deepwater OML 138),28.45,884.7,13.27,,,not stated,,False,2,nigeria_bulk:NGE-020 | nigeria_bulk:NGJ-040,
+Agbami (Agbami-2 well sample),agbami_ogj,Nigeria (deepwater OML 127),47.2,791.482,1.9,3.0,,not stated,,False,1,nigeria_bulk:NGE-023,density15 computed from API (API MPMS 11.1-2004)
+Niger Delta well 5S (Falade 2010),ng_falade_5s,"Nigeria (Niger Delta, field not named)",22.6,918.2,24.7,-7.0,,,,False,1,nigeria_bulk:NGJ-024,
+Niger Delta well 1T (Falade 2010),ng_falade_1t,"Nigeria (Niger Delta, field not named)",21.9,922.4,27.3,-3.9,,,,False,3,nigeria_bulk:NGJ-025 | nigeria_bulk:NGJ-026 | nigeria_bulk:NGJ-029,"merged records differ: api15 spread 0.5, pour_c spread 2.8"
+Niger Delta well 12S (Falade 2010),ng_falade_12s,"Nigeria (Niger Delta, field not named)",16.5,956.4,26.1,-7.0,,,,False,1,nigeria_bulk:NGJ-027,
+Niger Delta well 18S (Falade 2010),ng_falade_18s,"Nigeria (Niger Delta, field not named)",18.0,946.3,26.2,-7.0,,,,False,1,nigeria_bulk:NGJ-028,
+Niger Delta well 12L (Falade 2010),ng_falade_12l,"Nigeria (Niger Delta, field not named)",27.4,890.4,7.7,-1.1,,,,False,1,nigeria_bulk:NGJ-030,
+Niger Delta well 36S (Falade 2010),ng_falade_36s,"Nigeria (Niger Delta, field not named)",31.2,869.6,22.3,4.4,,,,False,1,nigeria_bulk:NGJ-032,
+Niger Delta well 65L (Falade 2010),ng_falade_65l,"Nigeria (Niger Delta, field not named)",39.7,826.7,2.8,4.4,,,,False,1,nigeria_bulk:NGJ-034,
+Niger Delta well 56L (Falade 2010),ng_falade_56l,"Nigeria (Niger Delta, field not named)",38.4,832.9,3.2,-1.1,,,,False,1,nigeria_bulk:NGJ-035,
+Sample A Bonny light 1,ng_jart_a,Nigeria (Niger Delta),32.8,860.779,,16.0,28.45,not stated,,False,1,nigeria_bulk:NGJ-041,density15 computed from API (API MPMS 11.1-2004)
+Sample B Forcados,ng_jart_b,Nigeria (Niger Delta),34.4,852.485,,7.0,18.65,not stated,,False,1,nigeria_bulk:NGJ-042,density15 computed from API (API MPMS 11.1-2004)
+Sample C Bonny medium blend,ng_jart_c,Nigeria (Niger Delta),27.4,890.004,,24.0,33.22,not stated,,False,1,nigeria_bulk:NGJ-043,density15 computed from API (API MPMS 11.1-2004)
+Sample D Bonny light 2,ng_jart_d,Nigeria (Niger Delta),35.0,849.415,,10.0,8.44,not stated,,False,1,nigeria_bulk:NGJ-044,density15 computed from API (API MPMS 11.1-2004)
+Nigerian waxy crude (Shittu and Achugasim 2023),ng_shittu_waxy,Nigeria (field not stated),30.6,872.45,3.49,18.0,29.5,UOP 46-64,,False,1,nigeria_bulk:NGJ-045,density15 computed from API (API MPMS 11.1-2004)
+A (Bonny Light 1),ng_jart2016_bl1,"Nigeria, Niger Delta",32.8,860.779,12.9,16.0,28.45,other (precipitation method),,False,1,nigeria_bulk:NGT-B01,density15 computed from API (API MPMS 11.1-2004)
+B (Forcados),ng_jart2016_forc,"Nigeria, Niger Delta",34.4,852.485,4.75,7.0,18.65,other (precipitation method),,False,1,nigeria_bulk:NGT-B02,density15 computed from API (API MPMS 11.1-2004)
+C (Bonny Medium blend),ng_jart2016_bmb,"Nigeria, Niger Delta",27.4,890.004,46.56,24.0,33.22,other (precipitation method),,False,1,nigeria_bulk:NGT-B03,density15 computed from API (API MPMS 11.1-2004)
+D (Bonny Light 2),ng_jart2016_bl2,"Nigeria, Niger Delta",35.0,849.415,3.37,10.0,8.44,other (precipitation method),,False,1,nigeria_bulk:NGT-B04,density15 computed from API (API MPMS 11.1-2004)
+"Nigerian waxy crude, Delta State marginal field",ng_jasem2023_delta_marginal,"Nigeria, Delta State",30.6,872.45,3.49,18.0,29.5,UOP 46-64,,False,1,nigeria_bulk:NGT-B05,density15 computed from API (API MPMS 11.1-2004)
+"Bonny Light, Citgo",bonny_light_ng,Nigeria,36.6,841.03,3.553,7.0,,,,False,1,nigeria_bulk:NGD-B001,visc40 Walther interpolated from 3.7 cSt at 38.0 C and 2.94 cSt at 50.0 C
+"Bonny Medium, Citgo",bonny_medium_ng,Nigeria,25.1,902.79,11.136,-34.0,,,,False,1,nigeria_bulk:NGD-B002,visc40 Walther interpolated from 11.9 cSt at 38.0 C and 8.2 cSt at 50.0 C
+"Bonny Medium, Amoco",bonny_medium_ng,Nigeria,27.53,889.0,10.478,,,,,False,1,nigeria_bulk:NGD-B003,visc40 Walther extrapolated from 18.8 cSt at 15.0 C and 13.0 cSt at 30.0 C
+"Brass River, Citgo",brass_river_ng,Nigeria,42.6,812.04,2.007,-1.0,,,,False,1,nigeria_bulk:NGD-B004,visc40 Walther interpolated from 2.09 cSt at 38.0 C and 1.66 cSt at 50.0 C
+"Brass River, Phillips",brass_river_ng,Nigeria,43.5,807.87,,2.0,,,,False,1,nigeria_bulk:NGD-B005,
+"Escravos, Amoco",escravos_ng,Nigeria,37.61,836.318,3.721,12.0,,,,False,1,nigeria_bulk:NGD-B006,density15 computed from API (API MPMS 11.1-2004); visc40 Walther interpolated from 4.9 cSt at 27.0 C and 2.7 cSt at 58.0 C
+"Escravos, Chevron",escravos_ng,Nigeria,36.2,843.03,,7.0,,,,False,1,nigeria_bulk:NGD-B007,
+"Forcados, Citgo",forcados_ng,Nigeria,28.8,881.95,6.338,-4.0,,,,False,1,nigeria_bulk:NGD-B008,visc40 Walther interpolated from 6.62 cSt at 38.0 C and 5.17 cSt at 50.0 C
+"Forcados, Amoco",forcados_ng,Nigeria,29.89,876.285,2.332,,,,,False,1,nigeria_bulk:NGD-B009,density15 computed from API (API MPMS 11.1-2004); visc40 Walther extrapolated from 77.4 cSt at 12.0 C and 9.0 cSt at 25.0 C
+Nigerian Condensate ,nigerian_condensate_ng,Nigeria,40.9,820.05,,-40.0,,,,False,1,nigeria_bulk:NGD-B010,
+Nigerian Exp. B1,nigerian_exp_b1_ng,Nigeria,29.15,880.318,6.25,-12.0,6.0,not stated,,False,1,nigeria_bulk:NGD-B011,density15 computed from API (API MPMS 11.1-2004)
+Nigerian Lgt G,nigerian_lgt_g_ng,Nigeria,36.21,843.293,3.6,-9.0,8.0,not stated,,False,1,nigeria_bulk:NGD-B012,density15 computed from API (API MPMS 11.1-2004)
+Nigerian Lgt M,nigerian_lgt_m_ng,Nigeria,33.85,855.317,3.42,-3.0,3.2,not stated,,False,1,nigeria_bulk:NGD-B013,density15 computed from API (API MPMS 11.1-2004)
+Nigerian Light,nigerian_light_ng,Nigeria,37.61,836.318,2.82,9.0,8.0,not stated,,False,1,nigeria_bulk:NGD-B014,density15 computed from API (API MPMS 11.1-2004)
+Nigerian Medium,nigerian_medium_ng,Nigeria,25.41,901.282,12.0,-30.0,3.0,not stated,,False,1,nigeria_bulk:NGD-B015,density15 computed from API (API MPMS 11.1-2004)
+"Qua Iboe, Phillips",qua_iboe_ng,Nigeria,34.8,850.13,,13.0,,,,False,1,nigeria_bulk:NGD-B016,
+"Escravos, Oil & Gas",escravos_ng,Nigeria,36.2,843.03,,-12.0,,,,False,1,nigeria_bulk:NGD-B017,
+"Bonny Light, Shell Oil",bonny_light_ng,Nigeria,34.6,851.16,3.81,9.0,,,,False,1,nigeria_bulk:NGD-B018,visc40 Walther extrapolated from 4.98 cSt at 27.0 C and 3.96 cSt at 38.0 C
+"Brass River, Shell Oil",brass_river_ng,Nigeria,42.7,811.58,1.859,-9.0,,,,False,1,nigeria_bulk:NGD-B019,visc40 Walther extrapolated from 5.11 cSt at 27.0 C and 2.11 cSt at 38.0 C
+"Escravos, Shell Oil",escravos_ng,Nigeria,35.8,845.05,3.284,10.0,,,,False,1,nigeria_bulk:NGD-B020,visc40 Walther extrapolated from 7.04 cSt at 16.0 C and 4.79 cSt at 27.0 C
+"Forcados, Shell Oil",forcados_ng,Nigeria,29.7,877.03,6.112,-9.0,,,,False,1,nigeria_bulk:NGD-B021,visc40 Walther extrapolated from 9.12 cSt at 27.0 C and 6.47 cSt at 38.0 C
+"Qua Iboe, Shell Oil",qua_iboe_ng,Nigeria,36.2,843.03,2.116,-9.0,,,,False,1,nigeria_bulk:NGD-B022,visc40 Walther extrapolated from 5.42 cSt at 5.0 C and 3.82 cSt at 16.0 C
+"Brass River, Maritime Safety Authority Of New Zealand",brass_river_ng,Nigeria,44.98,801.0,2.3,13.0,,,,False,1,nigeria_bulk:NGD-B023,
+"Forcados, Bp",forcados_ng,Nigeria,28.4,884.16,,-6.0,,,,False,1,nigeria_bulk:NGD-B024,
+"Escravos Swamp Blend, Chevron",escravos_swamp_blend_ng,Nigeria,38.0,834.08,,21.0,,,,False,1,nigeria_bulk:NGD-B025,
+"Benin River, Chevron",benin_river_ng,Nigeria,39.3,827.73,,32.0,,,,False,1,nigeria_bulk:NGD-B026,
+"Odudu, Exxon",odudu_ng,Nigeria,26.8,893.09,6.726,,,,,False,1,nigeria_bulk:NGD-B027,visc40 Walther extrapolated from 18.1 cSt at 10.0 C and 7.1 cSt at 38.0 C
+Pennington,pennington_ng,Nigeria,36.6,841.0,3.0,6.0,,,,False,1,nigeria_bulk:NGD-B028,
+"Ima, Caltex",ima_ng,Nigeria,43.0,810.18,,7.0,,,,False,1,nigeria_bulk:NGD-B029,
+Bonny Light,bonny_light_ng,Nigeria,36.7,840.53,,,8.0,not stated,,False,1,nigeria_bulk:NGD-B030,
+Bonny Medium,bonny_medium_ng,Nigeria,25.2,902.21,,-27.0,,,,False,1,nigeria_bulk:NGD-B031,
+Brass River,brass_river_ng,Nigeria,40.9,820.05,,2.0,,,,False,1,nigeria_bulk:NGD-B032,
+Forcados,forcados_ng,Nigeria,29.4,878.66,,-12.0,8.1,not stated,,False,1,nigeria_bulk:NGD-B033,
+"Antan, Huvensa",antan_ng,Nigeria,31.55,867.371,,2.0,10.0,not stated,,False,1,nigeria_bulk:NGD-B034,density15 computed from API (API MPMS 11.1-2004)
+Forcados Blend,forcados_blend_ng,Nigeria,29.7,877.03,,-20.0,,,,False,1,nigeria_bulk:NGD-B036,
+Qua Iboe,qua_iboe_ng,Nigeria,35.8,850.0,3.0,7.0,,,,False,1,nigeria_bulk:NGD-B037,"density given in g/cm3, multiplied by 1000"
+"Agbami, Statoil",agbami_ng,Nigeria,47.9,788.0,,5.0,,,,False,1,nigeria_bulk:NGD-B038,
+Ebok,ebok_ng,Nigeria,19.8,934.41,54.665,-37.5,,,,False,1,nigeria_bulk:NGD-B040,
+Oso Condensate,oso_condensate_ng,Nigeria,49.2,782.39,1.236,-3.0,,,,False,1,nigeria_bulk:NGD-B042,
+Qua Iboe,qua_iboe_ng,Nigeria,37.6,836.05,3.151,9.0,,,,False,1,nigeria_bulk:NGD-B043,
+Yoho,yoho_ng,Nigeria,40.5,821.96,2.001,18.0,,,,False,1,nigeria_bulk:NGD-B045,
+Condensate Ichthys,condensate_ichthys,Australia (Ichthys),48.4,786.1,1.251,6.0,,not stated,,False,1,round3_bulk:CNDB-001,visc40 Walther interpolated from 2.0 cSt at 10.0 C and 1.1 cSt at 50.0 C
+Condensate Senipah,condensate_senipah,Indonesia (Kalimantan),50.0,779.4,,-36.0,3.1,not stated,,False,1,round3_bulk:CNDB-002,
+Snohvit condensate,condensate_snohvit,Norway (Snohvit),63.7,724.8,0.532,-55.0,,not stated,0.0068,False,2,round3_bulk:CNDB-003 | totalenergies:snohvit_condensate_2018_07.xlsx,"merged records differ: api15 spread 0.0, pour_c spread 0.1"
+Condensate Bontang Return,condensate_bontang_return,Indonesia (Bontang),72.8,692.4,,-50.0,0.01,not stated,,False,1,round3_bulk:CNDB-004,"; pour_c reported as ""<-50"", stored as the bound value (censored); wax_wt_pct reported as ""<0.01"", stored as the bound value (censored)"
+Asgard Blend,asgard_blend,Norway (Asgard),48.5,785.8,,-36.0,,not stated,,False,1,round3_bulk:CNDB-006,
+Culzean,culzean,UK (Culzean),49.2,782.8,,6.0,10.4,not stated,,False,1,round3_bulk:CNDB-007,
+Gudrun Blend,gudrun_blend,Norway (Gudrun),50.7,776.2,,-72.0,,not stated,,False,1,round3_bulk:CNDB-008,
+Terengganu Condensate,terengganu_condensate,Malaysia (Terengganu),77.5,676.8,0.7,-32.0,1.2,not stated,,False,1,round3_bulk:CNDB-009,
+Mariner Blend,mariner_blend,UK North Sea,14.6,968.0,412.0,-9.0,4.4,not stated,,False,1,round3_bulk:HVY-B01,
+Grane Blend,grane_blend,Norway North Sea,23.7,911.0,29.2,-20.0,8.1,not stated,,False,1,round3_bulk:HVY-B02,
+Grane crude (updated assay),grane_crude,Norway North Sea,19.0,939.7,86.5,-36.0,7.2,not stated,,False,1,round3_bulk:HVY-B03,
+Peregrino,peregrino_ogj,Brazil Campos Basin,13.4,975.924,5088.069,12.2,0.9,not stated,,False,1,round3_bulk:HVY-B04,density15 computed from API (API MPMS 11.1-2004); visc40 Walther interpolated from 6361.0 cSt at 37.8 C and 1392.0 cSt at 54.4 C
+Dalia,dalia_ao,Angola,23.0,915.4,41.79,-51.0,,not stated,0.5094,False,3,round3_bulk:HVY-B05 | round3_bulk:REG-B005 | totalenergies:DALIA_2018_07.xlsx,"visc40 Walther interpolated from 224.0 cSt at 10.0 C and 27.6 cSt at 50.0 C | merged records differ: api15 spread 0.5, pour_c spread 3.0"
+Castilla Blend,castilla_blend,Colombia,17.7,947.818,226.549,-9.0,,not stated,,False,1,round3_bulk:HVY-B06,density15 computed from API (API MPMS 11.1-2004); visc40 Walther extrapolated from 661.46 cSt at 25.0 C and 261.23 cSt at 37.8 C
+Badak,badak,Indonesia (East Kalimantan),38.9,830.0,1.598,3.0,,,,False,1,round3_bulk:REG-B001,visc40 Walther interpolated from 2.6 cSt at 10.0 C and 1.4 cSt at 50.0 C
+Gindungo,gindungo,Angola,32.0,865.0,9.151,-8.0,,,,False,1,round3_bulk:REG-B002,visc40 Walther interpolated from 28.2 cSt at 10.0 C and 6.9 cSt at 50.0 C
+Nemba,nemba,Angola,38.0,834.3,3.803,-3.0,,,,False,1,round3_bulk:REG-B003,visc40 Walther interpolated from 8.4 cSt at 10.0 C and 3.1 cSt at 50.0 C
+Clov,clov,Angola,32.0,864.9,7.362,-24.0,,,,False,1,round3_bulk:REG-B004,visc40 Walther interpolated from 22.0 cSt at 10.0 C and 5.6 cSt at 50.0 C
+Girassol,girassol,Angola,30.2,874.6,10.72,-15.0,6.5,not stated,0.3431,False,3,round3_bulk:REG-B006 | round3_bulk:REG-B023 | totalenergies:GIRASSOL_2015_02.xlsx,"visc40 Walther interpolated from 32.4 cSt at 10.0 C and 8.1 cSt at 50.0 C | merged records differ: api15 spread 0.3, pour_c spread 27.0"
+Cabinda,cabinda,Angola,32.4,863.2,11.125,3.0,,,,False,1,round3_bulk:REG-B007,visc40 Walther interpolated from 35.7 cSt at 10.0 C and 8.3 cSt at 50.0 C
+Mandji TBP,mandji,Gabon,30.01,875.6,19.183,3.0,,,,False,1,round3_bulk:REG-B008,visc40 Walther interpolated from 210.0 cSt at 10.0 C and 11.4 cSt at 50.0 C
+N'Kossa Blend,nkossa_blend,Congo,42.4,813.3,3.978,-3.0,,,,False,1,round3_bulk:REG-B009,visc40 Walther interpolated from 13.0 cSt at 10.0 C and 3.0 cSt at 50.0 C
+Handil Mix,handil_mix,Indonesia (East Kalimantan),39.5,827.2,2.125,6.0,10.0,not stated,,False,1,round3_bulk:REG-B010,visc40 Walther interpolated from 4.0 cSt at 10.0 C and 1.8 cSt at 50.0 C
+Djeno,djeno,Congo,26.4,895.5,29.083,-6.0,,,,False,1,round3_bulk:REG-B011,visc40 Walther interpolated from 131.0 cSt at 10.0 C and 20.0 cSt at 50.0 C
+El Sharara,el_sharara,Libya,42.6,812.3,2.105,-60.0,,,,False,1,round3_bulk:REG-B012,visc40 Walther interpolated from 3.8 cSt at 10.0 C and 1.8 cSt at 50.0 C
+Es Sider,es_sider,Libya,36.2,843.3,2.546,0.0,,,,False,1,round3_bulk:REG-B013,visc40 Walther interpolated from 67.1 cSt at 10.0 C and 1.5 cSt at 50.0 C
+Mostarda,mostarda,Brazil (Campos),28.0,886.9,15.684,2.0,,,,False,1,round3_bulk:REG-B014,visc40 Walther interpolated from 122.0 cSt at 10.0 C and 9.9 cSt at 50.0 C
+Oman,oman_blend,Oman,33.2,858.7,11.214,-45.0,,,,False,1,round3_bulk:REG-B015,visc40 Walther interpolated from 31.5 cSt at 10.0 C and 8.6 cSt at 50.0 C
+Bekapai,bekapai,Indonesia (East Kalimantan),41.7,816.8,2.241,3.0,8.0,not stated,,False,1,round3_bulk:REG-B016,visc40 Walther interpolated from 4.2 cSt at 10.0 C and 1.9 cSt at 50.0 C
+Seria Light,seria_light,Brunei,39.0,829.8,1.841,0.0,5.8,not stated,,False,1,round3_bulk:REG-B017,visc40 Walther interpolated from 3.1 cSt at 10.0 C and 1.6 cSt at 50.0 C
+Al Jurf,al_jurf,Libya,30.49,873.0,9.616,,,,,False,1,round3_bulk:REG-B020,visc40 Walther interpolated from 53.3 cSt at 10.0 C and 6.5 cSt at 50.0 C
+EA Blend TBP,ea_blend,Nigeria,35.03,849.3,2.862,-33.0,,,,False,1,round3_bulk:REG-B021,visc40 Walther interpolated from 5.6 cSt at 10.0 C and 2.4 cSt at 50.0 C
+Hibernia,hibernia,Canada (Newfoundland),34.0,854.6,7.0,-1.0,11.8,not stated,0.6284,False,2,round3_bulk:REG-B022 | totalenergies:HIBERNIA-BLEND-2025-04.xlsx,"merged records differ: api15 spread 0.1, pour_c spread 7.0"
+South Sudan crude sample 1,ssudan_badry2018_01,"South Sudan (Upper Nile: Palogue, Gummry, Melut mix; per-sample field not stated)",,,,33.0,29.17,UOP 46-85 (as cited),,False,20,round3_bulk:SUP-B001 | round3_bulk:SUP-B002 | round3_bulk:SUP-B019 | round3_bulk:SUP-B018 | round3_bulk:SUP-B017 | round3_bulk:SUP-B016 | round3_bulk:SUP-B015 | round3_bulk:SUP-B014 | round3_bulk:SUP-B013 | round3_bulk:SUP-B012 | round3_bulk:SUP-B011 | round3_bulk:SUP-B010 | round3_bulk:SUP-B009 | round3_bulk:SUP-B008 | round3_bulk:SUP-B007 | round3_bulk:SUP-B006 | round3_bulk:SUP-B005 | round3_bulk:SUP-B004 | round3_bulk:SUP-B003 | round3_bulk:SUP-B020,"merged records differ: pour_c spread 36.0, wax_wt_pct spread 32.0"
+Lisama XX,lisama_xx,Colombia (Magdalena Medio),26.1,897.339,,18.0,,not stated,,False,1,round3_bulk:THSB-001,density15 computed from API (API MPMS 11.1-2004)
+Colombian paraffinic crude X1,uis2023_x1,Colombia,34.219,854.0,,,,,,False,5,round3_bulk:THSB-002 | round3_bulk:THSB-003 | round3_bulk:THSB-004 | round3_bulk:THSB-005 | round3_bulk:THSB-006,merged records differ: api15 spread 0.5
+Colombian paraffinic crude X6,uis2023_x6,Colombia,39.515,827.0,,,,,,False,3,round3_bulk:THSB-007 | round3_bulk:THSB-009 | round3_bulk:THSB-020,merged records differ: api15 spread 0.4
+Colombian paraffinic crude X7,uis2023_x7,Colombia,38.632,832.0,,,,,,False,2,round3_bulk:THSB-008 | round3_bulk:THSB-010,merged records differ: api15 spread 0.7
+Colombian paraffinic crude X10,uis2023_x10,Colombia,42.692,812.0,,,,,,False,3,round3_bulk:THSB-011 | round3_bulk:THSB-012 | round3_bulk:THSB-014,merged records differ: api15 spread 0.2
+Colombian paraffinic crude X12,uis2023_x12,Colombia,42.427,814.0,,,,,,False,2,round3_bulk:THSB-013 | round3_bulk:THSB-015,merged records differ: api15 spread 0.3
+Colombian paraffinic crude X15,uis2023_x15,Colombia,60.32,738.0,,,,,,False,2,round3_bulk:THSB-016 | round3_bulk:THSB-018,merged records differ: api15 spread 0.7
+Colombian paraffinic crude X16,uis2023_x16,Colombia,57.002,751.0,,,,,,False,1,round3_bulk:THSB-017,
+Colombian paraffinic crude X18,uis2023_x18,Colombia,43.762,807.0,,,,,,False,1,round3_bulk:THSB-019,
+Colombian paraffinic crude X20,uis2023_x20,Colombia,37.859,836.0,,,,,,False,2,round3_bulk:THSB-021 | round3_bulk:THSB-023,merged records differ: api15 spread 0.2
+Colombian paraffinic crude X21,uis2023_x21,Colombia,34.517,852.0,,,,,,False,1,round3_bulk:THSB-022,
+Hungo,Hungo,Angola,28.817,882.2,13.61,-45.0,,,0.6545,False,1,totalenergies:HUNGO_BLEND_2020_05.xlsx,
+Clov,Clov,Angola,32.66,861.6,6.784,-12.0,,,0.2427,False,1,totalenergies:CLOV_2016_09.xlsx,
+Norne,Norne,Norne,33.996,854.6,6.649,15.0,,,0.1738,False,1,totalenergies:norne-blend-2026-02.xlsx,
+Mariner,Mariner,United Kingdom,15.324,963.2,410.885,-10.1882,,,1.1197,False,1,totalenergies:mariner_blend_2024_06.xlsx,
+Goliat Blend,Goliat Blend,Norway,41.254,818.7,2.219,-9.0,,,0.1675,False,1,totalenergies:GOLIAT_BLEND_2022_10_Copy.xlsx,
+Forties,Forties,North Sea - UK,42.07,814.9,2.452,-18.0,,,0.4948,False,1,totalenergies:FORTIES_BL_2025_06.xlsx,
+Saturno Blend,Saturno Blend,Angola,25.924,898.4,22.978,-27.0,,,0.9116,False,1,totalenergies:SATURNO_2022_10.xlsx,
+Ekofisk,Ekofisk,Norway,38.889,830.1,3.827,-3.0,,,0.2072,False,1,totalenergies:EKOFISK-2015-06.xlsx,
+Troll,Troll,Norway,38.765,830.7,2.569,-12.0,,,0.1309,False,1,totalenergies:troll_blend_2026_02.xlsx,
+Heidrun,Heidrun,Norway,24.441,906.9,17.515,-64.9937,,,0.532,False,1,totalenergies:heidrun_2018_01.xlsx,
+Pazflor,Pazflor,Angola,24.086,909.0,53.468,-39.0,,,0.4051,False,1,totalenergies:PAZFLOR_2015_02.xlsx,
+AASTA HANSTEEN,AASTA HANSTEEN,Norway,48.025,787.9,0.84,-71.7129,,,0.0098,False,1,totalenergies:aasta_hansteen_2025_05.xlsx,
+Mondo,Mondo,Angola,27.898,887.3,14.234,-40.5,,,0.4761,False,1,totalenergies:MONDO_2024_01.xlsx,
+Mars,Mars,United States of America,28.508,883.9,14.817,-33.0,,,2.2069,False,1,totalenergies:MARS_2025_03.xlsx,
+Bakken,Bakken,United States of America,43.511,808.2,1.784,-38.0613,,,0.1093,False,1,totalenergies:BAKKEN_2022_07.xlsx,
+Unknown,Unknown,Azerbaijan,35.269,848.1,5.404,-18.0,,,0.1472,False,1,totalenergies:AZERI_LIGHT_2019_02.xlsx,
+South Green Canyon Blend,South Green Canyon Blend,United States of America,27.805,887.8,19.334,-24.0,,,2.5243,False,1,totalenergies:SOUTHERN_GREEN_CANYON_2025_08.xlsx,
+Grane,Grane,Norway,27.083,891.8,13.577,-3.0,,,0.6951,False,1,totalenergies:GRANE-BLEND-2026-08.xlsx,
+Oseberg,Oseberg,North Sea - Norway,39.944,825.0,2.692,-18.0,,,0.1898,False,1,totalenergies:oseberg_2024_09.xlsx,
+Roncador 28,Roncador 28,Brazil,28.002,886.7,13.407,-16.6093,,,0.5359,False,1,totalenergies:RONCADOR_28_2011_06.xlsx,
+Azeri Lt/BTC - Ceyhan,Azeri Lt/BTC - Ceyhan,Azerbaijan,39.687,826.2,2.957,-36.0,,,0.1432,False,1,totalenergies:AZERI-BTC-2026-02.xlsx,
+Njord,Njord,Norway,44.767,802.4,1.732,-72.0952,,,0.0643,False,1,totalenergies:njord_blend_2026_01.xlsx,
+Asgard,Asgard,Norway,48.27,786.8,1.245,-21.9961,,,0.1271,False,1,totalenergies:AASGARD-BLEND-2026-09.xlsx,
+Poseidon,Poseidon,United States of America,29.864,876.5,10.956,-33.0,,,1.9238,False,1,totalenergies:POSEIDON202507.xlsx,
+Kissanje,Kissanje,Angola,29.4,879.0,11.692,-13.6995,,,0.3533,False,1,totalenergies:KISSANJE_2023_02.xlsx,
+Draugen,Draugen,Norway,41.419,818.0,2.215,-24.0,,,0.1488,False,1,totalenergies:DRAUGEN_2024_05.xlsx,
+Medanito,Medanito,Neuquen,40.83,820.8,3.615,-36.0,,,0.1457,False,1,totalenergies:MEDANITO_2023_01.xlsx,
+Johan Sverdrup,Johan Sverdrup,North Sea - Norway,28.305,885.0,11.82,-6.0,,,0.8055,False,1,totalenergies:johan-sverdrup-2026-02.xlsx,
+Martin Linge,Martin Linge,North Sea - Norway,27.714,888.3,10.759,-46.3817,,,0.2341,False,1,totalenergies:martin-linge-2026-10.xlsx,
+Saxi Blend,Saxi Blend,Angola,35.303,847.9,4.354,-21.0,,,0.2341,False,1,totalenergies:SAXI_BATUQUE_BLEND_2022_11.xlsx,
+Skarv,Skarv,Norway,50.804,775.9,1.131,-36.0,,,0.0642,False,1,totalenergies:SKARV_2023_01.xlsx,
+Roncador,Roncador,Brazil,19.802,934.7,112.956,-27.0,,,0.6733,False,1,totalenergies:RONCADOR_20_2014_08.xlsx,
+Unknown,Unknown,Norway,33.313,858.2,5.475,0.0,,,0.1631,False,2,totalenergies:JOHAN-CASTBERG-2025-06.xlsx | totalenergies:BACALHAU-2026-02.xlsx,"merged records differ: api15 spread 0.5, pour_c spread 3.0"
+Hebron,Hebron,Newfoundland,24.247,908.1,33.325,-3.3611,,,0.7999,False,1,totalenergies:HEBRON_2025_06.xlsx,
+Ormen Lange Condensate,Ormen Lange Condensate,Norway,62.547,729.0,0.598,-37.6246,,,0.0036,False,1,totalenergies:ormen_lange_2018_01.xlsx,
+Gullfaks,Gullfaks,Norway,39.264,828.3,2.985,-14.3599,,,0.211,False,1,totalenergies:gullfaks_2023_12.xlsx,
+Algerian Condensate - Bejaia,Algerian Condensate - Bejaia,Algeria,68.566,707.1,0.515,-78.0,,,0.0019,False,1,totalenergies:ALGERIAN_CONDENSATE_2013_09.xlsx,
+Gudrun Blend,Gudrun Blend,Norway,52.891,767.1,0.907,-34.4872,,,0.1075,False,1,totalenergies:gudrun_blend_2025_11.xlsx,
+Alvheim,Alvheim,Norway,34.544,851.8,4.314,-39.0,,,0.4021,False,1,totalenergies:ALVHEIM_BLEND_2024_11.xlsx,
+Peregrino,Peregrino,Brazil,14.35,969.6,1836.269,15.0,,,1.6298,False,1,totalenergies:peregrino_2024_11.xlsx,
+Statfjord,Statfjord,Norway,39.268,828.3,3.092,1.5165,,,0.2494,False,1,totalenergies:statfjord-2023-11.xlsx,
+ANS sample 11,ans_condensate_like,USA (Alaska North Slope),57.75,747.409,,-28.0,,,,False,1,alaska_ans2:11,density15 computed from API; pour point censored (below -28 C reported as -28)
+ANS sample 12,ans_condensate_like,USA (Alaska North Slope),55.37,756.917,,-28.0,,,,False,4,alaska_ans2:12 | alaska_ans2:19 | alaska_ans2:20 | alaska_ans2:22,density15 computed from API; pour point censored (below -28 C reported as -28) | merged records differ: api15 spread 0.6
+ANS sample 18,ans_condensate_like,USA (Alaska North Slope),53.49,764.6,,-28.0,,,,False,1,alaska_ans2:18,density15 computed from API; pour point censored (below -28 C reported as -28)
+ANS sample 21,ans_condensate_like,USA (Alaska North Slope),53.73,763.61,,-28.0,,,,False,1,alaska_ans2:21,density15 computed from API; pour point censored (below -28 C reported as -28)

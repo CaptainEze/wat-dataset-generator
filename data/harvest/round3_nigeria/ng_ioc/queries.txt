@@ -1,0 +1,4 @@
+Searches: Bonny Light crude assay wax content pour point cloud point Shell Nigeria; Seplat Competent Person Report Oso condensate crude quality pour point wax; trading.totalenergies.com crude assay pdf Nigeria; ExxonMobil crude oil assay pdf Qua Iboe Erha Usan.
+Fetches: see log.csv.
+Round2 queries: SEC EDGAR efts wax appearance Nigeria; web: Erin/CAMAC Oyo wax; Shell SNEPCo Bonga Erha waxy; Dangote crude receipt spec; PH/Warri refinery LP; Baker Hughes/Clariant Nigeria wax; Seplat CPR crude quality; onepetro Nigeria WAT; Nigerian LP refinery crude table; OpenAlex search="wax appearance" Nigeria crude per-page=50
+Round3: ExxonMobil guessed Oso/Ima pdf (blocked); OpenAlex search Nigeria deepwater wax SPE; OpenAlex DOI 10.2118/206180-ms; Crossref waxy Niger Delta pour point; OGJ Guide to World Crudes Nigerian grades; Eland/Pillar/Neconde marginal field search

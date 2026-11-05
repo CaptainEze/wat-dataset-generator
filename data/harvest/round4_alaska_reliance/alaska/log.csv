@@ -1,0 +1,11 @@
+source_id,url,title,year,type,status,rows_added,reason
+AKS-S1,https://www.osti.gov/servlets/purl/963363,Evaluation of Wax Deposition and Its Control During Production of Alaska North Slope Oils (DOE/NETL final report),2009,report,unreachable,0,"WebFetch text stops at 86387 characters in chapter 2 (page ~21); every table (4.2.4 onward) lies beyond the cut."
+AKS-S2,https://www.osti.gov/biblio/963363,OSTI record 963363,2009,repository page,unreachable,0,Blocked by robots_disallowed.
+AKS-S3,https://doi.org/10.2172/963363,DOI for OSTI 963363,2009,repository page,unreachable,0,Blocked by robots_disallowed.
+AKS-S4,https://scholarworks.alaska.edu/cgi/viewcontent.cgi?article=1068&context=uaf_grad_engineering,Anyanwu 2007 thesis Characterization of Alaska North Slope oils for wax deposition (PDF),2007,thesis,unreachable,0,Fetch returned client error; PDF is 129 MB. Open in own browser.
+AKS-S5,http://hdl.handle.net/11122/5837,Anyanwu 2007 thesis record,2007,repository page,unreachable,0,Server error; the handle page via scholarworks/handle/11122/5837 gave only the record (file Anyanwu_O_2007.pdf 129.1 MB) and no usable link.
+AKS-S6,https://scholarworks.alaska.edu/uaf_grad_engineering/69,Anyanwu 2007 thesis record,2007,repository page,no_wat,0,Abstract only; no sample table.
+AKS-S7,https://netl.doe.gov/node/3930,NETL project summary DE-FC26-01NT41248,2007,project page,no_wat,0,Project summary with no data and no PDF link.
+AKS-S8,https://openpolar.no/Record/ftosti:oai:osti.gov:963363,OSTI record mirror,2009,repository page,no_wat,0,Abstract only (WAT up to 40.6 C; pour point 12 C; wax 28.57 wt%).
+AKS-S9,https://elmergib.edu.ly/iccpge/iccpgePapers/176.pdf,Almeslati and Tarrum 2016 Wax Deposition Study,2016,paper,no_wat,0,Simulation paper; no measured ANS sample table.
+AKS-S10,https://scholarworks.alaska.edu/uaf_grad_engineering/165,Amadi 2003 thesis GTL and ANS crude,2003,thesis,rejected,0,Different thesis; not opened beyond the record page (PDF article=1164 not fetched). Possible separate lead for ANS WAT.

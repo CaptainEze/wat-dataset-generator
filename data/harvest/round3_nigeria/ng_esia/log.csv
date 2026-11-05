@@ -1,0 +1,56 @@
+source_id,url,title,year,type,status,rows_added,reason
+NGE-S01,https://trading.totalenergies.com/wp-content/uploads/2025/11/BONNY-LIGHT.pdf,Total crude assay Bonny Light,2025,assay,no_wat,1,Bulk only row; no wax or WAT.
+NGE-S02,https://trading.totalenergies.com/wp-content/uploads/2025/11/BONGA.pdf,Total crude assay Bonga,2025,assay,no_wat,1,Bulk only row; no wax or WAT.
+NGE-S03,https://trading.totalenergies.com/wp-content/uploads/2025/11/FORCADOS.pdf,Total crude assay Forcados,2014,assay,no_wat,1,Bulk only row with wax 7.0 wt%; no WAT.
+NGE-S04,https://trading.totalenergies.com/wp-content/uploads/2025/11/EA-BLEND.pdf,Total crude assay EA Blend,2010,assay,no_wat,1,Bulk only row; no wax or WAT.
+NGE-S05,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/qua_iboe.pdf,ExxonMobil assay Qua Iboe,2024,assay,no_wat,1,Bulk only row with 40 C viscosity; no wax or WAT.
+NGE-S06,https://core.ac.uk/download/195784903.pdf,Akinyemi et al Nigerian waxy crude flow improvers,2016,paper,no_wat,4,Four bulk only rows with wax and pour; no WAT.
+NGE-S07,https://pmc.ncbi.nlm.nih.gov/articles/PMC9609069/table/tbl1,PMC9609069 table 1,unknown,paper,unreachable,0,Blocked by browser check page.
+NGE-S08,https://trading.totalenergies.com/en/business-customers/oil/crude-assays/,Total crude assays index,2025,index,rejected,0,Index only; gave PDF links for Akpo Blend Amenam Blend Brass River Egina.
+NGE-S09,https://trading.totalenergies.com/wp-content/uploads/2025/11/QUA-IBOE.pdf,Total Qua Iboe guessed URL,2025,assay,unreachable,0,Guessed URL failed.
+NGE-S10,https://trading.totalenergies.com/wp-content/uploads/2025/11/AMENAM.pdf,Total Amenam guessed URL,2025,assay,unreachable,0,Wrong filename; correct is AMENAM-BLEND.pdf.
+NGE-S11,https://trading.totalenergies.com/wp-content/uploads/2025/11/ESCRAVOS.pdf,Total Escravos guessed URL,2025,assay,unreachable,0,Guessed URL failed; may not exist.
+NGE-S12,https://trading.totalenergies.com/wp-content/uploads/2025/11/AKPO.pdf,Total Akpo guessed URL,2025,assay,unreachable,0,Wrong filename; correct is AKPO-BLEND.pdf.
+NGE-S13,https://trading.totalenergies.com/wp-content/uploads/2025/11/AKPO-BLEND.pdf,Total Akpo Blend,2025,assay,unreachable,0,Session usage limit hit before fetch; retry.
+NGE-S14,https://trading.totalenergies.com/wp-content/uploads/2025/11/AMENAM-BLEND.pdf,Total Amenam Blend,2025,assay,unreachable,0,Session usage limit hit before fetch; retry.
+NGE-S15,https://trading.totalenergies.com/wp-content/uploads/2025/11/BRASS-RIVER.pdf,Total Brass River,2025,assay,unreachable,0,Session usage limit hit before fetch; retry.
+NGE-S16,https://trading.totalenergies.com/wp-content/uploads/2025/11/EGINA.pdf,Total Egina,2025,assay,unreachable,0,Session usage limit hit before fetch; retry.
+NGE-S17,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/usan.pdf,ExxonMobil assay Usan re-read,2024,assay,no_wat,0,Verification: pour -77 and wax 4.0 are cut values not whole crude; see usan_check.txt.
+NGE-S18,https://trading.totalenergies.com/wp-content/uploads/2025/11/AKPO-BLEND.pdf,Total assay Akpo Blend,2020,assay,no_wat,1,Bulk only row; no wax or WAT.
+NGE-S19,https://trading.totalenergies.com/wp-content/uploads/2025/11/AMENAM-BLEND.pdf,Total assay Amenam Blend,2021,assay,no_wat,1,Bulk only row; no wax or WAT.
+NGE-S20,https://trading.totalenergies.com/wp-content/uploads/2025/11/BRASS-RIVER.pdf,Total assay Brass River,2018,assay,no_wat,1,Bulk only row; no wax or WAT.
+NGE-S21,https://trading.totalenergies.com/wp-content/uploads/2025/11/EGINA.pdf,Total assay Egina,2019,assay,no_wat,1,Bulk only row; no wax or WAT.
+NGE-S22,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/bonga.pdf,ExxonMobil assay Bonga,2018,assay,no_wat,1,Bulk only row; wax row unlabelled so blank.
+NGE-S23,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/erha.pdf,ExxonMobil assay Erha,2022,assay,no_wat,1,Bulk only row; wax row unlabelled so blank.
+NGE-S24,https://journals.aun.edu.ng/index.php/files/article/download/192/186/920,Review with table of wax properties incl. Nigeria A B C,unknown,paper,duplicate,0,"Nigeria A B C WAT rows already in master (Ketebu et al 2020, R33-R35) from primary source."
+NGE-S25,https://ajol.info/index.php/sa/article/view/184863/174202,Chikwe and Okoli Effects of treatment chemicals on a Nigerian crude blend,2018,paper,duplicate,0,Already harvested as NGR-004 in ng_regulator.
+NGE-S26,https://repository.ui.edu.ng/bitstreams/e030b588-dfb4-4320-9639-e89af8082973/download,University of Ibadan repository item,unknown,thesis,unreachable,0,Page returned only DSpace shell; no content.
+NGE-S27,https://journals.abuad.edu.ng/index.php/ajeas/article/download/1413/943/6861,Peretomode et al Characterization of selected Niger Delta crude oil blends,2025,paper,no_wat,5,Five bulk only rows with API SG and 40 C viscosity; no pour wax or WAT.
+NGE-S28,https://ts.totalenergies.com/wp-content/uploads/2020/03/BONNY-LIGHT.pdf,Total assay Bonny Light 2011,2011,assay,no_wat,1,Bulk only row; WAT field blank.
+NGE-S29,https://www.osti.gov/servlets/purl/963363,Zhu et al ANS wax deposition DOE report,2008,report,rejected,0,"Alaska North Slope oils, not Nigerian."
+NGE-S30,https://ajol.info/index.php/njtd/article/view/226272/213536,Makwashi et al Wax precipitation and deposition risk,2022,paper,rejected,0,"Sample is North Sea, not Nigerian."
+NGE-S31,https://ajol.info/index.php/njcr/article/view/197365/188463,Udourioh et al Saturates in heavy organics Sapele,2020,paper,no_wat,0,"Composition only; no WAT, pour or API."
+NGE-S32,https://core.ac.uk/download/322410851.pdf,Taiwo et al Crude oil transportation Nigerian Niger Delta waxy crude,2012,chapter,duplicate,0,Samples I and II already in master as R59 and R60.
+NGE-S33,https://eprints.lancs.ac.uk/id/eprint/156603,Study on waxy crudes characterisation and chemical inhibitor assessment,unknown,paper,rejected,0,Crudes not shown to be Nigerian; no open full text.
+NGE-S34,https://www.scribd.com/document/699705191/Dickson-and-Udoessien-2012,Dickson and Udoessien Physicochemical analysis of Nigerian crude oil,2012,paper,unreachable,0,Scribd shows summary only; tables not readable.
+NGE-S35,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/yoho.pdf,ExxonMobil assay Yoho,2019,assay,no_wat,1,Bulk only row; wax row unlabelled.
+NGE-S36,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/edop.pdf,ExxonMobil guessed URL Edop,2024,assay,unreachable,0,Guessed URL not found.
+NGE-S37,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/ukpokiti.pdf,ExxonMobil guessed URL Ukpokiti,2024,assay,unreachable,0,Guessed URL not found.
+NGE-S38,https://ogj.com/refining-processing/petrochemicals/article/17208224/guide-to-world-crudes-deepwater-agbami-field-produces-light-lowsulfur-crude,OGJ Guide to world crudes Agbami,2010,article,no_wat,1,Bulk only row; no wax or WAT.
+NGE-S39,https://www.ogj.com/general-interest/companies/article/17225008/guide-to-world-crudes-exxonmobil-assays-bonga-crude,OGJ Guide to world crudes Bonga,2006,article,no_wat,1,Bulk only row; no wax or WAT.
+NGE-S40,https://journals.futa.edu.ng/papers/paper_5_1670606816.pdf,Peretomode 2021 SG and viscosity of selected Nigerian oilfields,2021,paper,duplicate,0,Same five crudes and values as the 2025 Peretomode paper already added.
+NGE-S41,https://www.scirp.org/pdf/aces_2022101915315422.pdf,Michael et al Simulation of Nigerian crude types for topping plants,2022,paper,no_wat,0,Lists 20 grades but API only in a figure; no pour wax or WAT.
+NGE-S42,https://nigerianqueries.com/crude-oil-types-in-nigeria-and-their-specifications/,Nigerian Queries blog crude types,2026,web,rejected,0,Blog with no citations and inconsistent values; no wax or WAT.
+NGE-S43,https://core.ac.uk/download/487601463.pdf,Nkeeh et al Bodo Creek physicochemical review,2021,paper,rejected,0,Water quality only; no crude properties.
+NGE-S44,https://catalogue.ec.gc.ca/geonetwork/srv/api/records/8d45883e-672f-4a6f-a342-5a9e08bddf70,Environment Canada catalogue of crude oil properties record,2022,index,rejected,0,Metadata record only; no data download link.
+NGE-S45,https://corporate.exxonmobil.com/en/company/worldwide-operations/crude-oils/assays,ExxonMobil assays index,2024,index,unreachable,0,Index page failed to load.
+NGE-S46,https://core.ac.uk/download/234664098.pdf,Nwokedi et al E&P waste Total offshore,2015,paper,rejected,0,Waste quantities only.
+NGE-S47,https://core.ac.uk/download/328021647.pdf,Gjesteland et al benzene from fresh crudes,2019,paper,rejected,0,Norwegian oils only.
+NGE-S48,https://www.redalyc.org/pdf/474/47446522005.pdf,Akinyemi et al 2016 (same as NGE-S06),2016,paper,duplicate,0,Same paper already extracted.
+NGE-S49,https://www.sintef.no/en/publications/publication/1268684,SINTEF weathering re-check Grane Oseberg,2013,report,rejected,0,North Sea oils.
+NGE-S50,https://www.sintef.no/globalassets/sintef-industri/faktaark/miljoteknologi/oil-weathering-studies.pdf,SINTEF oil weathering studies factsheet,unknown,report,rejected,0,No Nigerian crudes listed.
+NGE-S51,https://www.shell.com.ng/sustainability/environment/environment-impact-assessments.html,Shell Nigeria EIA reports page,unknown,index,rejected,0,Page text had no document list.
+NGE-S52,https://wedocs.unep.org/bitstream/handle/20.500.11822/22117/ogoniland_Environmental_Assessment_2011.pdf,UNEP Ogoniland assessment (guessed file path),2011,report,unreachable,0,Fetch failed; search hit page https://wedocs.unep.org/handle/20.500.11822/22117 not opened.
+NGE-S53,https://data-donnees.ec.gc.ca/data/substances/scientificknowledge/spills-technology-databases/environment-canada-crude-oil-and-petroleum-product-database/ECCC_Petroleum_Products_Database-2021-01-22.EN.csv,Environment Canada petroleum database CSV,2021,dataset,unreachable,0,Shell download blocked 403; open in browser. NOAA ADIOS already covers most records.
+NGE-S54,https://link.springer.com/doi/10.1007/s13202-020-00885-6,Odutola and Idemili 2020,2020,paper,duplicate,0,Already in master as R68.
+NGE-S55,https://issuu.com/researchpublish/docs/paperpdf-1605683640,Edimeh and Abdulkadir Eleme crude wax remediation,2020,paper,no_wat,0,Cloud point 20 C and pour 12 C only in abstract; no API or viscosity visible. Full text lead.

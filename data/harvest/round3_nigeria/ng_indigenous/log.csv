@@ -1,0 +1,6 @@
+source_id,url,title,year,type,status,rows_added,reason
+NGO-S01,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/qua_iboe.pdf,ExxonMobil Qua Iboe crude assay,2024,operator assay,no_wat,0,No WAT or whole-crude wax; 1 bulk_only row.
+NGO-S02,https://trading.totalenergies.com/wp-content/uploads/2025/11/EA-BLEND.pdf,TotalEnergies EA Blend crude sheet,2025,operator assay,no_wat,0,WAT and wax fields blank; 1 bulk_only row.
+NGO-S03,https://ajol.info/index.php/sa/article/view/184863/174202,Odutola and Idemili Niger Delta crude PPD and wax inhibitor study,2020,journal,duplicate,0,Already in master as ng_odutola_blank; cloud point and pour only.
+NGO-S04,https://ir.unilag.edu.ng/handle/123456789/5771,Adeyanju and Oyekunle Rheological properties of Nigerian waxy crude,2012,journal record,unreachable,0,Record page only, no full text or values.
+NGO-S05,https://www.oandoplc.com/oando-energy-resources/projects/abo-field-oml-125/index.html,Oando Abo field OML 125 page and press releases,n/a,company web,rejected,0,Search hits are production news with no crude quality data; not opened in depth.

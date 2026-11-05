@@ -1,0 +1,196 @@
+row_id,field,merged,checker,result
+R82,density_kg_m3,824.4,824.4,ok
+R82,wax_wt_pct,3.58,3.58,ok
+R82,pour_c,-3.0,-3.0,ok
+R82,wat_c,12.0,12.0,ok
+R84,density_kg_m3,788.8,788.8,ok
+R84,wax_wt_pct,2.37,2.37,ok
+R84,pour_c,-12.0,-12.0,ok
+R84,wat_c,12.0,12.0,ok
+R89,density_kg_m3,799.3,799.3,ok
+R89,wax_wt_pct,2.21,2.21,ok
+R89,pour_c,-23.0,-23.0,ok
+R89,wat_c,6.0,6.0,ok
+R92,density_kg_m3,820.2,820.2,ok
+R92,wax_wt_pct,3.15,3.15,ok
+R92,pour_c,0.0,0.0,ok
+R92,wat_c,25.9,25.9,ok
+R93,density_kg_m3,803.0,803.0,ok
+R93,wax_wt_pct,1.5,1.5,ok
+R93,pour_c,-15.0,-15.0,ok
+R93,wat_c,9.6,9.6,ok
+R96,density_kg_m3,789.8,789.8,ok
+R96,wax_wt_pct,2.2,2.2,ok
+R96,pour_c,-21.0,-21.0,ok
+R96,wat_c,4.7,4.7,ok
+R106,density_kg_m3,815.2,815.2,ok
+R106,wax_wt_pct,1.96,1.96,ok
+R106,pour_c,-16.0,-16.0,ok
+R106,wat_c,10.5,10.5,ok
+R117,density_kg_m3,822.8,822.8,ok
+R117,wax_wt_pct,2.88,2.88,ok
+R117,pour_c,-9.0,-9.0,ok
+R117,wat_c,12.4,12.4,ok
+R119,density_kg_m3,824.1,824.1,ok
+R119,wax_wt_pct,2.58,2.58,ok
+R119,pour_c,-6.0,-6.0,ok
+R119,wat_c,12.8,12.8,ok
+R126,density_kg_m3,802.8,802.8,ok
+R126,wax_wt_pct,2.94,2.94,ok
+R126,pour_c,-9.0,-9.0,ok
+R126,wat_c,12.0,12.0,ok
+R127,density_kg_m3,809.7,809.7,ok
+R127,wax_wt_pct,2.65,2.65,ok
+R127,pour_c,-10.0,-10.0,ok
+R127,wat_c,11.7,11.7,ok
+R130,density_kg_m3,804.7,804.7,ok
+R130,wax_wt_pct,2.0,2.0,ok
+R130,pour_c,-30.0,-30.0,ok
+R130,wat_c,3.5,3.5,ok
+R33,api,38.0,38.0,ok
+R33,pour_c,23.3,23.3,ok
+R33,wat_c,28.2,28.2,ok
+R34,api,34.0,34.0,ok
+R34,pour_c,21.1,21.1,ok
+R34,wat_c,27.0,27.0,ok
+R35,api,30.5,30.5,ok
+R35,pour_c,27.0,27.0,ok
+R35,wat_c,31.0,31.0,ok
+R157,api,30.0,30.0,ok
+R157,wax_wt_pct,3.93,,blank mismatch
+R157,pour_c,12.0,12.0,ok
+R157,wat_c,35.7,35.7,ok
+R158,api,27.4,27.4,ok
+R158,wax_wt_pct,2.64,,blank mismatch
+R158,pour_c,-24.0,,blank mismatch
+R158,wat_c,16.1,16.1,ok
+R160,api,17.3,17.3,ok
+R160,wax_wt_pct,0.0,,blank mismatch
+R160,pour_c,-6.0,-6.0,ok
+R160,wat_c,19.9,19.9,ok
+R162,api,36.0,36.0,ok
+R162,wax_wt_pct,13.95,,blank mismatch
+R162,pour_c,36.0,36.0,ok
+R162,wat_c,55.2,55.2,ok
+R163,api,28.9,28.9,ok
+R163,wax_wt_pct,2.8,,blank mismatch
+R163,pour_c,-15.0,-15.0,ok
+R163,wat_c,40.5,40.5,ok
+R167,api,30.0,30.0,ok
+R167,wat_c,37.35,37.4,ok
+R180,api,33.0,33.0,ok
+R180,pour_c,26.0,26.0,ok
+R180,wat_c,30.0,30.0,ok
+R181,api,40.0,40.0,ok
+R181,pour_c,20.0,20.0,ok
+R181,wat_c,25.2,25.2,ok
+R182,api,30.0,30.0,ok
+R182,pour_c,26.6,26.6,ok
+R182,wat_c,31.0,31.0,ok
+R183,api,32.0,32.0,ok
+R183,pour_c,22.0,22.0,ok
+R183,wat_c,26.0,26.0,ok
+R132,density_kg_m3,,886.0,blank mismatch
+R132,api,25.1,25.1,ok
+R132,wax_wt_pct,18.7,18.7,ok
+R132,pour_c,51.0,51.0,ok
+R132,wat_c,68.2,68.2,ok
+R135,density_kg_m3,,827.0,blank mismatch
+R135,api,36.0,36.0,ok
+R135,wax_wt_pct,8.0,8.0,ok
+R135,pour_c,0.0,0.0,ok
+R135,visc_cSt_40C,5.25,5.25,ok
+R135,wat_c,23.2,22.5,MISMATCH
+R136,density_kg_m3,,790.0,blank mismatch
+R136,api,43.4,43.4,ok
+R136,wax_wt_pct,24.0,24.0,ok
+R136,pour_c,21.0,21.0,ok
+R136,visc_cSt_40C,4.44,4.44,ok
+R136,wat_c,43.1,42.1,MISMATCH
+R150,density_kg_m3,850.0,850.0,ok
+R150,wax_wt_pct,20.3,20.3,ok
+R150,pour_c,35.0,35.0,ok
+R150,wat_c,57.8,57.8,ok
+R152,density_kg_m3,801.0,801.0,ok
+R152,wax_wt_pct,10.2,10.2,ok
+R152,pour_c,18.0,18.0,ok
+R152,wat_c,21.5,21.5,ok
+R153,density_kg_m3,859.0,859.0,ok
+R153,wax_wt_pct,19.7,19.7,ok
+R153,pour_c,36.0,36.0,ok
+R153,wat_c,37.0,37.0,ok
+R191,api,45.0,45.0,ok
+R191,wat_c,36.044,36.044,ok
+R191,wdt_c,39.978,39.978,ok
+R194,api,15.0,15.0,ok
+R194,wat_c,5.35,5.35,ok
+R194,wdt_c,15.979,15.979,ok
+R195,api,17.0,17.0,ok
+R195,wat_c,18.99,18.99,ok
+R195,wdt_c,21.33,21.33,ok
+R40,density_kg_m3,,890.0,blank mismatch
+R40,api,27.7,27.7,ok
+R40,wax_wt_pct,7.51,7.51,ok
+R40,pour_c,-18.0,-18.0,ok
+R40,wat_c,14.89,14.89,ok
+R66,density_kg_m3,,921.8,blank mismatch
+R66,api,18.71,18.71,ok
+R66,wax_wt_pct,16.0,16.0,ok
+R66,visc_cSt_40C,157.3009,157.3009,ok
+R66,wat_c,50.0,50.0,ok
+R67,density_kg_m3,,891.6,blank mismatch
+R67,api,26.77,26.77,ok
+R67,wax_wt_pct,14.0,14.0,ok
+R67,visc_cSt_40C,116.6442,116.6442,ok
+R67,wat_c,55.0,55.0,ok
+R68,density_kg_m3,,810.0,blank mismatch
+R68,api,43.19,43.19,ok
+R68,wax_wt_pct,36.58,36.58,ok
+R68,pour_c,10.0,10.0,ok
+R68,wat_c,29.0,29.0,ok
+R173,density_kg_m3,855.4,855.4,ok
+R173,wax_wt_pct,20.2,20.2,ok
+R173,pour_c,32.0,32.0,ok
+R173,wat_c,47.85,47.85,ok
+R174,density_kg_m3,835.6,835.6,ok
+R174,wax_wt_pct,16.34,16.34,ok
+R174,pour_c,21.0,21.0,ok
+R174,wat_c,38.51,38.51,ok
+R175,density_kg_m3,940.86,940.86,ok
+R175,wax_wt_pct,12.38,12.38,ok
+R175,wat_c,23.6,23.6,ok
+R177,density_kg_m3,868.32,868.32,ok
+R177,wax_wt_pct,1.67,1.67,ok
+R177,wat_c,5.7,5.7,ok
+R178,density_kg_m3,875.31,875.31,ok
+R178,wax_wt_pct,1.75,1.75,ok
+R178,wat_c,6.8,6.8,ok
+R69,density_kg_m3,838.0,838.0,ok
+R69,wax_wt_pct,7.0,7.0,ok
+R69,pour_c,-3.0,-3.0,ok
+R69,wat_c,41.5,,blank mismatch
+R137,density_kg_m3,818.0,818.0,ok
+R137,api,41.38,41.38,ok
+R137,wax_wt_pct,12.4,12.4,ok
+R137,pour_c,24.0,24.0,ok
+R137,visc_cSt_40C,10.29,10.29,ok
+R137,wat_c,54.23,54.23,ok
+R154,density_kg_m3,897.5,897.5,ok
+R154,wax_wt_pct,14.5,14.5,ok
+R154,pour_c,24.0,,blank mismatch
+R154,wat_c,51.0,51.0,ok
+R155,density_kg_m3,855.7,855.7,ok
+R155,wax_wt_pct,17.15,17.15,ok
+R155,wat_c,49.8,,blank mismatch
+R171,density_kg_m3,,868.8,blank mismatch
+R171,api,31.4,31.4,ok
+R171,wax_wt_pct,6.5,6.5,ok
+R171,pour_c,-12.2,-12.2,ok
+R171,visc_cSt_40C,10.79,10.79,ok
+R171,wat_c,23.84,,blank mismatch
+R187,wax_wt_pct,28.9,28.9,ok
+R187,wat_c,36.1,36.1,ok
+R189,wax_wt_pct,33.65,33.65,ok
+R189,wat_c,37.0,37.0,ok
+R190,wax_wt_pct,27.35,27.35,ok
+R190,wat_c,34.1,34.1,ok

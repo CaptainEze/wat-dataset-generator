@@ -1,0 +1,33 @@
+url,title,year,status,notes
+https://link.springer.com/content/pdf/10.1007/s13202-015-0184-8.pdf,Alomair et al. Heavy oil viscosity and density prediction,2016,used,validity and AARD tables; no equations
+https://petrowiki.spe.org/Oil_viscosity,PetroWiki Oil viscosity,,used,qualitative notes and references; equations not in page text
+https://www.vurup.sk/na_stiahnutie/new-viscosity-correlations-dead-crude-oils/,Sattarin et al. New viscosity correlations for dead crude oils (Petroleum and Coal 49(2)),2007,used,equations garbled; used only to cross-check Naseri and ranges
+https://distantreader.org/stacks/journals/ijcpe/ijcpe-290.pdf,Abdulmajeed. New viscosity correlation for Iraqi oil fields,2014,no_content,equations lost in extraction
+https://journal.su.edu.ly/index.php/susj/article/download/2800/2266/5151,Arwini. Assessment of oil viscosity correlations for Libyan crudes,2024,no_content,names only
+https://www.ihsenergy.ca/support/documentation_ca/Harmony_Enterprise/latest/content/html_files/ref_materials/calculations/oil_correlations.htm,IHS Harmony Enterprise oil correlations,,used,ranges and descriptions; equations are images
+https://www.ihsenergy.ca/support/documentation_ca/WellTest/content/html_files/reference_materials/calculations_correlations/oil_correlations.htm,IHS WellTest oil correlations,,used,Ng-Egbogah pour point version exists (image eq420.svg not readable)
+https://www.ihsenergy.ca/support/documentation_ca/WellTest/content/generatedimages/equations/equation420.svg,Ng-Egbogah pour point equation image,,unreachable,fetch error; shell blocked
+https://www.ihsenergy.ca/support/documentation_ca/Harmony/content/html_files/reference_material/calculations_and_correlations/oil_correlations.htm,IHS Harmony oil correlations,,no_content,equations are PNG images
+http://fekete.com/SAN/TheoryAndEquations/WellTestTheoryEquations/Ng_and_Egbogah.htm,Fekete Ng and Egbogah,,unreachable,robots disallowed
+https://www.mdpi.com/1996-1073/14/4/930,Hadavimoghaddam et al. Prediction of dead oil viscosity ML vs classical,2021,no_content,Table 1 is an image; PDF returned binary
+https://www.redalyc.org/journal/5722/572261628002/572261628002.pdf,Marin Velasquez. Viscosity model heavy dead crudes Monagas (Enfoque UTE 8(3)),2017,used,"Glaso, Bennison, Naseri cross-check"
+https://intechopen.com/chapters/40684,Al-Rawahi et al. Viscosity correlation Omani Fahud crude,2012,used,"Appendix A Beal, B-R, Glaso, Labedi, Kartoatmodjo (garbled signs)"
+https://biblat.unam.mx/hevila/Ingenieriapetrolera/2019/vol59/no2/3.pdf,Arzapalo et al. Evaluation of viscosity correlations 10-16 API Gulf of Mexico,2019,no_content,Appendix A equations missing in extraction
+https://ctyf.journal.ecopetrol.com.co/index.php/ctyf/article/view/319,Pertuz Parra et al. Extra-heavy oil viscosity Colombia,2014,no_content,landing page only
+"https://katalog.lib.cas.cz/KNAV/EdsRecord/edsair,edsair.doi...........8e2064776f8c772ea7085bd09bd133cc",Ng and Egbogah improved temperature-viscosity correlation (catalogue),1983,unreachable,bot protection
+https://www.oiml.org/en/files/pdf_r/r063-e94.pdf,OIML R 63 Petroleum measurement tables,1994,no_content,index of tables only
+https://www.ogj.com/home/article/17234322/new-equations-predict-boiling-point-from-viscosity-gravity,"Gomez. New equations predict boiling point from viscosity, gravity (OGJ)",1996,used,ranges; equations are images
+https://cpme.tu.edu.iq/images/mhadrat-mkhtlft/م.م_جاسم/خواص_مواد_3/lec-9.pdf,Tikrit University lecture 9 petroleum properties,,unreachable,robots disallowed
+https://cdn.standards.iteh.ai/samples/23092/b14826d85cdd4755a615c78135051b7e/ASTM-D2502-92-2002-.pdf,ASTM D2502-92(2002) preview,2002,used,"scope, precision, worked example"
+https://jawchemist.blogspot.com/p/mw-calc-full.html,JAWChemist. Calculation to estimate the molecular weight (D2502 chart model),2020,used,Hirschler equations
+https://burjcdigital.urjc.es/items/6c1b9103-8f17-42eb-8794-93c92675e3d9/full,Robustillo et al. Assessment of methods for total wax content (record),2012,used,abstract
+https://burjcdigital.urjc.es/bitstreams/49e877cc-f97e-43c1-9119-d7c433729b55/download,Robustillo et al. 2012 full text,2012,used,Tables 1-5; Eq 6 garbled
+https://api.openalex.org/works?search=pour%20point%20correlation%20crude%20oil%20wax%20content%20API%20gravity,OpenAlex search pour point wax API,,used,lead list
+https://github.com/NOAA-ORR-ERD/noaa-oil-data,NOAA ADIOS Oil Library data,2024,used,1134 fresh crude records extracted
+https://github.com/m2b/API11_1VCF,API 11.1 VCF implementation with standard examples,,used,"2004 crude procedure and Example 1, 2"
+https://github.com/jjgomera/pychemqt,pychemqt petro.py,,used,"API TDB 11A4.2, 11A4.4, 2B8.1, Riazi-Daubert"
+https://github.com/zentechnologygroup/pvt-cpp,pvt-cpp dead-oil viscosity correlations,,used,"Beal, B-R, Ng-Egbogah, Glaso, Kartoatmodjo, Naseri, Petrosky, De Ghetto"
+https://github.com/EverJRamosI/petpropy,petpropy oil viscosity,,used,cross-check
+https://github.com/mwburgoyne/pyResToolbox,pyResToolbox,,no_content,Beggs-Robinson only
+https://github.com/yohanesnuwara/reservoir-engineering,reservoir-engineering notebooks,,used,"Beggs-Robinson exp form, Egbogah"
+https://github.com/Kandimus/tritonn,tritonn density.h,,used,1980 K0 constants (via code search)

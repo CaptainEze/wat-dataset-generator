@@ -1,0 +1,73 @@
+url,title,year,status,notes
+http://science-gate.com/IJAAS/2019/V6I1/1021833ijaas201901012.html,Hosseinipour 2019 IJAAS abstract page,2019,used,abstract and stats
+http://science-gate.com/IJAAS/Articles/2019/2019-6-1/1021833ijaas201901012.pdf,Hosseinipour 2019 IJAAS full PDF,2019,used,Eq 4 and Eq 5 with Tables 2-3; printed coefficients do not reproduce tables
+https://ejp.researchcommons.org/cgi/viewcontent.cgi?article=1070&context=journal,Joseph and Oyinkuro 2025 PDF,2025,unreachable,client error
+https://ejp.researchcommons.org/journal/vol34/iss2/3,Joseph and Oyinkuro 2025 abstract page,2025,no_content,abstract only; five models (2 compositional, GOR 1-1228 scf/stb, 2 hybrid) but no equations on page
+https://api.openalex.org/works/doi:10.62593/2090-2468.1070,OpenAlex record Joseph and Oyinkuro 2025,2025,no_content,no repository PDF
+https://www.academia.edu/82702550/Prediction_of_Wax_Appearance_Temperature_Using_Artificial_Intelligent_Techniques,Benamara et al. 2020 AJSE (academia copy),2020,used,GEP Eq 6-11 extracted but garbled; 5 Table 4 rows with freezing point read
+https://www.academia.edu/82702629/Modeling_Wax_Disappearance_Temperature_Using_Advanced_Intelligent_Frameworks,Benamara et al. 2019 Energy Fuels GMDH WDT (academia copy),2019,used,GMDH Eqs 11-12; WDT from Mw and P; 272 points
+https://dspace.univ-boumerdes.dz/items/1f696557-a155-4ee0-9c22-923a68c9c71c/full,Nait Amar et al. 2024 Fuel 376 repository record,2024,no_content,abstract only (GEP R2 0.9647 AARD 0.5963 pct); bitstream blocked by robots
+https://www.bohrium.com/paper-details/modeling-wax-disappearance-temperature-using-robust-white-box-machine-learning/1055996638188797998-3796,Bohrium page Nait Amar 2024,2024,unreachable,WAF challenge page
+https://ouci.dntb.gov.ua/works/4OgdD5m4,Kouhi et al. 2025 Fuel reference list,2025,no_content,reference list only
+https://github.com/DanWBR/dwsim (FrmColdProperties.vb),DWSIM source code: API TDB cold flow procedures,2024,used,API 2B8.1 pour point; 2B11.1 freezing point; 2B12.1 cloud point (Rankine)
+https://github.com/oslofjord-twin/OslofjordSM (opendrift adios estimations.py),NOAA ADIOS estimations module copy,2023,used,Riazi eq 3.119 pour point (code has multiply-instead-of-power bug); ADIOS pour point from viscosity
+https://cpme.tu.edu.iq/images/mhadrat-mkhtlft/lec-9.pdf,Tikrit University lecture on cold flow properties,,unreachable,robots disallowed
+https://scispace.com/pdf/the-limitations-of-the-cloud-point-measurement-techniques-2c5wwjn3hi.pdf,Coutinho and Daridon 2005 Pet Sci Tech,2005,used,no fitted correlation; facts on detection limits and method gaps
+https://hal-univ-pau.archives-ouvertes.fr/hal-00338124,HAL record Coutinho and Daridon 2005,2005,unreachable,bot protection
+https://manuscript.isc.ac/Inventory/10/1461788.htm,Elsharkawy Al-Sahhaf Fahim 2000 Fuel 79 abstract,2000,no_content,thermodynamic model only; no explicit correlation in abstract
+https://www.ogj.com/home/article/17211400/new-pour-point-correlations-improve-economics-of-distillate-blending,Semwal and Varshney 1994 OGJ pour point blending,1994,no_content,equations missing from web text; Hu-Burns x values 0.073 0.079 0.186 and validity ranges stated
+https://ecnet.readthedocs.io/en/latest/api/blends.html,ECNet docs cloud point blending rule,2020,used,CPb^13.45 = sum Vi CPi^13.45 (Rankine) citing Semwal et al.
+https://courses.ems.psu.edu/fsc432/node/740,Penn State FSC 432 pour point blending,,used,PPBI chart method; worked binary blend example 15 F
+https://www.researchgate.net/publication/263026242_Correlations_Between_the_Pour_PointGel_Point_and_the_Amount_of_Precipitated_Wax_for_Waxy_Crudes,Correlations between pour point/gel point and precipitated wax,,unreachable,client error
+https://www.sciencedirect.com/science/article/pii/S0009250925011170,Ensemble WAT models heavy crude (Chem Eng Sci 2025),2025,unreachable,client error
+https://yqcy.pipechina.com.cn/article/doi/10.6047/j.issn.1000-8241.2005.08.007,Chen and Zhang 2005 gel point vs pour point (OGST 24(8)),2005,no_content,84 paired data; linear relation; equation not on abstract page
+https://yqcy.pipechina.com.cn/cn/article/pdf/preview/10.6047/j.issn.1000-8241.2005.08.007.pdf,Chen and Zhang 2005 PDF,2005,no_content,PDF text font-garbled; coefficients unreadable
+https://yqcy.pipechina.com.cn/article/doi/10.6047/j.issn.1000-8241.2002.11.002,Li and Zhang 2002 influence of wax on crude rheology,2002,used,WDT usually more than 10 C above WAT; pour point at about 1 wt% precipitated wax; gel at about 2 wt%
+https://yqcy.pipechina.com.cn/article/doi/10.6047/j.issn.1000-8241.2009.04.014,Huang and Miao 2009 wax precipitation vs deposition,2009,no_content,no equations
+https://yqcy.pipechina.com.cn/article/doi/10.6047/j.issn.1000-8241.2020.03.007,Li Yan Li 2020 composition effects on WAT,2020,no_content,qualitative only
+https://yqcy.pipechina.com.cn/cn/article/pdf/preview/CNKI:13-1093/TE.20110411.1457.008.pdf,Zhang et al 2011 nanomaterial on Daqing WAT,2011,no_content,no equations
+https://publications.aston.ac.uk/id/eprint/9701/2/Al_Besharah_Jasem_M._1989.pdf,Al-Besharah 1989 Aston PhD thesis blending of Kuwaiti crudes,1989,no_content,text copy truncated at 87k chars; Chapter 6 pour point correlations not reachable; wax class bands noted
+https://katalog.lib.cas.cz/KNAV/EdsRecord/edsair,edsair.doi...........dc309fbd92ceea31ea6700ca299c500a,Majhi et al 2015 wax content vs viscosity and pour point catalogue,2015,unreachable,bot protection
+https://journals.aun.edu.ng/index.php/files/article/download/192/186/920,Usman et al 2025 AUN conference review,2025,no_content,no equations; table of secondary values (Ketebu and Sunday 2021 Nigerian samples)
+https://api.crossref.org/works?query.bibliographic=Wax+Content+of+Crude+Oil,Crossref lookup,2015,used,Majhi et al. 2015 Pet Sci Tech 33(4):381-387 doi 10.1080/10916466.2014.986277
+https://patents.google.com/patent/US7920970B2/en,Schlumberger patent US7920970 fluid characterisation,2011,used,n-paraffin decay ratio alpha default 0.88; no explicit WAT formula
+https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7920970,USPTO PDF US7920970,2011,no_content,image only
+https://ogst.ifpenergiesnouvelles.fr/articles/ogst/pdf/2008/02/ogst07070.pdf,GA correlations for petroleum fraction critical properties,2008,no_content,not cold flow
+https://rcastoragev2.blob.core.windows.net/fca61527b45718cfcb9c7616e8a59ffd/41598_2024_Article_68064.PMC11303739.pdf,Biodiesel surface tension GMDH (Sci Rep 2024),2024,no_content,off topic
+https://ogst.ifpenergiesnouvelles.fr/articles/ogst/pdf/2018/01/ogst180012.pdf,Bitumen tetradecane density GEP,2018,no_content,off topic
+https://krishnapdf.cocosimulator.org/Krishna_Erdol_und_Erdgas_1989.pdf,Krishna et al 1989 low temperature properties of diesel vs composition,1989,used,form Y=A0+A1X1+A2X2; log(WC) best; Table III coefficients unreadable
+https://patents.google.com/patent/US9816919B2/en,Aramco patent US9816919 crude characterisation by SimDist,2017,used,pour and cloud point polynomials; example reproduced; worked K typo
+https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9816919,USPTO PDF US9816919,2017,no_content,image only
+https://digitalrefining.com/article/1002285/predicting-middle-distillate-properties,Predicting middle distillate properties (digitalrefining),,no_content,no equations shown
+https://www.academia.edu/23230220/Correlation_of_pour_point_of_gas_oil_and_vacuum_gas_oil_fractions_with_compositional_parameters,Pour point of gas oil and VGO vs composition,,unreachable,client error twice
+https://www.sciencedirect.com/science/article/abs/pii/S0016236112001573,Correlations for pour point and cloud point of middle and heavy distillates (Fuel 2012),2012,unreachable,client error
+https://www.osti.gov/biblio/5920149,Riazi and Daubert 1987 Predicting flash and pour points (OSTI),1987,unreachable,robots disallowed
+https://www.osti.gov/etdeweb/biblio/6897249,Updating Hu pour point correlation (OSTI),,unreachable,robots disallowed
+https://www.mdpi.com/2227-9717/12/4/772,Han et al 2024 Processes blended oils wax deposition,2024,used,WAT and wax content linear in blend ratio
+https://www.sciencedirect.com/science/article/abs/pii/S0016236124022956,Kouhi et al Fuel 380 abstract (ScienceDirect),2025,unreachable,client error
+https://api.openalex.org/works/doi:10.1016/j.fuel.2024.133146,OpenAlex Kouhi 2025,2025,used,metadata; SSRN accepted version 10.2139/ssrn.4926761
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926761,SSRN Kouhi accepted version,2024,unreachable,client error
+https://nur.nu.edu.kz/handle/123456789/14457,Nazarbayev repository Kouhi 2025,2025,used,abstract: 81 points; inputs density wax pour; LSSVM; no explicit equation
+https://etasr.com/index.php/ETASR/article/view/9644,Khussainova et al 2025 ETASR abstract,2025,used,abstract
+https://etasr.com/index.php/ETASR/article/download/9644/4758,Khussainova et al 2025 ETASR PDF,2025,used,Won Tm; Nichita Tssp; Lira-Galeana Tm; new ln(MW) forms; worked example reproduced
+https://research.pgu.ac.ir/_Pages/ResearchEN.aspx?ID=3056,Azin Osfouri Izadpanah WDT correlation (PGU page),2018,no_content,abstract only: WDT empirical correlation from SG P MW; 12 Iranian oils; 310 literature points
+https://informahealthcare.com/doi/abs/10.1080/01932691.2018.1461635,Same paper J Dispersion Sci Tech 2018 abstract,2018,no_content,abstract only; correlation form not shown
+https://etasr.com/index.php/ETASR/article/view/9644,duplicate,2025,duplicate,
+https://journal.ut.ac.ir/article_2976_ceac01dc25a586d9de2bb585184d7814.pdf,Moradi Mohadesi Mokhtari 2013 WDT correlation at pressure (J Chem Pet Eng 47(1)),2013,no_content,equations garbled in extraction; synthetic n-alkane mixtures; AARD 0.30-0.68 pct
+https://rcastoragev2.blob.core.windows.net/fac5385c3077144472cce8760da0bd29/ao1c07072.PMC9134231.pdf,Shariatrad et al 2022 ACS Omega WDT quaternary n-paraffins,2022,used,30 WDT points table; property correlations garbled; pressure effect negligible
+https://cyberleninka.ru/article/n/statistical-analysis-and-estimation-of-oil-saturation-by-temperature-paraffin,Karazhanova et al 2021 Azerbaijan Chem J,2021,used,VNIIneft and Trebin log-paraffin WAT laws; Kazakh table; Eq 1 not reproducible
+https://ejp.researchcommons.org/cgi/viewcontent.cgi?context=journal&article=1070,Joseph and Oyinkuro 2025 PDF (alt query),2025,unreachable,client error
+https://petroleomics.ips.ac.ru/images/contents/2023/т3-1_статья_8.pdf,Yudina et al 2023 Petroleomics West Siberian oils,2023,used,R2 values only for pour point vs paraffin and P/A
+https://earchive.tpu.ru/jspui/bitstream/11683/12818/2/bulletin_tpu-1973-v257-03_full.pdf,Blagopoluchnaya and Smolyaninova 1973 TPU bulletin,1973,used,r=0.6 pour point vs paraffin (n=350)
+https://ir.unilag.edu.ng/bitstream/123456789/6238/1/pc_4_2010_adeyanju_081.pdf,Adeyanju 2010 Unilag repository,2010,no_content,landing metadata only
+https://github.com/equinor/neqsim,NeqSim source code (WaxCharacterise.java; WaxModelCorrelations.java; wax docs),2026,used,Pedersen wax fraction constants (B 6.584e-4 comment vs 6.584e-6 default); paraffinic density; Won Tf; dHf; dCp
+https://scispace.com/pdf/reliable-wax-predictions-for-flow-assurance-2y02u640e4.pdf,Coutinho et al 2006 Energy Fuels reliable wax predictions,2006,used,Tm dHm Ttr correlations; WAT deviation examples
+https://api.openalex.org/works/doi:10.1080/10916466.2014.986277,OpenAlex Majhi et al 2015,2015,used,abstract: wax from viscosity and pour point SEE 1.28 R2 0.92; closed access
+https://www.tandfonline.com/doi/abs/10.1080/10916466.2014.986277,Majhi et al 2015 publisher page,2015,unreachable,client error
+https://link.springer.com/article/10.1007/s13369-019-04290-y,Benamara 2020 Springer page,2020,unreachable,client error
+https://www.researchgate.net/publication/256711914,Correlations for pour point and cloud point of middle and heavy distillates (RG),2012,unreachable,client error
+https://www.academia.edu/17065610/INVESTIGATION_ON_DIESEL_COLD_FLOW_PROPERTIES,Diesel cold flow properties (academia),,unreachable,client error
+https://journals.ut.ac.ir/article_2976.html,Moradi et al 2013 abstract page,2013,no_content,abstract only
+http://ijeais.org/wp-content/uploads/2025/10/IJEAIS251004.pdf,Predictive model for wax content (IJEAIS 2025),2025,unreachable,robots disallowed; open lead
+https://ijshr.com/IJSHR_Vol.1_Issue.3_Aug2016/IJSHR0004.pdf,Eyankware et al 2016 cloud and pour point Nigerian crudes,2016,used,4 samples; no equations
+https://scholar.archive.org/search?q=Models+for+estimating+wax+appearance+temperature,scholar.archive.org search,,unreachable,rate limited

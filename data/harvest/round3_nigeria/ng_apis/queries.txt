@@ -1,0 +1,45 @@
+https://zenodo.org/api/records?q=wax+appearance+temperature+nigeria&size=20
+https://zenodo.org/api/records?q=%22Bonny+Light%22&size=20
+https://zenodo.org/api/records?q=niger+delta+crude+oil+pour+point&size=20
+https://api.figshare.com/v2/articles?search_for=wax+appearance+temperature&page_size=30
+https://dataverse.harvard.edu/api/search?q=wax+appearance+temperature&type=dataset
+https://dataverse.harvard.edu/api/search?q=Nigeria+crude+oil&type=dataset
+https://api.github.com/search/repositories?q=wax+appearance+temperature+machine+learning&per_page=30
+https://api.github.com/search/repositories?q=wax+appearance+temperature&per_page=30
+https://api.github.com/search/repositories?q=pour+point+crude+oil+prediction&per_page=30
+gh api search/repositories?q=wax appearance temperature
+gh api search/repositories?q=wax appearance
+gh api search/repositories?q=crude oil WAT prediction
+gh api search/repositories?q=bonny light
+gh api search/repositories?q=niger delta crude
+gh api search/repositories?q=crude oil assay dataset
+gh api search/repositories?q=pour point crude oil dataset
+gh api search/repositories?q=paraffin deposition prediction machine learning
+gh api search/code?q="wax appearance temperature" extension:csv
+gh api search/code?q="Bonny Light" extension:csv
+gh api search/code?q="Bonny Light" "pour point" extension:csv
+gh api search/code?q="Forcados" "pour point"
+gh api search/code?q="wax appearance temperature" extension:xlsx
+git clone iChukwuebuka02/niger-delta-crude-sludge-ml
+git clone Uma-Energy/Crude-Oil-Sludge-Prediction-in-the-Niger-Delta
+git clone Jorge-Assis/crudecompare
+git clone ApurveKaranwal/DRISHTI-MRPL
+git clone TeixeiraWILLIAN/DeepLearning
+gh api search/code?q="Qua Iboe" "wax" extension:csv
+gh api search/code?q="Bonny Light" "wax content"
+gh api search/code?q="Escravos" "pour point" extension:json
+gh api search/code?q="Nigeria" "wax appearance temperature" extension:py
+gh api search/code?q="Bonny Light" extension:xlsx
+gh api search/code?q="WAT" "wax content" "API" "pour point" extension:csv crude
+gh api search/code?q=crude "wax_appearance_temperature"
+gh api search/code?q="Bonny Light" "wax"
+gh api search/repositories?q=wax appearance temperature crude oil
+gh api search/repositories?q=WAT crude oil machine learning
+gh api search/repositories?q=crude oil cloud point pour point prediction
+gh api search/repositories?q=flow assurance wax dataset
+gh api search/repositories?q=oil assay database
+gh api search/repositories?q=nigerian crude oil
+git clone NOAA-ORR-ERD/noaa-oil-data
+WebSearch: Nigerian crude oil wax appearance temperature dataset Mendeley Data OR Zenodo OR Figshare OR Kaggle
+WebSearch: Bonny Light crude assay wax content pour point viscosity 40C table refinery LP Nigerian crude properties
+WebSearch: kaggle crude oil wax appearance temperature pour point dataset

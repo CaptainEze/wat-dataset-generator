@@ -1,0 +1,29 @@
+url,title,year,status,notes
+https://api.openalex.org/works/doi:10.1016/0016-2361(96)00046-4,Kok 1996 record and references,1996,used,7 refs; green OA hdl.handle.net/11511/41175
+"https://api.openalex.org/works?filter=cites:W1990451854 (pages 1-2, per-page 60)",Works citing Kok 1996,1996,used,110 of 112 citing works
+https://api.openalex.org/works?filter=doi:10.1002/aic.690420204|10.1021/ie980340h|10.1007/s13369-019-04290-y,"Lira-Galeana (wrong DOI), Coutinho 1998, Benamara 2020",,used,"10.1002/aic.690420204 is a stirred-vessel paper, not Lira-Galeana"
+https://api.openalex.org/works?filter=doi:(5 and 4 DOI batches),Batch DOI lookups,,no_content,"URL too long or filter silently dropped; returned unfiltered results, discarded"
+https://api.openalex.org/works?filter=doi:10.1021/acs.energyfuels.9b03296|10.1021/acs.energyfuels.8b04286|10.1016/j.fuel.2024.133146,"Benamara 2019, Bian 2019, Kouhi 2025",,used,references recorded
+https://api.openalex.org/works?filter=doi:10.1016/j.ces.2025.121170|10.1016/j.fuel.2024.132703|10.21833/ijaas.2019.01.012,"Yadav, Nait Amar, Hosseinipour",,used,Yadav DOI not found; other two recorded
+https://api.openalex.org/works?filter=doi:10.62593/2090-2468.1070|10.1007/s13202-018-0480-1|10.1021/ef00030a019,"Joseph 2025, Mansourpoor, Roenningsen",,used,Joseph and Roenningsen have no indexed references
+https://api.openalex.org/works?filter=doi:10.1081/lft-200035541|10.3390/en16010406|10.1016/j.petrol.2021.109774,"Coutinho-Daridon 2005, Sousa 2023, Amiri-Ramsheh 2022",,used,
+https://api.openalex.org/works/doi:10.1016/j.ces.2025.121170,Yadav 2025 as given,2025,unreachable,404 in OpenAlex and Crossref
+https://api.openalex.org/works/W4412673056,Yadav 2025 actual record (10.1016/j.ces.2025.122296),2025,used,authors Anupam Yadav et al.; refs recorded
+https://api.openalex.org/works?search=wax precipitation petroleum mixtures,Lira-Galeana search,1996,used,correct DOI 10.1002/aic.690420120
+https://api.crossref.org/works?query.bibliographic=Hammami cloud points,Hammami 2003 DOI,2003,used,10.1081/lft-120018524
+https://api.openalex.org/works?filter=doi:10.1081/lft-120018524|10.1002/aic.690420120|10.2118/54519-pa,"Hammami, Lira-Galeana, Monger-McClure",,used,refs recorded
+https://api.crossref.org/works?query.bibliographic=Aguilar-Hernandez wax,Aguilar-Hernandez 2025,2025,unreachable,"not found in Crossref, OpenAlex (client error) or web search"
+https://api.crossref.org/works?query.bibliographic=Yadav wax appearance temperature,Yadav search,2025,no_content,not found by Crossref search
+"https://api.openalex.org/works?filter=pmcid:(13 PMC ids, two calls)",PMC seeds to DOI,,used,13 PMC ids resolved
+https://api.crossref.org/works?query.bibliographic=Wax behavior in crude oils by pour point analyses,Oliveira 2018 DOI,2018,used,10.21577/0103-5053.20180092
+https://api.crossref.org/works?query.bibliographic=Tarantino ...,Tarantino 2016 DOI,2016,unreachable,rate limited; later found in OpenAlex citers (10.1590/0104-6632.20160334s20150103)
+https://api.openalex.org/works?filter=cites:W2093456692 (pages 1-4),Works citing Roenningsen 1991 part 1,1991,used,373 citing works
+https://api.openalex.org/works?filter=cites:W2004689326,Works citing Hammami 2003,2003,used,83
+https://api.openalex.org/works?filter=cites:W2020648845,Works citing Coutinho and Daridon 2005,2005,used,99
+https://api.openalex.org/works?filter=cites:W1992160409,Works citing Monger-McClure 1999,1999,used,63
+https://api.openalex.org/works?filter=cites:W2993208053,Works citing Benamara 2020,2020,used,37
+https://api.openalex.org/works?filter=cites:W4402598973|W4412673056|W4401326159,Works citing Kouhi/Yadav/Nait Amar (union),2025,used,27
+https://api.openalex.org/works?filter=ids.openalex:(10 batches of 6),Title resolution of references cited 2+ times,,used,58 titles resolved; two earlier batch formats returned unfiltered results and were discarded
+"https://api.openalex.org/works?filter=ids.openalex:(5 batches)&select=id,open_access",OA check of top candidates,,used,"29 closed, 1 bronze"
+"https://api.openalex.org/works?filter=cites:W2093456692|W1990451854|W2020648845|W2004689326,is_oa:true",Open-access works citing core WAT papers,,used,100 OA works with OA URLs
+https://api.openalex.org/works?filter=cites:W2119350473 / W2166081326 / others,"Citers of Lira-Galeana, Coutinho 1998, Bian, Benamara 2019, Amiri, Mansourpoor, Hosseinipour, Sousa",,unreachable,not fetched: usage limit and rate limits

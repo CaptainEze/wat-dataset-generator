@@ -1,0 +1,2 @@
+WebSearch: UNEP Ogoniland crude characterisation; SINTEF Nigerian crude weathering (x3); Bonga North ESIA; Shell SDS Bonny Light; CEDRE/ITOPF Nigeria; Chevron assay Escravos/Agbami; NOSDRA contingency plan; ESIA Egina/Preowei/Nsiko.
+Result: no ESIA, SINTEF, CEDRE, ITOPF, NOSDRA or SDS document with Nigerian wax/WAT found through search; Exxon assay PDFs at corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/<name>.pdf work in WebFetch (qua_iboe, usan, bonga, erha, yoho); edop and ukpokiti not found.

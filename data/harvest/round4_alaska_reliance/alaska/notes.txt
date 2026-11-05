@@ -1,0 +1,5 @@
+Alaska North Slope (Anyanwu / Zhu / Chukwu, UAF 2007 thesis = DOE report 963363). No rows extracted.
+Reason: WebFetch of purl/963363 returns only 86387 characters, ending in chapter 2 (page ~21, "Phase Behavior"). Offsets 0 to 80000 read; nothing after. No tables seen. Figure 2.4 label only: Sample 06, viscometry WAT 29.1 C (a literature-review example figure, not a table; not used).
+Table locations (from List of Tables, thesis pages): 4.2.4 SG/API p34; 4.2.6 pour points p44; 4.3.1 WAT CPM p53; 4.3.2 WAT viscometry p55; 4.3.3 CPM WAT and WDT p58; 4.3.4 comparison p60; 4.3.5 thermal history p61; 4.4.1 wax content p67; Appendix A1 density p181. Samples numbered 01 to 28.
+Master snapshot: no oil_group containing ans or alaska (only akshabulak, unrelated). The pending Anyanwu A1/B1-B3 set is not in the snapshot, so ids could not be compared. Proposed oil_group ans_<NN> using the thesis sample number (01 to 28); the pending A1 set should share these ids if it uses thesis sample numbers.
+Next step for the user: open http://hdl.handle.net/11122/5837 in a browser, download Anyanwu_O_2007.pdf (129 MB), and supply pages 34, 44, 53, 55, 58, 60, 67.

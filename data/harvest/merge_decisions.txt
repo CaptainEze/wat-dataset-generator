@@ -1,0 +1,18 @@
+DROP REPO-018: duplicate of MENA-070
+DROP REPO-019: duplicate of MENA-071
+DROP REPO-020: duplicate of MENA-072
+DROP REPO-021: duplicate of MENA-073
+DROP APAC-010: same values as METH-001 (Miri)
+DROP APAC-011: same values as METH-002 (Angsi)
+DROP APAC-012: same values as METH-003 (Penara)
+DROP APAC-013: same values as METH-004 (Dulang)
+DROP BAL-008: duplicate of AMER-017 (South Pelto FTIR, high pressure)
+DROP BAL-009: duplicate of NSEA-004 (2/7-19R)
+DROP BAL-007: duplicate of REPO-003 (Dagang heavy oil, same WAT and wax)
+UPGRADE master R40 from REPO-008: tier C -> B; wax 7.51 -> 7.51
+UPGRADE master R33 from REPO-009: tier C -> B-; wax 2.44 -> nan
+UPGRADE master R34 from REPO-010: tier C -> B-; wax 1.54 -> nan
+UPGRADE master R35 from REPO-011: tier C -> B-; wax 2.48 -> nan
+EDIT NSEA-001: WAT range 40-43 entered as midpoint 41.5
+HOLD 4 Khalda rows as tier P
+DENSITY from notes (20 C): REPO-001=855.4, REPO-002=835.6, REPO-003=940.86, REPO-004=862.46, REPO-005=868.32, REPO-006=875.31, REPO-007=879.3, BAL-006=818.0

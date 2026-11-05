@@ -1,0 +1,13 @@
+venv
+.venv
+results
+plots
+models
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.idea/
+.vscode/
+*.log
+*.pdf

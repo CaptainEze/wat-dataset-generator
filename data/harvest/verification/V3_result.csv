@@ -1,0 +1,10 @@
+row_id,status,density_kg_m3,density_T_c,api,wax_wt_pct,pour_c,visc_cSt_40C,wat_c,wat_method,wdt_c,notes
+R132,read,886,80,25.1,18.7,51,,68.2,DSC onset,,"g/cm3 0.886 converted to kg/m3; density only at 80C; visc 40C not measured (18.68 mm2/s at 80C); WAT 67.3+/-1.92 at 3 K/min and 68.2+/-0.38 at 1 K/min (68.2 entered); wax UOP 46-64; pour ASTM D97; no WDT; text says API from 80C density"
+R135,read,827,40,36,8,0,5.25,22.5,DSC onset,,"WAT 22.5+/-0.04 at 3 K/min and 23.2+/-0.88 at 1 K/min (22.5 entered); g/cm3 0.827 converted; visc 5.25 mm2/s=cSt; wax UOP 46-64; no WDT; table columns misaligned in extraction so mapping by position"
+R136,read,790,40,43.4,24,21,4.44,42.1,DSC onset,,"WAT 42.1+/-0.22 at 3 K/min and 43.1+/-0.14 at 1 K/min (42.1 entered); density 0.79 g/cm3 at 40C (0.772 at 80C) converted; visc 4.44 mm2/s=cSt (2.55 at 80C); no WDT"
+R150,read,850,20,,20.3,35,,57.8,not stated,,"gel point 33; no viscosity or WDT; no methods given"
+R152,read,801,20,,10.2,18,,21.5,not stated,,"gel point 16; no viscosity or WDT; no methods given"
+R153,read,859,20,,19.7,36,,37.0,not stated,,"gel point 33; no viscosity or WDT; no methods given"
+R191,read,,,45,,,,36.044,Rheometer,39.978,"density, wax, pour, visc not reported; WDT is called wax dissolution temperature"
+R194,read,,,15,,,,5.350,Rheometer,15.979,"density, wax, pour, visc not reported; WDT called wax dissolution temperature"
+R195,read,,,17,,,,18.990,Rheometer,21.330,"density, wax, pour, visc not reported; WDT called wax dissolution temperature"

@@ -1,0 +1,15 @@
+https://srcpublishers.com/oil-petroleum-and-natural-gas-re/article/download/6005/7272
+https://api.openalex.org/works?search=wax%20appearance%20temperature%20nigerian%20crude&per-page=25
+https://api.openalex.org/works?search=Niger%20Delta%20crude%20wax%20pour%20point%20thesis&per-page=25
+https://eprints.covenantuniversity.edu.ng/cgi/search/simple?q=wax+deposition
+https://repository.ui.edu.ng/discover?query=wax+appearance+temperature
+https://core.ac.uk/search?q=%22wax%20appearance%20temperature%22%20Nigeria
+https://openresearch.lsbu.ac.uk/download/7a4e0389d984a1261e4cb9cf4402d4d2613d6e95b466969780a42280a258e1b7/4249301/2017_PhD_Al_Theyab.pdf
+https://api.openalex.org/works?search=wax%20appearance%20temperature%20Nigeria%20thesis&per-page=50&select=id,title,doi,open_access,publication_year,type
+https://api.openalex.org/works?search=Niger%20Delta%20crude%20oil%20waxy%20characterization&per-page=50&select=id,title,doi,open_access,publication_year
+https://ir.unilag.edu.ng/discover?query=wax+appearance+temperature (failed)
+https://kubanni.abu.edu.ng/search?query=wax%20crude%20oil (robots)
+https://www.osti.gov/search/semantic:... (robots)
+https://api.openalex.org/works?search=Bonny%20Light%20wax%20appearance%20temperature&per-page=50
+https://api.openalex.org/works?search=Forcados%20crude%20wax%20pour%20point&per-page=50
+WebSearch rounds: SPE 212026 abstract; Niger Delta WAT thesis repositories; Bonny Light assay table; Nigerian press WAT

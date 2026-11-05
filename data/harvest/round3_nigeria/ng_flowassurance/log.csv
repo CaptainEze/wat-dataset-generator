@@ -1,0 +1,13 @@
+source_id,url,title,year,type,status,rows_added,reason
+NGF-S01,https://srcpublishers.com/oil-petroleum-and-natural-gas-re/article/download/6005/7272,Investigating Non-Uniformity of Wax Appearance Temperature of Crude Oil in Nigeria,2025,journal,extracted,7,"Seven coded Niger Delta wells with cloud point labelled WAT; tier C, flags noted."
+NGF-S02,https://link.springer.com/content/pdf/10.1007/s13202-020-00885-6.pdf,Odutola and Idemili PEB and nano-Al2O3 on Nigerian crude,2020,journal,duplicate,0,Already in master as ng_odutola_blank.
+NGF-S03,http://docsdrive.com/pdfs/medwelljournals/jeasci/2012/348-352.pdf,Mitigating Paraffin Wax Deposition on Oil Pipelines in Niger Delta,2012,journal,unreachable,0,Fetch failed.
+NGF-S04,https://doi.org/10.9734/jerr/2026/v28i31817,Numerical Estimation of Wax Deposition Rates in a Niger Delta Pipeline (abstract WAT 48 C),2026,journal,unreachable,0,Fetch failed; lead worth opening in browser.
+NGF-S05,https://doi.org/10.2118/178317-ms,SPE 178317 Thermodynamic Modelling Wax Deposition Envelope Niger Delta Oilfield,2015,conference,unreachable,0,Closed access on OpenAlex.
+NGF-S06,https://doi.org/10.2118/212026-ms,SPE 212026 Mellowed Wax Ubiety Temperature Modeling of Nigerian Crude,2022,conference,unreachable,0,Closed access; may hold Niger Delta WAT data.
+NGF-S07,http://article.sciencepg.com/pdf/j.jeece.20251002.13,Phase Transformation on Temperature Change in Waxy Crude in Niger Delta,2025,journal,unreachable,0,Found in OpenAlex list; not opened because of usage limit.
+NGF-S08,http://article.sciencepg.com/pdf/j.pse.20261001.14,EVA and MgO nanofluid Niger Delta crude,2026,journal,unreachable,0,Not opened because of usage limit.
+NGF-S09,https://www.ajol.info/index.php/njtd/article/download/226272/213536,Wax precipitation and deposition risk: ethics and professionalism,2022,journal,unreachable,0,Not opened because of usage limit.
+NGF-S10,https://doi.org/10.17148/iarjset.2018.5121,Wax Precipitation at Different Locations of Nigerian Crude Oil Production Line,2018,journal,unreachable,0,Not opened because of usage limit.
+NGF-S11,https://doi.org/10.1080/10916466.2010.498717,Experimental Study of Rheological Properties of Nigerian Waxy Crude,2012,journal,unreachable,0,Closed access.
+NGF-S12,https://doi.org/10.2118/235144-ms,Systematic Review of Wax Prevention Niger Delta PRISMA,2026,conference,unreachable,0,Closed access; review only.

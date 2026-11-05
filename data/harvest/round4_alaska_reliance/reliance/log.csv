@@ -1,0 +1,26 @@
+source_id,url,title,year,type,status,rows_added,reason
+RIL-S01,https://www.ril.com/sites/default/files/2024-04/Notice-Inviting-Tender-Document-Part-1.pdf,RFP KGD6/CONDENSATE/2024/04 Tender Part 1,2024,tender PDF,no_wat,0,Part 1 has terms only; Annexure I assay is in Part 2 (API 45.3 reference only). Original akamaized URL redirected to ril.com.
+RIL-S02,https://www.ril.com/sites/default/files/2023-10/Notice%20Inviting%20Tender%20Document%20Part%201.pdf,RFP 2023/05 Tender Part 1,2023,tender PDF,unreachable,0,Server error on fetch.
+RIL-S03,https://www.ril.com/sites/default/files/2023-12/Notice-Inviting-Tender-Documents_1.pdf,KG D6 crude oil NIT Feb-Dec 2024,2023,tender PDF,image_table,0,Annexure 2 crude assay dated 14 Oct 2022 (OT facility) is listed but data not in text layer.
+RIL-S04,https://www.ril.com/eB2B/KGDWN-Archive.aspx,eB2B KGDWN archive,2026,index page,no_wat,0,Index of condensate notices 2023 to 2025; used to find PDF links.
+RIL-S05,https://www.ril.com/sites/default/files/2023-10/Notice%20Inviting%20Tender%20Document%20Part%202.pdf,RFP 2023/10 Tender Part 2,2023,tender PDF,duplicate,0,Report IDL-CA-0018-2023 already in master as R214.
+RIL-S06,https://www.ril.com/sites/default/files/2023-10/Notice%20Inviting%20Tender%20Document%20Part%202%20%281%29.pdf,RFP 2023/05 Tender Part 2 (MJ-N4A crude),2023,tender PDF,duplicate,0,Report IDL-OP-0633 rev1 2023 MJ-N4A already in master as R02.
+RIL-S07,https://www.ril.com/sites/default/files/2023-10/Notice%20Inviting%20Tender%20Document%20Part%202%20%282%29.pdf,RFP 2023/06 Tender Part 2,2023,tender PDF,extracted,1,New report IDL-CA-0011-2023 (condensate; WAT 21.9); re-read matched.
+RIL-S08,https://www.ril.com/sites/default/files/2023-10/Notice%20Inviting%20Tender%20Document%20Part%202%20%284%29.pdf,RFP 2023/08 Tender Part 2,2023,tender PDF,duplicate,0,Report IDL-CA-0018-2023 already in master as R214.
+RIL-S09,https://www.ril.com/sites/default/files/2023-10/Notice%20Inviting%20Tender%20Document%20Part%202%20%285%29.pdf,RFP 2023/08 (18 Sep) Tender Part 2,2023,tender PDF,duplicate,0,Retry succeeded; report IDL-CA-0018-2023 already in master as R214.
+RIL-S10,https://www.ril.com/sites/default/files/2024-04/Notice-Inviting-Tender-Documents-Part-2_1.pdf,RFP 2024/04 Tender Part 2,2024,tender PDF,duplicate,0,Report IDL-CA-0008-2024_r1 already in master as R03.
+RIL-S11,https://www.ril.com/sites/default/files/2024-04/Notice-Inviting-Tender-Document-Part-2.pdf,RFP 2023/11 Tender Part 2,2024,tender PDF,duplicate,0,Retry succeeded; report IDL-CA-0018-2023 already in master as R214.
+RIL-S12,https://www.ril.com/sites/default/files/2025-01/Notice_Inviting_Tender_Document_Part_2.pdf,RFP 2024/12 Tender Part 2,2025,tender PDF,duplicate,0,Report IDL-CA-0068-2024_rev1 already in master as R213.
+RIL-S13,https://www.ril.com/sites/default/files/2025-08/Notice_Inviting_Tender_Documents_Part2.pdf,RFP 2025/08 Tender Part 2,2025,tender PDF,duplicate,0,Report IDL-CA-0068-2024_rev1 already in master as R213.
+RIL-S14,https://www.ril.com/sites/default/files/2025-11/Notice-Inviting-Tender-Documents-Part2.pdf,RFP 2025/11 Tender Part 2,2025,tender PDF,duplicate,0,Report IDL-CA-0038-2025 already in master as R212.
+RIL-S15,https://www.ril.com/sites/default/files/2025-01/Notice-Inviting-Tender-Document.pdf,KG D6 crude oil tender RIL/KGD6/OIL/2024/12/REVISION1,2025,tender PDF,image_table,0,Annexure 1 indicative crude assay page is blank in text layer.
+RIL-S16,https://www.ril.com/sites/default/files/2023-12/Notice-Inviting-Tender_1.pdf,KG D6 crude NIT Feb-Dec 2024,2023,notice PDF,no_wat,0,Short notice with no assay.
+RIL-S17,https://www.ril.com/sites/default/files/2022-09/Notice_Inviting_Tender_Documents.pdf,KG D6 crude NIT Jun 2021 to Jun 2022,2021,tender PDF,image_table,0,Annexure 2 crude assay dated 3 May 2021 listed but no data in text.
+RIL-S18,https://www.ril.com/sites/default/files/2022-09/Notice_Inviting_Tender.pdf,KG D6 crude NIT Jun 2021,2021,notice PDF,no_wat,0,Short notice with no assay.
+RIL-S19,https://www.ril.com/sites/default/files/2023-05/KGD6%20Crude%20Oil%20Spot_Notice%20Inviting%20Tender_NCS.pdf,KG D6 crude spot NCS May 2023,2023,tender PDF,image_table,0,Annexure 2 assay dated 12 Oct 2022 listed but no data in text.
+RIL-S20,https://www.ril.com/sites/default/files/2023-05/Tender%20Notice-Sale%20of%20Crude%20Oil%20from%20Block%20KG-DWN-98-3%20-16x8-cm.pdf,KG D6 crude spot notice May 2023,2023,notice PDF,no_wat,0,Short notice with no assay.
+RIL-S21,https://www.ril.com/sites/default/files/2024-04/ADDENDUM_2_TO_RFP_No_KGD6_CONDENSATE_2023_11_REVISION1.pdf,Addendum 2 to RFP 2023/11,2023,tender PDF,no_wat,0,Bidding timeline only.
+RIL-S22,https://www.ril.com/eb2b/notices/kgd6-archive,eB2B KGD6 archive,2023,index page,no_wat,0,Archive lists gas sale notices only.
+RIL-S23,https://cairnindia.com/EOIDocLibrary/EOI-web-123.pdf,Cairn EOI pipeline crude,2024,EOI PDF,no_wat,0,Only a general WAT of about 65 C for unnamed pipeline crude; no assay.
+RIL-S24,https://cairnindia.com/EOIDocLibrary/RFP_Jaya Field_November 2024.pdf,Cairn RFP Jaya Field,2024,RFP PDF,unreachable,0,Blocked by robots.txt for fetch.
+RIL-S25,https://gailonline.com/pdf/CORRIGENDUM1CRUDEOILSALE.pdf,GAIL crude oil sale corrigendum,2024,tender PDF,no_wat,0,No assay values.

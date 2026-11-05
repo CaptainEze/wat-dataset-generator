@@ -1,0 +1,10 @@
+row_id,status,density_kg_m3,density_T_c,api,wax_wt_pct,pour_c,visc_cSt_40C,wat_c,wat_method,wdt_c,notes
+R40,read,890,,27.7,7.51,-18,,14.89,DSC,,"Table titled Mt Oversea Mckyle; density 0.89 g/cm3 converted; density temperature not stated; wax and pour methods not stated; no viscosity or WDT"
+R66,read,921.8,40,18.71,16,,157.3009,50,viscosity-temperature plot (departure from straight line),,"Sample A. Wax 16% by UOP 46-64 acetone method. Density at 40 C from Table 2 (30 C: 941.8); kinematic viscosity 157.3009 mm2/s at 40 C = cSt. WAT: Results text/Sec 3 = 50 C; Abstract = 55 C (both samples). Abstract and text disagree; no pour or WDT"
+R67,read,891.6,40,26.77,14,,116.6442,55,viscosity-temperature plot (departure from straight line),,"Sample B. Wax 14% by UOP 46-64 acetone method. Density at 40 C from Table 2 (30 C: 894); kinematic viscosity 116.6442 mm2/s at 40 C = cSt. WAT: Results text = 55 C and Abstract = 55 C (same). No pour or WDT"
+R68,read,810,,43.19,36.58,10,,29,not stated,,"Density 0.81 g/cm3 converted; density temperature not stated; pour by pour point tester; wax method not stated in table; viscosity only 4.8 mPa.s at 35 C (not 40 C) so left blank; no WDT"
+R173,read,855.4,20,,20.20,32.0,,47.85,DSC,,"M1 Daqing. Wax by DSC (210 J/g; SY/T 0545-2012); pour by ASTM D5853-11; no API; no viscosity; no WDT"
+R174,read,835.6,20,,16.34,21.0,,38.51,DSC,,"M2 Hulunbeier. Wax by DSC (210 J/g; SY/T 0545-2012); pour by ASTM D5853-11; no API; no viscosity; no WDT"
+R175,read,940.86,20,,12.38,,,23.6,DSC (SY/T 0545-2012),,"Dagang heavy oil. Wax by SY/T 7550-2012; no API; no pour; no viscosity; no WDT"
+R177,read,868.32,20,,1.67,,,5.7,DSC (SY/T 0545-2012),,"Dagang 2# light oil. Wax by SY/T 7550-2012; no API; no pour; no viscosity; no WDT"
+R178,read,875.31,20,,1.75,,,6.8,DSC (SY/T 0545-2012),,"Dagang 3# light oil. Wax by SY/T 7550-2012; no API; no pour; no viscosity; no WDT"

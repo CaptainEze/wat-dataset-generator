@@ -1,0 +1,56 @@
+source_id,url,title,year,type,status,rows_added,reason
+S01,https://ts.totalenergies.com/wp-content/uploads/2020/03/BONNY-LIGHT.pdf,TotalEnergies Bonny Light data sheet,2020,assay sheet,no_wat,0,WAT and wax fields blank on the sheet.
+S02,https://trading.totalenergies.com/wp-content/uploads/2025/11/EA-BLEND.pdf,TotalEnergies Ea Blend data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S03,https://trading.totalenergies.com/wp-content/uploads/2025/11/NEMBA.pdf,TotalEnergies Nemba data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S04,https://trading.totalenergies.com/wp-content/uploads/2025/11/CLOV.pdf,TotalEnergies Clov data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S05,https://trading.totalenergies.com/wp-content/uploads/2025/11/GINDUNGO.pdf,TotalEnergies Gindungo data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S06,https://trading.totalenergies.com/wp-content/uploads/2025/11/MOSTARDA.pdf,TotalEnergies Mostarda data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S07,https://trading.totalenergies.com/wp-content/uploads/2025/11/CABINDA.pdf,TotalEnergies Cabinda data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S08,https://trading.totalenergies.com/wp-content/uploads/2025/11/DALIA.pdf,TotalEnergies Dalia data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S09,https://trading.totalenergies.com/wp-content/uploads/2025/11/GIRASSOL.pdf,TotalEnergies Girassol data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S10,https://trading.totalenergies.com/wp-content/uploads/2025/11/MANDJI.pdf,TotalEnergies Mandji data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S11,https://trading.totalenergies.com/wp-content/uploads/2025/11/EGINA.pdf,TotalEnergies Egina data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S12,https://trading.totalenergies.com/wp-content/uploads/2025/11/BONGA.pdf,TotalEnergies Bonga data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S13,https://trading.totalenergies.com/wp-content/uploads/2025/11/FORCADOS.pdf,TotalEnergies Forcados data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S14,https://trading.totalenergies.com/wp-content/uploads/2025/11/AKPO-BLEND.pdf,TotalEnergies Akpo Blend data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S15,https://trading.totalenergies.com/wp-content/uploads/2025/11/NKOSSA-BLEND.pdf,TotalEnergies Nkossa Blend data sheet,2025,assay sheet,no_wat,0,WAT field blank on the sheet.
+S16,https://ts.totalenergies.com/wp-content/uploads/2020/03/DJENO.pdf,TotalEnergies Djeno data sheet,2020,assay sheet,no_wat,0,WAT field blank on the sheet.
+S17,https://www.tullowoil.com/application/files/3015/8490/2954/jubilee-assay---2019.pdf,Tullow Jubilee assay,2019,assay sheet,no_wat,0,Whole crude cloud point and WAT blank.
+S18,https://www.tullowoil.com/application/files/9615/8490/2864/ogeindjo-assay---2019.pdf,Tullow Ogeindjo assay,2019,assay sheet,no_wat,0,Whole crude cloud point and WAT blank.
+S19,https://www.tullowoil.com/application/files/6215/8490/3180/tenblend2019.pdf,Tullow TEN Blend assay,2019,assay sheet,no_wat,0,Whole crude cloud point and WAT blank.
+S20,https://www.tullowoil.com/application/files/5915/8490/2752/ceiba-assay---2015.pdf,Tullow Ceiba assay,2015,assay sheet,no_wat,0,Whole crude cloud point and WAT blank.
+S21,https://www.tullowoil.com/application/files/5915/8490/2632/espoir-assay---2006.pdf,Tullow Espoir assay,2006,assay sheet,no_wat,0,Whole crude cloud point and WAT blank.
+S22,https://core.ac.uk/download/322410851.pdf,"Taiwo et al, Nigerian Niger Delta waxy crude (chapter)",2012,book chapter,duplicate,0,"Known lead Taiwo 2012, already handled."
+S23,https://cdn.intechopen.com/pdfs/32409/InTech-Crude_oil_transportation_nigerian_niger_delta_waxy_crude.pdf,"Taiwo et al, Nigerian Niger Delta waxy crude (IntechOpen copy)",2012,book chapter,duplicate,0,"Same as Taiwo 2012, already handled."
+S24,https://journals.aun.edu.ng/index.php/files/article/download/192/186/920,"Usman et al, Paraffin wax precipitation and deposition review",2025,review,duplicate,0,Table repeats Ketebu and Sunday 2021 (known lead) and Coto 2014.
+S25,https://smartscitech.com/index.php/IOGR/article/download/1341/1223/2297,"Udechukwu et al, Moringa and lime wax inhibition",2025,paper,no_wat,0,"Crude WAT not reported, only cloud point of treated test."
+S26,https://ajol.info/index.php/sa/article/view/184863/174202,AJOL article 184863 (same as Udechukwu),2025,paper,duplicate,0,Page empty on fetch; same article as previous source.
+S27,https://ejp.researchcommons.org/journal/vol34/iss2/3,"Joseph and Oyinkuro, Models for estimating WAT (abstract page)",2025,paper,unreachable,0,Abstract only; no data table shown.
+S28,https://ejp.researchcommons.org/cgi/viewcontent.cgi?article=1070&context=journal,"Joseph and Oyinkuro, Models for estimating WAT (full PDF)",2025,paper,unreachable,0,PDF fetch failed; open in own browser to check for Niger Delta WAT table.
+S29,https://core.ac.uk/download/322444646.pdf,"Mohyaldinn et al, Challenges during operation and shutdown of waxy crude pipelines",2019,book chapter,no_wat,0,No numeric WAT or crude property values.
+S30,https://lumc.omeka.net/items/show/333,"Dehkissia et al, Doba-Chad heavy crude characterization",2004,paper,no_wat,0,"Only gravity and viscosity at 50 C, no WAT, pour or wax."
+S31,https://repository.sustech.edu/jspui/bitstream/123456789/3532/8/Table.pdf,SUST thesis on Sudanese crudes and Nile Blend (tables),,thesis,no_wat,0,"Heglig, Unity, El-Narr, Toma South, El-Toor, Bamboo have pour and wax but no WAT value; DSC figures only. Viscosity at 28 C only."
+S32,https://repository.sustech.edu/jspui/bitstream/123456789/3532/2/Contents1.pdf,SUST thesis contents page,,thesis,no_wat,0,No WAT table listed.
+S33,https://repository.sustech.edu/handle/123456789/3123,"SUST Petrodar crude study (Adar-yale, Agordeed, Palouge)",,thesis,no_wat,0,No WAT reported in the abstract; full text not opened.
+S34,https://repository.sustech.edu/jspui/bitstream/123456789/16733/1/Physico-Chemical%20Evaluation..pdf,"Elhassan and Allah, Physico-chemical evaluation of Dar Blend",2014,paper,no_wat,0,"Pour, wax, API given but no WAT; viscosity at 50 C and above only."
+S35,https://search.emarefa.net/en/detail/BIM-439653-experimental-investigations-of-rheological-properties-of-nil,"Muhyi al-Din, Rheology of Nile Blend waxy crude",2013,abstract page,no_wat,0,"Abstract only, no WAT value."
+S36,https://repository.sustech.edu/handle/123456789/16566,SUST Nile Blend rheology record,,abstract page,no_wat,0,"Abstract only, no values."
+S37,https://www.ogj.com/refining-processing/article/17290827/guide-to-world-crudes-chevrontexaco-assays-doba-crude,"OGJ Guide to world crudes, ChevronTexaco assays Doba",2004,assay article,unreachable,0,Assay data sits in a PDF not reachable here.
+S38,https://www.ogj.com/drilling-production/production-operations/article/17209205/guide-to-world-crudes-five-deepwater-angola-fields-comprise-plutonio-blend,"OGJ Guide to world crudes, Plutonio blend",2008,assay article,no_wat,0,"Pour and wax given, WAT not reported."
+S39,https://jer.unilag.edu.ng/article/download/2421/1928,"Ehinmowo et al, Environmental-friendly wax inhibitor",2024,paper,extracted,2,Two untreated crudes with viscometry WAT; abstract and text disagree for sample A.
+S40,https://link.springer.com/content/pdf/10.1007/s13202-020-00885-6.pdf,"Odutola and Idemili, EVA-type blend on Nigerian crude viscosity",2020,paper,extracted,1,One Niger Delta blank crude with WAT in Table 1.
+S41,https://www.redalyc.org/pdf/474/47446522005.pdf,"Akinyemi et al, Plant seed oils as flow improvers of Nigerian waxy crude",2016,paper,no_wat,0,"Four Nigerian crudes with API, pour, wax, viscosity at 40 C but no WAT."
+S42,https://www.elsevier.es/en-revista-journal-applied-research-technology-jart-81-pdf-download-S1665642316300426,Akinyemi et al (Elsevier copy),2016,paper,duplicate,0,"Same paper as previous source (search hit, not opened)."
+S43,https://www.osti.gov/servlets/purl/963363,"Zhu et al, Wax deposition Alaskan North Slope oils",2008,report,rejected,0,Outside territory (Alaska); belongs to the Americas agent.
+S44,https://www.idpublications.org/wp-content/uploads/2018/04/Full-Paper-WAXY-CRUDE-OIL-WELL-SURVEILLANCE.pdf,"Joseph, Ajienka and Essien, Waxy crude oil well surveillance",2018,paper,no_wat,0,"Only cloud point estimates for unnamed crude, no WAT or API."
+S45,https://www.sciencepublishinggroup.com/article/10.11648/j.pse.20261001.14,"Nwaobi et al, EVA and MgO nanofluid on Niger Delta crude",2026,paper,no_wat,0,"Cloud point 0 C only (not WAT); no wax content, so not usable."
+S46,https://www.sciencepublishinggroup.com/article/10.11648/j.jeece.20251002.13,"Osokogwu and Ferguson, Phase transformation of Niger Delta waxy crude",2025,paper,rejected,0,"WAT about 20 and 25 C by DSC read from a figure with contradictory text and no API, wax or pour values."
+S47,https://eprints.lancs.ac.uk/id/eprint/156603,"Makwashi et al, Waxy crudes characterisation and inhibitor assessment",2021,paper,rejected,0,Crudes are KSG#49 and Ex Mwambe (not West or Central Africa); no WAT values on page.
+S48,https://independent.academia.edu/PEDIMEH,"Edimeh and Abdulkadir, Wax effects, Eleme Niger Delta crude",2020,paper,rejected,0,"Only cloud point 20 C and pour 12 C; no API or wax content, cloud point is not WAT."
+S49,https://www.researchgate.net/publication/368389838_Determination_of_Cloud_and_Pour_Point_of_Crude_Oil_with_Reference_to_Crude_Transportation,Determination of cloud and pour point of crude oil,2023,paper,unreachable,0,ResearchGate fetch failed.
+S50,https://www.osti.gov/biblio/5269236,"Handling of high pour point West African crude oils (Zaire, Cabinda)",1982,abstract page,no_wat,0,Abstract only; full JPT paper has no open values here.
+S51,https://ir.unilag.edu.ng/handle/123456789/5771,Experimental study of rheological properties of Nigeria waxy crude oil,,abstract page,no_wat,0,"Record page only, no values."
+S52,https://scite.ai/authors/s-e-ofordile-eDwOeY,"Scite page, abstract on Niger Delta crudes WAT by CPM (Ofordile)",,abstract page,unreachable,0,Abstract mentions CPM WAT for Niger Delta crudes but no title or data; worth finding the paper.
+S53,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11243897/,"Novel optical methodology, polymeric PPD on waxy crudes",2024,paper,unreachable,0,Blocked by bot check; unknown if an African crude is used.
+S54,"https://katalog.lib.cas.cz/KNAV/EdsRecord/edsair,edsair.doi...........edf4ccc3072eff4f235ab7b5b79082cd",Influence of heavy organics composition on wax properties (catalog),,catalog record,unreachable,0,Access denied by catalog.
+S55,https://en.wikipedia.org/wiki/Petroleum_industry_in_Niger,Petroleum industry in Niger (Agadem search),,web page,rejected,0,"General page, no WAT data; Agadem search found no assay."

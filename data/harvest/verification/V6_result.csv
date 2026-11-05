@@ -1,0 +1,4 @@
+row_id,status,density_kg_m3,density_T_c,api,wax_wt_pct,pour_c,visc_cSt_40C,wat_c,wat_method,wdt_c,notes
+R212,read,786.0,15,48.43,6.4,9,1.035,21.7,ASTM D8420 / IP 389A,25.3,"density printed 0.7860 g/cm3 converted; wax UOP 46; pour ASTM D97; visc ASTM D445; p4 summary lists WAT/WDT as ASTM D8420 only"
+R213,read,793.2,15,46.80,6.5,12,1.291,20.4,ASTM D8420 / IP 389A,26.1,"density printed 0.7932 g/cm3 converted; wax UOP 46; pour ASTM D97; visc ASTM D445; main assay table lists D8420 only"
+R214,read,798.9,15,45.33,6.7,6,1.904,18.5,ASTM D8420 (p9: ASTM D8420 / IP 389A),25.0,"density printed 0.7989 g/cm3 converted; API 45.3 on p4 summary and 45.33 on p9; wax UOP 46; pour ASTM D97; visc ASTM D445; SG 15.6C 0.7993"

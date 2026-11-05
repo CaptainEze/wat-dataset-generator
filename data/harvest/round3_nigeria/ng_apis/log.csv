@@ -1,0 +1,14 @@
+source_id,url,title,year,type,status,rows_added,reason
+S01,https://github.com/Uma-Energy/Crude-Oil-Sludge-Prediction-in-the-Niger-Delta,Seplat sludge dataset xlsx,2026,github repo,extracted,144,"144 samples with WAT, API, wax; provenance unverified so tier D"
+S02,https://github.com/iChukwuebuka02/niger-delta-crude-sludge-ml,Niger Delta crude sludge ML,2026,github repo,rejected,0,"Code generates synthetic data with random numbers, no real measurements"
+S03,https://github.com/NOAA-ORR-ERD/noaa-oil-data,NOAA ADIOS oil database,2020,github repo,no_wat,0,"45 Nigerian records go to bulk_only.csv (pour, wax, API, viscosity); no WAT anywhere in database; cloud point only for cut fractions"
+S04,https://github.com/Jorge-Assis/crudecompare,crudecompare master crude csv,2022,github repo,no_wat,0,"API and pour point only, mixed units (some in F), secondary compile of company assays; not added"
+S05,https://github.com/ApurveKaranwal/DRISHTI-MRPL,DRISHTI-MRPL real_crude_oil_assays,2025,github repo,no_wat,0,"Refinery dashboard, assay data with no WAT; not opened in detail"
+S06,https://github.com/TeixeiraWILLIAN/DeepLearning,ECOPANN crude property neural nets,2025,github repo,rejected,0,"Trained models only, no Nigerian rows"
+S07,https://en.wikipedia.org/wiki/Bonny_Light,Bonny Light Wikipedia,2026,wiki,no_wat,0,"Only API 32.9 and sulfur, no pour, wax or WAT"
+S08,https://zenodo.org/api/records?q=wax+appearance+temperature+nigeria,Zenodo API,,portal,unreachable,0,robots disallowed in WebFetch and shell proxy 403
+S09,https://dataverse.harvard.edu/api/search?q=wax+appearance+temperature&type=dataset,Harvard Dataverse API,,portal,unreachable,0,robots disallowed and proxy 403
+S10,https://api.figshare.com/v2/articles?search_for=wax+appearance+temperature&page_size=30,Figshare API,,portal,rejected,0,Search returned unrelated items only
+S11,https://data.mendeley.com/search?query=wax+appearance+temperature,Mendeley Data search,,portal,unreachable,0,client error
+S12,https://www.kaggle.com/search?q=wax+appearance+temperature,Kaggle search,,portal,unreachable,0,"Not fetched, usage limit hit"
+S13,https://huggingface.co/api/datasets?search=crude+oil&limit=30,Hugging Face datasets,,portal,unreachable,0,"Not fetched, usage limit hit"

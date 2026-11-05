@@ -1,0 +1,34 @@
+source_id,url,title,year,type,status,rows_added,reason
+FIL-S01,https://energy.spglobal.com/rs/325-KYL-599/images/Pearl%20Sweet%20Prospectus%20for%20Singapore.pdf?version=0,Pearl Sweet crude prospectus (Uganda),2025,marketing prospectus,no_wat,0,Gives API 27 and pour point 38 C only; no wax content or WAT.
+FIL-S02,https://www.eacop.com/?p=23225,Pearl Sweet: Uganda names its crude oil,2025,company news,no_wat,0,"Pour point about 40 C and waxy; no API, wax or WAT."
+FIL-S03,https://oilprice.com/Energy/Crude-Oil/Uganda-Launches-New-Crude-Grade-as-First-Oil-Exports-Near.html,Uganda launches new crude grade,2025,trade press,no_wat,0,"API 27-28, pour about 39 C, waxy; no wax number or WAT."
+FIL-S04,https://efts.sec.gov/LatestSearch/rest/search-index,SEC EDGAR full-text search,2026,search page,unreachable,0,Full-text search endpoint returned a client error.
+FIL-S05,https://www.sec.gov/cgi-bin/srch-edgar,SEC EDGAR legacy search,2026,search page,unreachable,0,Blocked by robots rules.
+FIL-S06,https://cairnindia.com/EOIDocLibrary/EXPRESSION OF INTEREST (EOI) FOR CHEMICAL APPLICATION IN CRUDE OIL EXPORT PIPELINE FOR POUR POINT REDUCTION.pdf,Cairn EOI pour point reduction chemicals,,tender notice,unreachable,0,Blocked by robots rules.
+FIL-S07,https://cairnindia.com/EOIDocLibrary/EOI Website - Flushing Oil in Bhogat.pdf,Cairn EOI flushing oil Bhogat,,tender notice,unreachable,0,Blocked by robots rules.
+FIL-S08,https://eoi.cairnindia.com/EOIDocLibrary/Global-Expression-Of-Interest-For-Procurement-Of-Flushing-Oil-For-Mangla-Development-Pipeline-Operations-15082014.pdf,Cairn EOI flushing oil Mangala pipeline,2014,tender notice,extracted,1,"Gives WAT of about 65 C for pipeline crude, nothing else; tier P. Also links WAT to pipeline heating need."
+FIL-S09,https://cairnindia.com/EOIDocLibrary/EOI-web-123.pdf,Cairn EOI web 123,,tender notice,duplicate,0,Repeats the same 65 C WAT for Mangala pipeline crude (used as note in FIL-001).
+FIL-S10,https://oldv1.spgindia.org/spg_2012/spgp064.pdf,SPG India 2012 paper on high wax crude Rajasthan,2012,conference paper,no_wat,0,"Gives 27 API and pour above 40 C; WAT not stated directly. Academic source, out of my territory."
+FIL-S11,https://groups.google.com/group/dpstock/attach/17118aabd3a844b8/Cairn.pdf?part=0.1,Cairn presentation on a stock discussion group,,third-party repost,rejected,0,"Redirected to a group attachment host; a repost, not the primary filing, so not opened."
+FIL-S12,https://www.sec.gov/Archives/edgar/data/1370431/000119312521218618/d165852d20f.htm,Vedanta Ltd Form 20-F,2021,20-F,no_wat,0,Says Rajasthan crude must be kept above its WAT with heating stations (thesis context) but gives no WAT value.
+FIL-S13,https://www.sec.gov/Archives/edgar/data/1370431/000119312512254858/d359742dex991.htm,Sesa Sterlite information statement,2012,information statement,no_wat,0,No crude quality data.
+FIL-S14,https://rbnenergy.com/do-ya-think-i-m-waxy-handling-expanding-uinta-basin-crude-production,RBN: handling expanding Uinta Basin crude,,trade press,no_wat,0,"Pour point 105 F black wax, 120 F yellow wax and API 32 and 42, but no wax content or WAT; trade press, not a filing."
+FIL-S15,https://www.sec.gov/Archives/edgar/data/0001420176/000119312507261397/ds1.htm,Big West Oil Partners S-1,2007,S-1,no_wat,0,Describes black and yellow wax crude qualitatively; first 100k characters only.
+FIL-S16,https://www.sec.gov/Archives/edgar/data/0000912750/000091275014000014/nfx201310-k.htm,Newfield Exploration 10-K,2013,10-K,no_wat,0,Mentions Uinta paraffin content only qualitatively; first 100k characters only.
+FIL-S17,https://africaoilcorp.com:443/site/assets/files/1743/2023-02-27_aoi_-_annual_information.pdf,Africa Oil Corp annual information form,2023,AIF,unreachable,0,Fetch failed with a client error.
+FIL-S18,https://kase.kz/files/emitters/ZHMN/zhmnp_2016_eng.pdf,Zhaikmunai prospectus,2016,prospectus,no_wat,0,Density 0.815 and API 42-43 only; no wax data in the part read (last 17k characters not read).
+FIL-S19,https://www.kmg.kz/en/press-center/press-releases/280/,KMG press release 280,,press release,no_wat,0,Only diesel CFPP values.
+FIL-S20,https://sedar-filings-primary.thecse.com/00010896/1407061519094351.pdf,Curlew Lake Resources NI 51-101F1,2011,NI 51-101,no_wat,0,No crude quality data.
+FIL-S21,https://savannah-energy.com/download_file/524/0,Savannah Petroleum RNS July 2018,2018,RNS,no_wat,0,Light oil described qualitatively; no numbers.
+FIL-S22,https://announcements.asx.com.au/asxpdf/20190329/pdf/443x9p7bnwydgk.pdf,Tap Oil Annual Report 2018,2019,annual report,no_wat,0,Manora described as medium sweet; no wax data in the part read.
+FIL-S23,https://www.rns-pdf.londonstockexchange.com/rns/1872O_-2016-11-2.pdf,LUKOIL Capital prospectus 2016,2016,prospectus,no_wat,0,No crude wax data.
+FIL-S24,https://corporate.exxonmobil.com/crude-oils/crude-trading/banyu-urip,ExxonMobil Banyu Urip crude page,,crude marketing page,no_wat,0,API 32 and waxy label only. Assay library link is another agent's area.
+FIL-S25,https://trading.totalenergies.com/wp-content/uploads/2025/11/SYNBIT-SHB.pdf,TotalEnergies SYNBIT SHB sheet,2025,crude quality sheet,no_wat,0,"Density 939.5, pour -36 C; wax and WAT fields blank."
+FIL-S26,https://trading.totalenergies.com/wp-content/uploads/2025/11/UPPER-ZAKHUM.pdf,TotalEnergies Upper Zakhum sheet,2012,crude quality sheet,no_wat,0,Wax and WAT blank.
+FIL-S27,https://trading.totalenergies.com/wp-content/uploads/2025/11/DUC.pdf,TotalEnergies DUC sheet,2015,crude quality sheet,no_wat,0,Wax and WAT blank.
+FIL-S28,https://trading.totalenergies.com/wp-content/uploads/2025/11/MANDJI.pdf,TotalEnergies Mandji sheet,2010,crude quality sheet,no_wat,0,Wax and WAT blank.
+FIL-S29,https://trading.totalenergies.com/wp-content/uploads/2025/11/EA-BLEND.pdf,TotalEnergies EA Blend sheet,2010,crude quality sheet,no_wat,0,Wax and WAT blank.
+FIL-S30,https://trading.totalenergies.com/wp-content/uploads/2025/11/MOSTARDA.pdf,TotalEnergies Mostarda sheet,2019,crude quality sheet,no_wat,0,Wax and WAT blank.
+FIL-S31,https://trading.totalenergies.com/wp-content/uploads/2025/11/BEKAPAI.pdf,TotalEnergies Bekapai sheet,2016,crude quality sheet,no_wat,0,Wax 8.0 wt% but WAT blank. Pattern: Total sheets carry a WAT field that is blank in every sheet seen.
+FIL-S32,https://trading.totalenergies.com/crude-oil-assays,TotalEnergies assay index,,index page,unreachable,0,Fetch failed; individual sheet URLs came from search.
+FIL-S33,https://ukpandi.com/news-and-resources/bulletins/2000/160-1000-nile-blend-crude-oil-problems-ex-marsa-bashayer-sudan,UK P&I Club bulletin 160 Nile Blend,2000,insurer bulletin,extracted,1,"WAT +39 C and above, pour +30 to +36 C; links carriage below WAT to wax deposit and claims (thesis context); tier P."

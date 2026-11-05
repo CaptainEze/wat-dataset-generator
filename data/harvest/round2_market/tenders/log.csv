@@ -1,0 +1,40 @@
+source_id,url,title,year,type,status,rows_added,reason
+TND-S001,https://www.ril.com/sites/default/files/2025-11/Notice-Inviting-Tender-Documents-Part2.pdf,Reliance KG-D6 condensate RFP Part 2 with BV assay IDL-CA-0038-2025,2025,tender,extracted,1,Full BV assay with WAT D8420 and all four inputs; new sample not in master.
+TND-S002,https://ceypetco.gov.lk/wp-content/uploads/2026/03/ANNEX-2-PROPERTIES-OF-CRUDE-C1-C8.pdf,Ceypetco Annex 2 properties of crudes C1-C8,2026,tender,duplicate,0,Only Das Blend has a WAT (15.0) and it is already in master; other seven crudes have no WAT and no methods named.
+TND-S003,https://www.ril.com/sites/default/files/2023-10/Notice%20Inviting%20Tender%20Document%20Part%202%20(1).pdf,Reliance NIT Part 2 with MJ-N4A assay,2023,tender,duplicate,0,MJ-N4A assay already in master as R02.
+TND-S004,https://www.ril.com/sites/default/files/2023-12/Notice-Inviting-Tender_1.pdf,Reliance KG-D6 crude NIT notice Dec 2023,2023,tender,no_wat,0,Notice only; no assay.
+TND-S005,https://www.ril.com/sites/default/files/2022-09/Notice_Inviting_Tender.pdf,Reliance KG-D6 crude NIT notice 2021,2021,tender,no_wat,0,Notice only; no assay.
+TND-S006,https://www.ril.com/sites/default/files/2024-12/Notice-Inviting-Offer.pdf,Reliance KG-D6 crude notice inviting offer Dec 2024,2024,tender,no_wat,0,Notice only; no assay.
+TND-S007,https://www.ril.com/sites/default/files/2023-10/Notice%20Inviting%20Offer%20(4).pdf,Reliance KG-D6 condensate notice Sep 2023,2023,tender,no_wat,0,Notice only; RFP not attached.
+TND-S008,https://www.ril.com/sites/default/files/2023-12/Notice-Inviting-Tender-Documents_1.pdf,Reliance KG-D6 crude NIT documents Dec 2023,2023,tender,no_wat,0,Annexure 2 assay (dated 14 Oct 2022) is blank in text layer (likely image); price is Platts Bonny Light plus fixed USD 1.5 per bbl quality premium with no wax or pour point adjustment.
+TND-S009,https://www.ril.com/sites/default/files/2023-05/KGD6%20Crude%20Oil%20Spot_Notice%20Inviting%20Tender_NCS.pdf,Reliance KG-D6 crude spot NIT May 2023,2023,tender,image_table,0,Annexure 2 assay dated 12 Oct 2022 referenced but not in text layer; same fixed premium formula and no wax adjustment.
+TND-S010,https://www.ril.com/sites/default/files/2025-01/Notice-Inviting-Tender-Document.pdf,Reliance KG-D6 crude NIT document Jan 2025,2025,tender,image_table,0,Annexure 1 indicative crude assay on p.11 of 14 has no text layer; open in browser.
+TND-S011,https://trading.totalenergies.com/en/business-customers/oil/crude-assays/,TotalEnergies Trading crude assay index (58 assays),2025,index,extracted,0,Index only; individual sheets sampled below.
+TND-S012,https://trading.totalenergies.com/wp-content/uploads/2025/11/GIRASSOL.pdf,TotalEnergies Girassol assay,2015,assay,no_wat,0,WAT field blank; wax 6.5 wt% and pour -15 C but no WAT.
+TND-S013,https://trading.totalenergies.com/wp-content/uploads/2025/11/DJENO.pdf,TotalEnergies Djeno assay,2018,assay,no_wat,0,WAT and wax blank.
+TND-S014,https://trading.totalenergies.com/wp-content/uploads/2025/11/CABINDA.pdf,TotalEnergies Cabinda assay,2021,assay,no_wat,0,WAT and wax blank.
+TND-S015,https://trading.totalenergies.com/wp-content/uploads/2025/11/ES-SIDER.pdf,TotalEnergies Es Sider assay,2019,assay,no_wat,0,WAT and wax blank.
+TND-S016,https://trading.totalenergies.com/wp-content/uploads/2025/11/EL-SHARARA.pdf,TotalEnergies El Sharara assay,2021,assay,no_wat,0,WAT and wax blank.
+TND-S017,https://trading.totalenergies.com/wp-content/uploads/2025/11/AL-JURF.pdf,TotalEnergies Al Jurf assay,2011,assay,no_wat,0,WAT and wax blank.
+TND-S018,https://trading.totalenergies.com/wp-content/uploads/2025/11/BADAK.pdf,TotalEnergies Badak assay,2010,assay,no_wat,0,WAT and wax blank.
+TND-S019,https://trading.totalenergies.com/wp-content/uploads/2025/11/SERIA-LIGHT.pdf,TotalEnergies Seria Light assay,2014,assay,no_wat,0,Wax 5.8 wt% but WAT blank.
+TND-S020,https://trading.totalenergies.com/wp-content/uploads/2025/11/CONDENSATE-ICHTHYS.pdf,TotalEnergies Ichthys condensate assay,2019,assay,no_wat,0,WAT and wax blank.
+TND-S021,https://trading.totalenergies.com/wp-content/uploads/2025/11/MERO.pdf,TotalEnergies Mero assay,2019,assay,no_wat,0,WAT and wax blank.
+TND-S022,https://trading.totalenergies.com/wp-content/uploads/2025/11/AKPO-BLEND.pdf,TotalEnergies Akpo Blend assay,2020,assay,no_wat,0,WAT and wax blank.
+TND-S023,https://trading.totalenergies.com/wp-content/uploads/2025/11/AL-SHAHEEN.pdf,TotalEnergies Al Shaheen assay,2016,assay,no_wat,0,WAT and wax blank.
+TND-S024,https://trading.totalenergies.com/wp-content/uploads/2025/11/QATAR-MARINE.pdf,TotalEnergies Qatar Marine assay,2009,assay,no_wat,0,WAT and wax blank.
+TND-S025,https://trading.totalenergies.com/wp-content/uploads/2025/11/UPPER-ZAKHUM.pdf,TotalEnergies Upper Zakhum assay,2012,assay,no_wat,0,WAT and wax blank.
+TND-S026,https://trading.totalenergies.com/wp-content/uploads/2025/11/MURBAN.pdf,TotalEnergies Murban assay,2013,assay,no_wat,0,WAT and wax blank.
+TND-S027,https://trading.totalenergies.com/wp-content/uploads/2025/11/LAPA.pdf,TotalEnergies Lapa assay,2018,assay,no_wat,0,WAT and wax blank.
+TND-S028,https://trading.totalenergies.com/wp-content/uploads/2025/11/SEPIA.pdf,TotalEnergies Sepia assay,2022,assay,no_wat,0,WAT and wax blank.
+TND-S029,https://energy.spglobal.com/rs/325-KYL-599/images/Pearl%20Sweet%20Prospectus%20for%20Singapore.pdf?version=0,Pearl Sweet (Uganda) crude prospectus,2026,prospectus,no_wat,0,Gives API 27 and pour point 38 C only; no WAT or wax content seen. Worth a manual look for a full assay page.
+TND-S030,https://www.oil-india.com/files/oldtender/global/Doc_SSG2611P17.pdf,Oil India tender for liquid flow improver,2017,tender,no_wat,0,Purchase of pour point depressant; test crude pour point 30-36 C only; no WAT or wax content.
+TND-S031,https://www.gailonline.com/pdf/Crude_oil_Tender_12032026.pdf,GAIL crude oil sale tender 2026,2026,tender,no_wat,0,"Only API about 39; discount is for water cut above 15 percent, not wax. Last 6k characters unread."
+TND-S032,https://rbnenergy.com/do-ya-think-i-m-waxy-uinta-basin-crude-price-discounting,RBN Uinta waxy crude price discounting,2013,trade press,no_wat,0,Price context: black wax (32 API) posted 2.20 USD/bbl below yellow wax at Chevron via gravity adjustment; no pour point or WAT values.
+TND-S033,https://www.mplx.com/assets/tariffs/westernconan/ferc/conanfercno120.pdf,MPLX Western Refining Conan pipeline tariff 120,2020,pipeline tariff,no_wat,0,Pour point only mentioned qualitatively; max delivery temperature 120 F; no quality bank.
+TND-S034,https://www.ndoil.org/wp-content/uploads/Bakken-Quality-Report.pdf,NDPC Bakken Quality Report,2014,report,no_wat,0,"API only; no WAT, pour point or wax content in the part read."
+TND-S035,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/bakken.pdf,ExxonMobil Bakken crude assay,2023,assay,no_wat,0,"Density 806.9, API 43.8, pour -80 C, wax 5.8 wt%, cloud -55 C but no WAT; cloud point method not named."
+TND-S036,https://commoncarrier.energytransfer.com/InfoPost/CommonCarriers/resources/DAPL/Tariffs/DAPL_FERC_1.7.0.pdf,Dakota Access tariff 1.7.0,2024,pipeline tariff,no_wat,0,"Quality limits on API, RVP, sulfur only; no pour point or wax limit."
+TND-S037,https://www.cpstl.lk/uploads/IMAGES/catalog/tender/KPR-49-2021_TD.pdf,Ceypetco tender for cloud and pour point apparatus,2021,tender,no_wat,0,Instrument purchase; no crude assays.
+TND-S038,https://www.qatarenergy.qa/en/MarketingAndTrading/Documents/QP%20General%20Terms%20for%20Crude%20Oil%20Sales%20May2016.pdf,QatarEnergy general terms for crude oil sales,2016,contract terms,no_wat,0,No wax or pour point price adjustment in the first 100k characters; only a heating responsibility clause.
+TND-S039,https://www.scribd.com/document/430505654/Azeri-Light-2005-06-xls,Azeri Light 2005-06 assay (Scribd copy),2006,assay,unreachable,0,Third party Scribd upload; not opened (not an official source).

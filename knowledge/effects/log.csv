@@ -1,0 +1,56 @@
+url,title,year,status,notes
+https://api.openalex.org/works/doi:10.1016/0016-2361(96)00046-4,Kok et al. Comparison of WAT of crude oils by DSC thermomicroscopy and viscometry (Fuel 75:787) OpenAlex record,1996,used,metadata only; abstract null
+https://open.metu.edu.tr/handle/11511/41175,Kok et al. 1996 METU repository record,1996,no_content,abstract only; no PDF bitstream; 15 crudes three methods agree for oils with significant wax
+https://www.ogj.com/general-interest/companies/article/17234908/uncertainties-remain-in-predicting-paraffin-deposition,Hunt A. Uncertainties remain in predicting paraffin deposition (OGJ),1996,used,DeepStar cloud point round robin spread at least 10 F
+https://hal-univ-pau.archives-ouvertes.fr/hal-00338124,Coutinho and Daridon 2005 HAL record,2005,unreachable,Anubis access denied
+https://hal.science/hal-00338124/document,Coutinho and Daridon 2005 HAL PDF,2005,unreachable,Anubis access denied
+https://scispace.com/pdf/the-limitations-of-the-cloud-point-measurement-techniques-2c5wwjn3hi.pdf,Coutinho and Daridon 2005 The limitations of the cloud point measurement techniques (Pet Sci Technol 23:1113),2005,used,OA copy of HAL deposit; Table 2 garbled in extraction
+https://scispace.com/pdf/cloud-points-can-we-measure-or-model-them-isxfh98zko.pdf,Hammami Ratulowski Coutinho 2003 Cloud points can we measure or model them (Pet Sci Technol 21:345),2003,used,detection limits and Kruka agreement statements
+https://orbit.dtu.dk/en/publications/wax-precipitation-from-north-sea-crude-oils-1-crystallization-and/,Ronningsen et al. 1991 Wax precipitation from North Sea crude oils 1 (Energy Fuels 5:895),1991,used,abstract only; 17 oils microscopy highest
+https://khub.utp.edu.my/scholars/6695/,Japper-Jaafar Bhaskoro Mior 2016 A new perspective on WAT measurements (J Pet Sci Eng 147:672),2016,no_content,abstract only; micro-DSC and rheometry more sensitive than CPM; values paywalled
+https://link.springer.com/content/pdf/10.1007/s13202-016-0276-0.pdf,Struchkov and Rogachev 2017 Wax precipitation in multicomponent hydrocarbon system,2017,used,model solutions; cooling rate pressure impurity water cut effects
+https://www.sciencedirect.com/science/article/pii/S1877705816310487,Effect of CO2 on WAT of crude oils (Procedia Eng),2016,unreachable,client error
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12878762,WAT of Brazilian presalt via HPuDSC pressure and gas composition (ACS Omega 2026),2026,unreachable,captcha
+https://core.ac.uk/download/161610854.pdf,Struchkov and Roschin 2017 Energy efficiency challenge of waxy oil production by ESP,2017,no_content,WAT rises linearly with pressure but no slope
+https://www.osti.gov/servlets/purl/963363,Zhu Walker Liang 2008 DOE report Wax deposition in Alaska North Slope oils,2008,no_content,only first 86k characters; sample 5 CPM 40.6 vs viscometry 36.1 C
+https://scholarworks.alaska.edu/cgi/viewcontent.cgi?article=1068&context=uaf_grad_engineering,Anyanwu 2007 UAF thesis PDF (129 MB),2007,unreachable,too large; cooling rate appendix not read
+https://tainstruments.com/pdf/literature/TA429.pdf,TA Instruments TA429 WAT by DSC,n.d.,used,cooling rate tables
+https://scispace.com/pdf/liquid-solid-phase-equilibria-of-paraffinic-systems-by-dsc-36r0cmcl74.pdf,Alcazar-Vara and Buenrostro-Gonzalez 2013 InTech chapter,2013,used,Table 5 four methods on 3 Mexican oils
+https://cdn.standards.iteh.ai/samples/111157/1bf6293cc71d44749dff2c7630b4bf32/ASTM-D8420-21.pdf,ASTM D8420-21 sample,2021,used,repeatability
+https://www.paclp.com/tenants/pac/documents/Phase-Technology-White-Paper-WAT-of-Crude-Oils.pdf,Phase Technology white paper WAT of crude oils,n.d.,used,repeatability 1 C
+https://www.energyinst.org/industry/publications/topics/ip-test-methods/ip-389-determination-of-wax-appearance-temperature-wat-of-middle-distillate-fuels-by-differential-thermal-analysis-dta-or-differential-scanning-calorimetry-dsc,IP 389 Energy Institute page,n.d.,no_content,no precision numbers on page
+https://cdn.standards.iteh.ai/samples/26507/db052fec7c174647ac7c98746674bec2/ASTM-D3117-03.pdf,ASTM D3117-03 sample,2003,used,precision 0.8 and 2.2 C
+https://cdn.standards.iteh.ai/samples/114661/ec96831494534fafb86d1ac7c451c513/ASTM-D2500-23.pdf,ASTM D2500-23 sample,2023,used,scope only; precision section not in sample
+https://api.crossref.org/works?query.bibliographic=limitations+of+the+cloud+point,Crossref lookup Coutinho and Daridon 2005,2005,used,DOI check
+https://api.crossref.org/works?query.bibliographic=Cloud+points+can+we+measure,Crossref lookup Hammami 2003,2003,used,DOI check
+https://data.zhenzhi.com/details/1/868171405,Hammami and Raines 1999 Paraffin deposition from crude oils comparison of lab results with field data (SPE J 4:9),1999,no_content,abstract only; four GoM fluids CPM and laser SDS
+https://link.springer.com/doi/10.1007/s10973-015-4451-1,Zhao Paso Norrman et al. 2015 DSC NIR NMR for WAT (J Therm Anal Calorim 120:1427),2015,no_content,abstract without numbers
+https://www.ogj.com/general-interest/companies/article/17236753/modified-test-method-measures-wax-deposition-qualities-of-opaque-crude,OGJ Modified test method measures wax deposition qualities of opaque crude,n.d.,used,
+https://api.crossref.org/works/10.2118/38774-ms,Monger-McClure Tackett Merrill 1997 DeepStar comparisons of cloud point measurement (SPE 38774),1997,used,abstract via Crossref
+https://petrowiki.spe.org/Wax_precipitation,PetroWiki Wax precipitation,n.d.,used,qualitative only: CPM highest for dead oils; gas liberation raises cloud point
+https://core.ac.uk/download/77036102.pdf,Burgass 2015 Heriot-Watt PhD thesis QCM,2015,used,dead and live condensate WAT vs pressure
+https://grzy.cug.edu.cn/PANHUANQUAN/en/lwcg/49178/content/7943.htm,Pan Firoozabadi Fotland 1997 Pressure and composition effect on wax precipitation (SPE PF),1997,no_content,metadata only
+https://journal.ut.ac.ir/article_2976_ceac01dc25a586d9de2bb585184d7814.pdf,Moradi Mohadesi Mokhtari 2013 WDT correlation at various pressures,2013,used,n-alkane pressure slopes
+https://www.cup.edu.cn/petroleumscience/docs/2023-03/d40f02f7fd334a0f8431d203374735bf.pdf,Lei et al. 2023 Effect of existence state of asphaltenes on asphaltene-wax interaction (Pet Sci 20:507),2023,no_content,no numeric WAT change
+https://core.ac.uk/download/334960479.pdf,Joonaki et al. 2020 Effects of waxes on asphaltene aggregation (ACS Omega 5:7124),2020,no_content,no WAT effect numbers
+https://ctyf.journal.ecopetrol.com.co/index.php/ctyf/article/view/329,Ariza Leon et al. 2014 Review asphaltene-wax interaction (CT&F 5:39),2014,no_content,qualitative: contradictory effects
+https://rcastoragev2.blob.core.windows.net/fac5385c3077144472cce8760da0bd29/ao1c07072.PMC9134231.pdf,Shariatrad et al. 2022 WDT of quaternary n-paraffins (ACS Omega 7:16928),2022,no_content,model mixtures only
+https://www.mdpi.com/1996-1073/15/17/6200/htm,Cao et al. 2022 Dabei condensate WAT (Energies 15:6200),2022,used,Table 7 pressure and GOR
+https://www.mdpi.com/1996-1073/19/5/1309,Comparative analysis of wax onset methods Uzen (Energies 19:1309),2026,used,flow loop vs optical 2 to 4 C
+https://burjcdigital.urjc.es/bitstreams/609ccf17-673a-0c23-e053-6f19a8c0ba23/download,Bouzas Gonzalez 2011 URJC thesis WAT by FTIR,2011,used,DSC vs FTIR table differs from master in places
+https://www.scielo.br/j/jbchs/a/TxrM8ndJ5D45R5LT3Fz77JD/?lang=en,Oliveira et al. 2018 Wax behavior in crude oils by pour point analyses (JBCS),2018,used,two uDSC events
+https://patents.google.com/patent/US6841779B1/en,US 6841779 B1 FTIR WPT patent,n.d.,used,ANS viscometry 6 C below CPM; DSC failed
+https://patents.justia.com/patent/20160208601,US 20160208601 microfluidic WAT,2016,unreachable,client error
+https://api.openalex.org/works/doi:10.1021/ef900173b,Paso Kallevik Sjoblom 2009 WAT by NIR scattering (Energy Fuels 23:4988),2009,used,abstract via OpenAlex
+https://api.openalex.org/works?search=Elsharkawy+Al-Sahhaf+Fahim+wax+deposition+Middle+East+crudes,OpenAlex search for Elsharkawy 2000,2000,no_content,Elsharkawy not returned; formation damage 2020 abstract used
+https://scispace.com/pdf/reliable-wax-predictions-for-flow-assurance-2y02u640e4.pdf,Coutinho Edmonds Moorwood Szczepanski Zhang 2006 Reliable wax predictions for flow assurance (Energy Fuels 20:1081),2006,used,SDS and filter thresholds
+https://ir.uitm.edu.my/125616/1/125616.pdf,Kamisan and Hussin effect of aging on CCN (UiTM),n.d.,used,one crude WAT 32 pour 3
+https://sweet.ua.pt/jcoutinho/file/PST%202005%2023%201113.pdf,Guessed Coutinho group file for PST 2005,2005,unreachable,page does not exist
+https://www.mdpi.com/1996-1073/15/17/6200/htm,Cao 2022 (duplicate entry for pressure tables),2022,duplicate,
+https://sciact.catalysis.ru/public/article/49104/en,Shalygin et al. 2024 ATR FT-IR WAT ambient and high pressure (Appl Spectrosc 78:277),2024,used,abstract only
+https://eprints.whiterose.ac.uk/207413/1/ali-et-al-2023-the-contrasting-behavior-of-strongly-and-weakly-interfacially-active-asphaltenes-on-the-rheology-of.pdf,Ali et al. 2024 asphaltenes and model waxy oils (Energy Fuels 38:117),2024,used,DSC WAT with asphaltenes
+https://rcastoragev2.blob.core.windows.net/838477d83f78a7ffaab73a94d1002eec/ao1c07174.PMC8908777.pdf,Li et al. 2022 asphaltene concentration and W/O model waxy emulsions (ACS Omega 7:8023),2022,used,DSC WAT -1 C
+https://api.crossref.org/works?query.bibliographic=Reliable+wax+predictions,Crossref lookup Coutinho 2006,2006,used,DOI 10.1021/ef050082i
+https://doaj.org/article/d5960c6e4a17424d80df592622045606,Measurement of WAT of waxy oil under reservoir condition with ultrasonic method (Pet Explor Dev 2014),2014,used,abstract only
+https://link.springer.com/content/pdf/10.1007/s13202-019-00779-2.pdf,Struchkov et al. 2019 Temperature and dilution effect on rheology of waxy crude (JPEPT),2019,used,CO2 N2 additions; solvent type
+https://api.openalex.org/works?search=wax+appearance+temperature,OpenAlex search (simple),n.a.,used,search with select and per-page returned client errors; simple search worked but window short

@@ -1,0 +1,3 @@
+OpenAlex: search=Niger Delta crude cloud point pour point wax content (page 1, per-page 50); search=Nigerian crude oil paraffin wax characterization (page 1)
+WebSearch: Niger Delta tubing wax deposition JPGE 2010
+OpenAlex: search=Niger Delta crude oil wax appearance temperature cooling page 2; search=Bonny light pour point wax content density page 1; filter=cites:W2026107900 (resolved, 3 results, not read)

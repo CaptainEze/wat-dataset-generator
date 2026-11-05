@@ -1,0 +1,5 @@
+https://api.openalex.org/works?search=wax%20appearance%20temperature%20Nigeria%20crude&per-page=50
+https://api.openalex.org/works?search=wax%20deposition%20Niger%20Delta%20pipeline&per-page=50
+https://api.openalex.org/works?search=wax%20appearance%20temperature%20Nigeria%20crude&per-page=25&page=2
+(page 1 of 25 and Niger Delta flow assurance SPE query blocked by usage limit)
+curl to api.openalex.org: 403 from proxy

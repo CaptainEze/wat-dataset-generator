@@ -1,0 +1,44 @@
+source_id,url,title,year,type,status,rows_added,reason
+S01,https://api.openalex.org/works?search=condensate%20wax%20appearance%20temperature,OpenAlex search condensate WAT,2026,search,rejected,0,Search listing only; used for leads
+S02,https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c10044,Temperature-Dependent Wax Precipitation Characteristics in Gas Condensates,2025,paper,unreachable,0,WebFetch failed on ACS site; open access so user can open in browser
+S03,https://link.springer.com/content/pdf/10.1007/s13202-023-01716-0.pdf,Shi et al. Paraffin deposition in gas-condensate wells with chemical inhibitors (Tarim),2024,paper,P,0,Three Tarim condensates with WAT and wax but no density or API
+S04,https://srcpublishers.com/oil-petroleum-and-natural-gas-re/article/download/6005/7272,Investigating Non-Uniformity of WAT of Crude Oil in Nigeria,2025,paper,rejected,0,Seven Niger Delta crudes but densities 0.82 to 0.94 g/cm3 so not condensate; Nigeria covered by other rounds
+S05,https://trading.totalenergies.com/wp-content/uploads/2025/11/CONDENSATE-ICHTHYS.pdf,TotalEnergies assay Condensate Ichthys,2025,assay,no_wat,0,WAT and wax blank; bulk density 786.1 pour 6; no 40C viscosity (10C 2.0 and 50C 1.1)
+S06,https://trading.totalenergies.com/wp-content/uploads/2025/11/CONDENSATE-SENIPAH.pdf,TotalEnergies assay Condensate Senipah,2025,assay,no_wat,0,WAT blank
+S07,https://trading.totalenergies.com/wp-content/uploads/2025/11/CONDENSATE-BONTANG-RETURN.pdf,TotalEnergies assay Condensate Bontang Return,2025,assay,no_wat,0,WAT blank
+S08,https://trading.totalenergies.com/wp-content/uploads/2025/11/QATAR-MARINE.pdf,TotalEnergies assay Qatar Marine,2025,assay,no_wat,0,WAT blank
+S09,https://journals.aun.edu.ng/index.php/files/article/download/192/186/920,Usman et al. Paraffin wax precipitation review,2025,review,duplicate,0,Review table repeats Ketebu Nigeria and other compiled values already in master
+S10,https://ph02.tci-thaijo.org/index.php/MIJEEC/article/download/246281/167091/872143,Elarbe et al. Paraffin wax deposition review,2021,review,duplicate,0,Secondary compilation with API only; Malaysia Mexico Egypt oils already in master
+S11,https://sites.google.com/site/petrosupu/article/1076-1,Luo et al. SPE 68228 Highly waxy gas condensate,2001,summary page,no_wat,0,No WAT or density in the open summary
+S12,https://trading.totalenergies.com/wp-content/uploads/2025/11/CONDENSATE-SNOHVIT.pdf,TotalEnergies assay Condensate Snohvit,2025,assay,no_wat,0,WAT blank; sent to bulk_only
+S13,https://trading.totalenergies.com/wp-content/uploads/2025/11/AKPO-BLEND.pdf,TotalEnergies assay Akpo Blend,2025,assay,no_wat,0,WAT blank; sent to bulk_only
+S14,https://trading.totalenergies.com/wp-content/uploads/2025/11/ASGARD-BLEND.pdf,TotalEnergies assay Asgard Blend,2025,assay,no_wat,0,WAT blank; sent to bulk_only
+S15,https://trading.totalenergies.com/wp-content/uploads/2025/11/CULZEAN.pdf,TotalEnergies assay Culzean,2025,assay,no_wat,0,WAT blank but wax 10.4; sent to bulk_only
+S16,https://trading.totalenergies.com/wp-content/uploads/2025/11/GUDRUN-BLEND.pdf,TotalEnergies assay Gudrun Blend,2025,assay,no_wat,0,WAT blank; sent to bulk_only
+S17,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/pazflor.pdf,ExxonMobil assay Pazflor,2024,assay,rejected,0,API 28 so outside territory and no WAT
+S18,https://web-equinor-web-sites-prod.c2.radix.equinor.com/energy/crude-oil-assays,Equinor crude oil assays list,2025,index,rejected,0,Assays are XLS downloads with no links visible; Algerian Ormen Lange Snohvit condensates listed
+S19,https://trading.totalenergies.com/en/business-customers/oil/crude-assays/,TotalEnergies crude assay index,2025,index,rejected,0,Index used to find condensate and API above 45 assays
+S20,https://nur.nu.edu.kz/bitstreams/4ca3e046-66fa-41f2-8396-6517fee796e0/download,WDT modelling machine learning thesis Kazakhstan,2025,thesis,unreachable,0,Repository returned login page
+S21,https://shareok.org/bitstream/11244/5885/1/9949711.PDF,Petroleum wax deposition and production geochemistry 1999,thesis,no_wat,0,OCR garbled and no WAT table seen
+S22,https://theses.hal.science/tel-03340202v1/document,HAL thesis gas addition phase equilibria,2021,thesis,unreachable,0,Bot protection page
+S23,https://www.mdpi.com/1996-1073/15/17/6200/html,Cao et al. Dabei wax deposition Energies 2022,2022,paper,duplicate,0,Dabei wells A and B already in master with all three WAT methods
+S24,https://psecommunity.org/wp-content/plugins/wpor/includes/file/2302/LAPSE-2023.9977-1v1.pdf,LAPSE 2023.9977 (same Dabei Energies paper),2023,paper,duplicate,0,Same Dabei data as master
+S25,https://www.magiran.com/paper/2504738/,Development of methods for WAT control Iran,2022,abstract page,no_wat,0,Abstract only no values
+S26,https://factpages.sodir.no/pbl/geochemical_pdfs/431_GCH_2.pdf,Sodir 431_GCH_2 PROLAB 87.25 well 34/10-13,1987,regulator report,duplicate,0,34/10-13 already in master as no_34_10_13
+S27,https://factpages.sodir.no/pbl/geochemical_pdfs/1539_1.pdf,Sodir 1539_1 well 6406/11-1S,1991,regulator report,no_wat,0,Waxy oil density 875 so not light; no WAT
+S28,https://www.ril.com/sites/default/files/2025-11/Notice-Inviting-Tender-Documents-Part2.pdf,Reliance tender 2025 FPSO condensate assay IDL-CA-0038-2025,2025,assay,extracted,1,KG-D6 condensate with WAT and WDT by D8420
+S29,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/terengganu_condensate.pdf,ExxonMobil assay Terengganu Condensate,2024,assay,no_wat,0,No WAT; sent to bulk_only
+S30,https://www.ril.com/sites/default/files/2024-12/Notice_Inviting_Offer.pdf,Reliance Notice Inviting Offer Dec 2024 KG-D6 condensate,2024,tender,no_wat,0,Notice only; assay not included
+S31,https://www.ril.com/sites/default/files/2025-01/Notice-Inviting-Tender-Document.pdf,Reliance NIT Jan 2025,2025,tender,image_table,0,Annexure 1 assay page has no text; may be image
+S32,https://www.ril.com/sites/default/files/2023-12/Notice-Inviting-Tender-Documents_1.pdf,Reliance NIT Dec 2023 KG-D6 crude,2023,tender,image_table,0,Annexure 2 assay of 14 Oct 2022 empty in text
+S33,https://www.ril.com/sites/default/files/2022-09/Notice_Inviting_Tender_Documents.pdf,Reliance NIT Sep 2022 KG-D6 crude,2022,tender,image_table,0,Annexure 2 assay of 3 May 2021 empty in text
+S34,https://www.ril.com/sites/default/files/2025-11/Notice-Inviting-Tender-Documents-Part1.pdf,Reliance NIT Nov 2025 Part 1,2025,tender,duplicate,0,Only repeats API 48.43 of the Part 2 assay
+S35,https://www.ril.com/sites/default/files/2023-12/Notice-Inviting-Tender_1.pdf,Reliance NIT notice Dec 2023,2023,tender,no_wat,0,Notice only
+S36,https://www.ril.com/sites/default/files/2024-04/Notice-Inviting-Offer.pdf,Reliance Notice Inviting Offer Apr 2024 condensate,2024,tender,no_wat,0,Notice only
+S37,https://www.oil-india.com/files/oldtender/global/Doc_SDG0087P16.pdf,Oil India tender wax flow loop,2016,tender,rejected,0,Equipment tender with no assay
+S38,https://utpedia.utp.edu.my/id/eprint/14600/,UTP final year project WAT and WDT light and heavy crudes,2014,thesis,unreachable,0,Full text restricted; abstract has ranges only (light WAT 32 to 36 C); PDF http://utpedia.utp.edu.my/id/eprint/14600/1/FINAL%20DISSERTATION.pdf
+S39,https://www.mdpi.com/1996-1073/15/11/4018/htm,Characterization of wax precipitation of condensate oil in wellbore review,2022,review,image_table,0,Tables are images or model summaries
+S40,https://www.mdpi.com/1996-1073/12/6/967/htm,Occurrence and characterization of paraffin wax in wells and pipelines,2019,paper,image_table,0,Table 2 of waxy crudes by region is an image
+S41,https://cuir.car.chula.ac.th/bitstream/123456789/57988/1/5873021063_Tunya%20Ke.pdf,Chula thesis wax deposition model oil,2016,thesis,rejected,0,Model oil only
+S42,https://science.lpnu.ua/sites/default/files/journal-paper/2025/jan/37826/fulltext1332.pdf,High waxy crude oil review Lviv,2025,review,rejected,0,No sample data
+S43,https://doaj.org/article/218daeba9d3d4d558dff2fb04780f386,ACS Omega 2025 gas condensate wax precipitation DOAJ record,2025,index,unreachable,0,DOAJ fetch failed; PMC and ACS routes also failed

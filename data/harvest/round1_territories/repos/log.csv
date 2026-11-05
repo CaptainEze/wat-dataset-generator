@@ -1,0 +1,62 @@
+source_id,url,title,year,type,status,rows_added,reason
+REPOSRC-001,https://research.nu.edu.kz/en/publications/new-intelligent-models-for-predicting-wax-appearance-temperature-/,"New intelligent models for predicting WAT (Nazarbayev, Fuel)",2025,ML paper,unreachable,0,"Abstract page only, 81 literature points, no data table or open full text. DOI 10.1016/j.fuel.2024.133146"
+REPOSRC-002,https://nur.nu.edu.kz/bitstreams/4ca3e046-66fa-41f2-8396-6517fee796e0/download,Wax disappearance temperature modeling with ML (NU thesis),,thesis,unreachable,0,"Download gave a DSpace login page. Thesis is about WDT, handle https://nur.nu.edu.kz/handle/123456789/8566"
+REPOSRC-003,https://dspace.univ-boumerdes.dz/items/0defb410-54ba-4cf6-8d3d-1aa8b5992ea4/full,Benamara et al. Prediction of WAT using AI techniques (59 Algerian crudes),2020,ML paper,unreachable,0,Record page only; PDF handle blocked by robots rule. DOI 10.1007/s13369-019-04290-y worth opening in browser
+REPOSRC-004,https://core.ac.uk/download/29465956.pdf,"Ball and Jones, thermodynamics of wax and asphaltene",2009,review,no_wat,0,"No table, only a WAT range from Kok et al."
+REPOSRC-005,https://www.vurup.sk/na_stiahnutie/characterisation-malaysian-waxy-crude-oils/,Sharma et al. Characterisation of Malaysian waxy crude oils,2016,paper,duplicate,0,"PN01, PT03, SP01 already in master"
+REPOSRC-006,https://journals.aun.edu.ng/index.php/files/article/download/192/186/920,"Usman et al. paraffin wax review, AUN proceedings",2025,review,duplicate,0,Table 1 already in master as tier C; used to find primaries
+REPOSRC-007,https://core.ac.uk/download/322410851.pdf,Taiwo et al. Niger Delta waxy crude (InTech chapter),2012,chapter,duplicate,0,Samples I and II already in master as nd_taiwo
+REPOSRC-008,https://www.mdpi.com/1996-1073/12/6/967,El-Dalatony et al. Paraffin wax in wells and pipelines,2019,review,image_table,0,Table 2 is an image on the page and PDF came back binary
+REPOSRC-009,https://www.mdpi.com/1996-1073/16/1/406,"Sousa et al. methane, CO2, fatty acids on waxy crudes",2023,paper,image_table,0,Tables 2 and 3 are images; Brazilian samples with CPM and DSC WAT
+REPOSRC-010,https://www.kbc.global/uploads/files/whitepapers/Modelling_Wax_Thermodynamics_Speranza_Zhang_FINAL2020.pdf,KBC wax thermodynamics model validation,2020,report,unreachable,0,Fetch failed
+REPOSRC-011,https://www.academia.edu/126045854/Characterization_of_the_wax_precipitation_in_Mexican_crude_oils,Characterization of wax precipitation in Mexican crude oils,2012,paper,unreachable,0,Fetch failed; primary for master mexico_pc and mexico_iri
+REPOSRC-012,https://pmc.ncbi.nlm.nih.gov/articles/PMC7254814/,Zhao et al. In situ microscopic observation of wax crystals,2020,paper,extracted,2,"Two Chinese oils with DSC WAT, pour point, wax content"
+REPOSRC-013,https://pmc.ncbi.nlm.nih.gov/articles/PMC9161395/,Dong et al. Rheo-optic waxy crude,2022,paper,duplicate,0,Already in master as dong_crude
+REPOSRC-014,https://pubs.acs.org/doi/10.1021/acsomega.9b04268,Thermochemical fluids for waxy crude flow,2020,paper,unreachable,0,Fetch failed
+REPOSRC-015,https://www.osti.gov/servlets/purl/963363,Wax deposition of Alaska North Slope oils (OSTI),2008,report,image_table,0,Text copy lacks the chapter 4 data tables (only titles and one figure label); open PDF in browser
+REPOSRC-016,https://core.ac.uk/download/334960479.pdf,Joonaki et al. Waxes and asphaltene aggregation,2020,paper,no_wat,0,"One North Sea oil, no numeric WAT"
+REPOSRC-017,https://ir.uitm.edu.my/125616/1/125616.pdf,"Kamisan and Hussin, aging and CCN",,paper,duplicate,0,Kerteh crude already in master as petronas_kerteh
+REPOSRC-018,https://ajol.info/index.php/njtd/article/view/226272/213536,AJOL Nigerian journal article,,paper,unreachable,0,Empty page returned
+REPOSRC-019,https://repository.sustech.edu/jspui/bitstream/123456789/5447/4/Appendices.pdf,Sudan Neem FPF appendices,,thesis appendix,no_wat,0,"Demulsifier test appendices, no WAT"
+REPOSRC-020,https://eprints.lancs.ac.uk/id/eprint/156603,Makwashi et al. waxy crudes characterisation and inhibitors,2021,paper,unreachable,0,Full text not available from repository
+REPOSRC-021,https://www.slideshare.net/ModestyJnr/prediction-of-wax-deposition-risk-of-malaysian-crude,"Kelechukwu, wax risk of Malaysian crude from viscosity",2011,paper,duplicate,0,"Angsi, Bunga Kekwa, Dulang, Penara, Tapis already in master"
+REPOSRC-022,https://burjcdigital.urjc.es/bitstreams/49e877cc-f97e-43c1-9119-d7c433729b55/download,Robustillo et al. total wax content methods,2012,paper,no_wat,0,"32 crudes with API, pour point and C20+ wax but no WAT"
+REPOSRC-023,https://www.scribd.com/document/456892085/coto2014,Coto et al. 2014 (Scribd copy),2014,paper,unreachable,0,Scribd shows title only; Coto 2014 is primary for master south_america
+REPOSRC-024,https://www.scribd.com/document/495913036/applsci-10-00479-1,Applied Sciences 2020 wax mechanisms review,2020,review,unreachable,0,Scribd page has no tables
+REPOSRC-025,https://core.ac.uk/download/357192935.pdf,Palermo et al. multifunctional formulations for waxes and asphaltenes,2013,paper,duplicate,0,Palermo Brazil crude already in master
+REPOSRC-026,https://www.intechopen.com/chapters/65319,Chrisman et al. Wax in Brazilian crude oils,2019,chapter,image_table,0,Table 3 with density and viscosity is an image; only P2 WAT 42.1 given in text
+REPOSRC-027,https://scielo.br/j/jbchs/a/TxrM8ndJ5D45R5LT3Fz77JD,Wax behavior in crude oils by pour point analyses (Brazil),2018,paper,image_table,0,Table 1 content not available; no WAT in text
+REPOSRC-028,https://iasj.rdd.edu.iq/journals/uploads/2026/05/23/b2b632c1f48cdbff9dea78fc3cc45496.pdf,Wilson-SRK wax precipitation detection,,paper,rejected,0,"Single reservoir fluid, unit conflict in WAT, no bulk properties"
+REPOSRC-029,https://journals.ekb.eg/article_219929_d5c60e2699a0b817bdb43e0e4a83faa6.pdf,Allyl polymer pour point depressants (North Qattara),,paper,no_wat,0,"One crude, no WAT"
+REPOSRC-030,https://data.mendeley.com/datasets/rzzvmc4f5d,"Mendeley data, wax molecular diffusivity cold finger",2021,dataset,no_wat,0,"Supplementary file for deposition experiments, no WAT table seen on page"
+REPOSRC-031,https://etasr.com/index.php/ETASR/article/view/9644,Khussainova et al. Kazakhstani crude melting point correlations,2025,paper,no_wat,0,"Five fields but no WAT, density or wax per field"
+REPOSRC-032,https://hdl.handle.net/11511/41175,"Kok 1996 WAT of 15 crudes by DSC, microscopy, viscometry (METU)",1996,paper,unreachable,0,Only abstract page; 15 Turkish crudes. DOI 10.1016/0016-2361(96)00046-4
+REPOSRC-033,https://link.springer.com/10.1007/s13202-018-0480-1,"Mansourpoor et al. WDT multi-solid model, 12 Iranian oils",2019,paper,image_table,0,Tables 1 and 9 not rendered; WDT not WAT anyway
+REPOSRC-034,https://cup.edu.cn/petroleumscience/docs/2019-08/20160113.pdf,Behbahani PC-SAFT wax modelling,2016,paper,no_wat,0,"One crude, no WAT in Table 1"
+REPOSRC-035,https://rcastoragev2.blob.core.windows.net/fac5385c3077144472cce8760da0bd29/ao1c07072.PMC9134231.pdf,Shariatrad et al. WDT of paraffin mixtures,2022,paper,rejected,0,Model mixtures only
+REPOSRC-036,https://pmc.ncbi.nlm.nih.gov/articles/PMC13425321/,Gelling of water-in-oil waxy emulsions,,paper,unreachable,0,Blocked by browser check
+REPOSRC-037,https://pmc.ncbi.nlm.nih.gov/articles/PMC8506093/,Chenor crude with palm oil additives,2021,paper,unreachable,0,Blocked by browser check; Chenor Malaysian crude may have WAT. Springer twin s13202-021-01193-3 omits Table 2 values
+REPOSRC-038,https://pmc.ncbi.nlm.nih.gov/articles/PMC13144480/,Nanohybrid pour point depressants,,paper,unreachable,0,Blocked by browser check
+REPOSRC-039,https://pmc.ncbi.nlm.nih.gov/articles/PMC7057713/,Thermochemical fluids waxy crude PMC copy,2020,paper,unreachable,0,Blocked by browser check
+REPOSRC-040,https://pmc.ncbi.nlm.nih.gov/articles/PMC9453799/,Alpandi et al. Penara plant additives,2022,paper,duplicate,0,Penara already in master (R18)
+REPOSRC-041,https://pmc.ncbi.nlm.nih.gov/articles/PMC7424581/,Ragunathan et al. palm oil wax inhibition (Mt Mckyle),2020,paper,extracted,1,Primary for master R40; adds API 27.7
+REPOSRC-042,https://pmc.ncbi.nlm.nih.gov/articles/PMC12019450/,Huang et al. Oil components and wax deposition of heavy oil,2025,paper,extracted,5,Five Dagang oils with DSC WAT and density at 20 C
+REPOSRC-043,https://link.springer.com/10.1007/s13202-021-01193-3,Ragunathan et al. rheology with palm oil additives (Chenor),2021,paper,unreachable,0,Table 2 values not shown on page
+REPOSRC-044,https://link.springer.com/article/10.1007/s13202-021-01316-w,Chenor palm oil additive pour point paper (Springer),2021,paper,unreachable,0,Table 2 values not shown on page
+REPOSRC-045,https://mdpi.com/1996-1073/15/17/6200,Cao et al. Dabei condensate wax deposition,2022,paper,duplicate,0,Dabei A and B already in master
+REPOSRC-046,https://journals.uran.ua/eejet/article/download/306971/298640/710194,Sarsenova et al. paraffin deposition Kazakh crude,2024,paper,no_wat,0,"Field WAT only in kelvin, no bulk properties"
+REPOSRC-047,https://core.ac.uk/download/236297185.pdf,"Sigitov et al. Kumkol, Akshabulak, Uzen",2014,paper,duplicate,0,Already in master R20-R24
+REPOSRC-048,https://www.mdpi.com/2673-4117/7/4/184,Togasheva et al. Uzen XIII horizon ARPD risk,2026,paper,extracted,4,"Four Uzen samples, tier P, no density or API"
+REPOSRC-049,https://pdfs.semanticscholar.org/ceb6/9089effb66cdf1ae545f935b603200ac4d6a.pdf,"Htet Myat Min, Mae Soon wax deposition thesis",2018,thesis,duplicate,0,Fang oil already in master; thesis WAT depends on shear rate
+REPOSRC-050,https://utpedia.utp.edu.my/id/eprint/10652/1/Final%20Report.pdf,"Abd Aziz, wax deposition models in simulation software",2013,thesis,extracted,2,"Unnamed crude secondary from Singh 2011, tier C"
+REPOSRC-051,https://projekter.aau.dk/projekter/files/335444794/K10_OG_2_F20.pdf,"Montero, wax deposition multiphase flow",2020,thesis,duplicate,0,Garden Banks condensate already in master
+REPOSRC-052,https://www.researchgate.net/publication/376686901_Comparable_study_for_wax_content_and_pour_point_in_different_types_of_crude_oils,Baha et al. wax content and pour point of 20 Sudanese crudes,2018,paper,no_wat,0,Wax and pour for 20 samples but no WAT or API
+REPOSRC-053,https://www.vurup.sk/na_stiahnutie/correlation-for-predicting-wax-deposition/,Ketebu et al. Correlation for predicting wax deposition,2020,paper,extracted,7,Seven Nigerian oils with DSC WAT; A to C are primaries for master tier C rows
+REPOSRC-054,https://www.redalyc.org/pdf/474/47446522005.pdf,Akinyemi et al. plant seed oils flow improvers Nigerian crude,2016,paper,no_wat,0,"Four crudes with API, pour, viscosity, wax but no WAT"
+REPOSRC-055,https://repository.ui.edu.ng/bitstreams/e030b588-dfb4-4320-9639-e89af8082973/download,University of Ibadan repository item,,thesis,unreachable,0,Returned blank page
+REPOSRC-056,https://core.ac.uk/download/195784903.pdf,Akinyemi et al. (core copy),2016,paper,duplicate,0,Same paper as redalyc copy
+REPOSRC-057,https://ijtech.eng.ui.ac.id/download/article/1530,Yulizar et al. oxirane ester copolymer,2016,paper,rejected,0,"Model crude of wax and asphaltene, not a real oil"
+REPOSRC-058,https://ogst.ifpenergiesnouvelles.fr/articles/ogst/full_html/2019/01/ogst180308/ogst180308.html,Kozhabekov et al. South Turgay oils PPD,2019,paper,image_table,0,Table 1 rows not in page; no measured WAT in text
+REPOSRC-059,https://cup.edu.cn/petroleumscience/docs/2022-11/d9ddfd16183645548acf8ba95a8b5f5d.pdf,Xia et al. EVA PPD with laurylamine (Qinghai crude),2022,paper,extracted,1,"Tier P: WAT, pour and wax in text, density in unread Supporting Information"
+REPOSRC-060,https://www.kiche.or.kr/journal/kjche/fulltext/33/6/1813/8cdd38b2,Jung et al. polymeric additives in model oils,2016,paper,rejected,0,Model oils only
+REPOSRC-061,https://open.metu.edu.tr/handle/11511/48303,METU repository crude wax records (Kok group),,repository,unreachable,0,"Search hit only, not opened beyond Kok 1996 page"

@@ -1,0 +1,21 @@
+source_id,url,title,year,type,status,rows_added,reason
+S01,https://trading.totalenergies.com/wp-content/uploads/2025/11/BONNY-LIGHT.pdf,Bonny Light assay,2020,operator assay,no_wat,1,"Bulk only, wax and WAT blank (bulk_only)"
+S02,https://corporate.exxonmobil.com/-/media/global/files/crude-oils/pdf/2024/qua_iboe.pdf,Qua Iboe assay,2024,operator assay,no_wat,1,"Bulk only, no whole-crude wax or WAT (bulk_only)"
+S03,https://ajol.info/index.php/sa/article/view/184863/174202,"Niger Delta crude blend, treatment study",,journal,extracted,1,"Cloud point only, citation incomplete, tier P"
+S04,https://trading.totalenergies.com/wp-content/uploads/2025/11/FORCADOS.pdf,Forcados assay,2014,operator assay,no_wat,1,"Has wax 7.0 wt% and pour point, no WAT (bulk_only)"
+S05,https://trading.totalenergies.com/wp-content/uploads/2025/11/EA-BLEND.pdf,EA Blend assay,2010,operator assay,no_wat,1,Bulk only (bulk_only)
+S06,https://trading.totalenergies.com/wp-content/uploads/2025/11/BRASS-RIVER.pdf,Brass River assay,2018,operator assay,no_wat,1,Bulk only (bulk_only)
+S07,https://trading.totalenergies.com/wp-content/uploads/2025/11/AMENAM-BLEND.pdf,Amenam Blend assay,2021,operator assay,no_wat,1,Bulk only (bulk_only)
+S08,https://trading.totalenergies.com/wp-content/uploads/2025/11/AKPO-BLEND.pdf,Akpo Blend assay,2020,operator assay,no_wat,1,Bulk only (bulk_only)
+S09,https://trading.totalenergies.com/wp-content/uploads/2025/11/EGINA.pdf,Egina assay,2019,operator assay,no_wat,1,Bulk only (bulk_only)
+S10,https://ir.unilag.edu.ng/handle/123456789/5771,Adeyanju and Oyekunle 2012 rheology of Nigeria waxy crude,2012,repository record,no_wat,0,"Abstract only, no numbers; full text is in Petroleum Science and Technology 30(11) 1102-1111 (paywalled)"
+S11,https://core.ac.uk/download/322410851.pdf,Taiwo et al 2012 Niger Delta waxy crude (InTech),2012,book chapter,duplicate,0,"Samples I and II already in master (R59, R60); sample III has no WAT"
+S12,https://ajol.info/index.php/njtd/article/view/226272/213536,Makwashi et al 2022 wax precipitation,2022,journal,rejected,0,"Crude is a North Sea sample, not Nigerian"
+S13,https://journals.aun.edu.ng/index.php/files/article/download/192/186/920,Usman et al 2025 paraffin wax review,2025,review,duplicate,0,"Nigerian rows are Ketebu and Sunday 2021, already in master (R33-R35)"
+S14,https://ajol.info/index.php/jasem/article/view/267303/252200,"Aprioku et al 2024 Kwale, Kula, Nembe",2024,journal,extracted,3,"Cloud point only, tier C"
+S15,(web search NNPC / NUPRC / NEITI / marginal field / NOSDRA / PTDF queries),Regulator portal searches,2026,search,rejected,0,"No regulator page with per-grade pour point, wax or WAT found; NUPRC bid round pages are news only; NOSDRA records not quality data"
+S16,https://nairametrics.com/wp-content/uploads/2015/07/2005-Annual-Statistical-Bulletin.pdf,NNPC Annual Statistical Bulletin 2005,2005,regulator report,unreachable,0,"Not opened, usage limit hit; check for grade API table. Also 2004 Part A"
+S17,https://wesr-search.unep.org/ckan/dataset/4308d3cd-b9d8-4663-93ed-96257455ea06,Nigerian Oil Spill Monitor 1994-2019,2019,dataset,unreachable,0,"Not opened, usage limit hit"
+S18,https://journals.abuad.edu.ng/index.php/ajeas/article/download/1413/943/6861,ABUAD journal article from NNPC bulletin search,,journal,unreachable,0,"Not opened, usage limit hit"
+S19,https://www.oilmonster.com/oil-grades/nigeria,Oilmonster Nigeria grades,,aggregator,unreachable,0,"Not opened, usage limit hit"
+S20,https://uilspace.unilorin.edu.ng/items/ec5c9d87-f114-4d26-a125-1ff92b525d19,Unilorin Nigerian Journal of Pure and Applied Sciences item,,repository record,unreachable,0,"Not opened, usage limit hit; appeared in NEITI and NNPC searches"
